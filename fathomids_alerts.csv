@@ -1,0 +1,2501 @@
+alert_id,timestamp,zone,severity,alert_type,response_time_min,false_positive
+1087,2026-01-01 00:14:00,Engine Room,Low,Bandwidth Anomaly,11.9,False
+2448,2026-01-01 04:14:00,Bridge,Low,Unauthorized Access,24.0,True
+9,2026-01-01 04:29:00,Crew Quarters,Medium,Malware Signature,75.7,False
+1549,2026-01-01 07:02:00,Passenger WiFi,High,Malware Signature,19.0,False
+116,2026-01-01 08:39:00,Passenger WiFi,Low,Bandwidth Anomaly,0.6,True
+1217,2026-01-01 10:00:00,Crew Quarters,Medium,Failed Login,2.9,False
+1668,2026-01-01 10:30:00,Passenger WiFi,Medium,Bandwidth Anomaly,10.6,True
+1922,2026-01-01 11:28:00,Cargo Hold,Medium,Port Scan,8.5,True
+2370,2026-01-01 11:35:00,Crew Quarters,High,Firmware Mismatch,38.4,True
+1881,2026-01-01 12:03:00,Crew Quarters,High,Failed Login,4.3,False
+181,2026-01-01 14:04:00,Bridge,High,Malware Signature,18.5,False
+1203,2026-01-01 15:16:00,Crew Quarters,Low,Unauthorized Access,6.5,False
+1878,2026-01-01 17:18:00,Cargo Hold,Low,Firmware Mismatch,4.8,False
+512,2026-01-01 19:12:00,Cargo Hold,Low,Port Scan,8.6,False
+1305,2026-01-01 19:29:00,Crew Quarters,High,Unauthorized Access,22.2,True
+1396,2026-01-01 20:17:00,Crew Quarters,High,Firmware Mismatch,0.6,True
+318,2026-01-01 20:26:00,Engine Room,Low,Firmware Mismatch,3.9,True
+2077,2026-01-01 20:39:00,Bridge,Low,Malware Signature,17.5,False
+129,2026-01-01 22:59:00,Passenger WiFi,Critical,Firmware Mismatch,34.5,False
+1985,2026-01-01 23:58:00,Engine Room,Medium,Unauthorized Access,6.2,False
+2414,2026-01-02 02:48:00,Crew Quarters,Medium,Malware Signature,2.7,True
+2472,2026-01-02 04:32:00,Cargo Hold,Medium,Bandwidth Anomaly,8.3,False
+230,2026-01-02 06:26:00,Cargo Hold,Low,Bandwidth Anomaly,37.1,False
+1111,2026-01-02 07:24:00,Bridge,Low,Unauthorized Access,8.7,False
+1189,2026-01-02 07:32:00,Engine Room,Low,Bandwidth Anomaly,1.5,False
+1842,2026-01-02 09:00:00,Bridge,Low,Failed Login,21.0,True
+127,2026-01-02 10:03:00,Passenger WiFi,Low,Unauthorized Access,29.9,True
+351,2026-01-02 10:04:00,Engine Room,Low,Unauthorized Access,1.0,False
+738,2026-01-02 12:17:00,Cargo Hold,Medium,Failed Login,10.0,False
+2436,2026-01-02 12:22:00,Passenger WiFi,Medium,Port Scan,4.7,True
+1731,2026-01-02 13:52:00,Cargo Hold,Critical,Unauthorized Access,22.5,False
+406,2026-01-02 13:56:00,Passenger WiFi,Low,Firmware Mismatch,17.9,False
+940,2026-01-02 14:25:00,Bridge,Medium,Malware Signature,0.1,False
+1258,2026-01-02 14:43:00,Crew Quarters,Low,Unauthorized Access,0.3,True
+974,2026-01-02 18:42:00,Passenger WiFi,High,Malware Signature,2.6,False
+1036,2026-01-02 18:45:00,Bridge,Medium,Bandwidth Anomaly,49.0,True
+1136,2026-01-02 18:48:00,Engine Room,Low,Port Scan,16.2,False
+1292,2026-01-02 21:27:00,Cargo Hold,Low,Unauthorized Access,3.0,False
+349,2026-01-02 21:39:00,Engine Room,Low,Failed Login,2.7,False
+866,2026-01-02 22:06:00,Passenger WiFi,Medium,Port Scan,6.4,True
+1550,2026-01-02 22:11:00,Passenger WiFi,Critical,Firmware Mismatch,12.6,True
+450,2026-01-02 22:13:00,Engine Room,Low,Firmware Mismatch,6.6,False
+1010,2026-01-02 22:21:00,Engine Room,High,Bandwidth Anomaly,5.5,False
+1618,2026-01-03 00:45:00,Bridge,Low,Failed Login,13.8,True
+288,2026-01-03 01:39:00,Passenger WiFi,Medium,Firmware Mismatch,23.0,False
+466,2026-01-03 02:51:00,Engine Room,Medium,Unauthorized Access,4.5,False
+2486,2026-01-03 05:19:00,Passenger WiFi,Medium,Port Scan,24.1,False
+1965,2026-01-03 06:02:00,Cargo Hold,Low,Port Scan,36.2,False
+2073,2026-01-03 06:57:00,Crew Quarters,Medium,Malware Signature,34.3,True
+2281,2026-01-03 09:20:00,Passenger WiFi,Medium,Bandwidth Anomaly,9.6,False
+27,2026-01-03 10:44:00,Crew Quarters,High,Firmware Mismatch,3.4,True
+1932,2026-01-03 10:44:00,Passenger WiFi,Low,Failed Login,18.9,False
+43,2026-01-03 12:08:00,Cargo Hold,Medium,Firmware Mismatch,1.8,False
+726,2026-01-03 12:34:00,Bridge,High,Unauthorized Access,18.8,False
+1644,2026-01-03 12:55:00,Bridge,Low,Unauthorized Access,5.1,False
+28,2026-01-03 15:58:00,Engine Room,Medium,Bandwidth Anomaly,12.5,False
+301,2026-01-03 16:23:00,Passenger WiFi,Low,Bandwidth Anomaly,18.8,False
+2128,2026-01-03 18:45:00,Engine Room,Critical,Malware Signature,9.8,False
+2014,2026-01-03 19:46:00,Engine Room,High,Failed Login,1.7,False
+1026,2026-01-03 22:10:00,Passenger WiFi,Medium,Malware Signature,14.7,True
+178,2026-01-04 00:42:00,Bridge,Low,Firmware Mismatch,5.7,True
+245,2026-01-04 01:56:00,Crew Quarters,Low,Bandwidth Anomaly,19.8,False
+1151,2026-01-04 02:45:00,Bridge,High,Port Scan,49.0,False
+1912,2026-01-04 03:54:00,Engine Room,High,Failed Login,18.4,False
+2018,2026-01-04 04:48:00,Crew Quarters,Low,Bandwidth Anomaly,2.0,True
+6,2026-01-04 06:04:00,Engine Room,Low,Failed Login,1.5,True
+2390,2026-01-04 06:18:00,Engine Room,Low,Malware Signature,51.9,False
+144,2026-01-04 07:07:00,Cargo Hold,Critical,Failed Login,7.3,False
+620,2026-01-04 09:33:00,Cargo Hold,Low,Unauthorized Access,1.0,True
+166,2026-01-04 11:32:00,Engine Room,Medium,Failed Login,10.5,True
+2017,2026-01-04 14:18:00,Bridge,Medium,Port Scan,30.6,False
+1800,2026-01-04 16:50:00,Bridge,Medium,Malware Signature,0.7,False
+29,2026-01-04 19:07:00,Cargo Hold,High,Failed Login,15.7,True
+943,2026-01-04 20:16:00,Crew Quarters,High,Port Scan,9.2,True
+1190,2026-01-04 21:14:00,Cargo Hold,High,Port Scan,12.9,True
+933,2026-01-05 00:32:00,Engine Room,Low,Bandwidth Anomaly,54.2,True
+898,2026-01-05 02:30:00,Bridge,Medium,Unauthorized Access,2.5,False
+2109,2026-01-05 02:53:00,Passenger WiFi,Medium,Port Scan,7.4,False
+1115,2026-01-05 04:05:00,Crew Quarters,High,Firmware Mismatch,7.5,False
+173,2026-01-05 04:34:00,Engine Room,Low,Malware Signature,19.6,True
+128,2026-01-05 05:27:00,Cargo Hold,High,Malware Signature,6.3,True
+1699,2026-01-05 06:01:00,Cargo Hold,Low,Port Scan,9.6,True
+1936,2026-01-05 06:41:00,Cargo Hold,Critical,Unauthorized Access,12.2,False
+1823,2026-01-05 09:18:00,Engine Room,Critical,Bandwidth Anomaly,60.2,True
+843,2026-01-05 13:24:00,Bridge,Low,Failed Login,6.5,True
+1727,2026-01-05 13:32:00,Crew Quarters,High,Bandwidth Anomaly,8.4,False
+1561,2026-01-05 16:32:00,Cargo Hold,Low,Unauthorized Access,1.6,False
+1383,2026-01-05 17:23:00,Engine Room,Low,Failed Login,48.0,False
+834,2026-01-05 17:24:00,Bridge,Medium,Failed Login,28.4,True
+1953,2026-01-05 18:50:00,Passenger WiFi,Low,Firmware Mismatch,12.3,False
+1380,2026-01-06 00:27:00,Engine Room,High,Port Scan,5.9,False
+1338,2026-01-06 02:43:00,Bridge,Medium,Malware Signature,11.8,False
+2154,2026-01-06 02:51:00,Cargo Hold,Medium,Malware Signature,11.0,False
+1990,2026-01-06 03:04:00,Engine Room,Medium,Failed Login,11.0,False
+570,2026-01-06 03:24:00,Crew Quarters,Medium,Port Scan,6.2,True
+17,2026-01-06 03:38:00,Cargo Hold,Medium,Bandwidth Anomaly,20.5,False
+1638,2026-01-06 08:37:00,Cargo Hold,Medium,Malware Signature,20.8,False
+793,2026-01-06 09:18:00,Cargo Hold,Low,Unauthorized Access,2.6,False
+2474,2026-01-06 10:15:00,Crew Quarters,High,Malware Signature,35.0,False
+2137,2026-01-06 12:10:00,Cargo Hold,Low,Firmware Mismatch,0.5,False
+443,2026-01-06 14:22:00,Crew Quarters,Low,Firmware Mismatch,31.0,False
+2346,2026-01-06 15:45:00,Bridge,High,Unauthorized Access,2.2,False
+2500,2026-01-06 16:52:00,Passenger WiFi,Medium,Malware Signature,6.7,False
+1781,2026-01-06 18:02:00,Cargo Hold,High,Port Scan,8.6,True
+1418,2026-01-07 00:02:00,Engine Room,High,Firmware Mismatch,4.0,False
+979,2026-01-07 00:16:00,Crew Quarters,High,Malware Signature,18.1,False
+899,2026-01-07 01:35:00,Bridge,Low,Failed Login,29.8,True
+1440,2026-01-07 04:47:00,Passenger WiFi,Low,Firmware Mismatch,19.9,False
+1926,2026-01-07 04:57:00,Passenger WiFi,High,Bandwidth Anomaly,0.1,False
+2274,2026-01-07 05:11:00,Cargo Hold,Low,Port Scan,21.5,True
+291,2026-01-07 05:28:00,Crew Quarters,Medium,Failed Login,19.9,False
+327,2026-01-07 05:39:00,Crew Quarters,Low,Bandwidth Anomaly,6.6,False
+400,2026-01-07 05:46:00,Engine Room,Medium,Bandwidth Anomaly,14.6,False
+1140,2026-01-07 06:01:00,Cargo Hold,Low,Failed Login,16.1,True
+526,2026-01-07 06:52:00,Cargo Hold,Low,Port Scan,1.1,True
+1677,2026-01-07 08:30:00,Cargo Hold,Low,Bandwidth Anomaly,14.7,False
+760,2026-01-07 08:55:00,Engine Room,Critical,Bandwidth Anomaly,9.9,False
+2341,2026-01-07 09:52:00,Crew Quarters,Medium,Port Scan,10.1,False
+1604,2026-01-07 10:21:00,Crew Quarters,Low,Malware Signature,68.7,False
+1652,2026-01-07 11:52:00,Crew Quarters,High,Firmware Mismatch,46.4,False
+252,2026-01-07 12:29:00,Cargo Hold,High,Bandwidth Anomaly,19.5,True
+2061,2026-01-07 12:57:00,Passenger WiFi,Medium,Firmware Mismatch,0.0,True
+1407,2026-01-07 13:24:00,Passenger WiFi,High,Firmware Mismatch,4.1,False
+1267,2026-01-07 14:51:00,Crew Quarters,Low,Bandwidth Anomaly,10.3,False
+1553,2026-01-07 15:37:00,Cargo Hold,High,Port Scan,32.1,False
+1675,2026-01-07 15:37:00,Passenger WiFi,Low,Firmware Mismatch,6.8,False
+404,2026-01-07 17:55:00,Passenger WiFi,Critical,Firmware Mismatch,11.0,False
+1750,2026-01-07 19:49:00,Passenger WiFi,Low,Failed Login,12.7,True
+1476,2026-01-07 19:53:00,Cargo Hold,Critical,Bandwidth Anomaly,15.3,False
+1050,2026-01-07 21:15:00,Bridge,Medium,Port Scan,36.9,True
+757,2026-01-07 21:27:00,Passenger WiFi,High,Malware Signature,1.8,False
+2186,2026-01-07 22:14:00,Bridge,Medium,Failed Login,16.7,False
+2134,2026-01-07 22:57:00,Bridge,Low,Bandwidth Anomaly,32.5,False
+2020,2026-01-08 03:37:00,Crew Quarters,Medium,Bandwidth Anomaly,12.7,False
+1746,2026-01-08 05:19:00,Cargo Hold,Low,Malware Signature,19.7,False
+207,2026-01-08 06:02:00,Passenger WiFi,Critical,Bandwidth Anomaly,8.0,False
+1137,2026-01-08 06:39:00,Engine Room,High,Unauthorized Access,8.5,True
+40,2026-01-08 14:06:00,Engine Room,Low,Unauthorized Access,19.3,False
+1003,2026-01-08 15:35:00,Cargo Hold,Low,Bandwidth Anomaly,12.7,True
+1909,2026-01-08 15:39:00,Cargo Hold,Medium,Malware Signature,18.6,True
+1974,2026-01-08 19:26:00,Bridge,Critical,Failed Login,9.9,False
+2161,2026-01-08 21:36:00,Cargo Hold,Medium,Malware Signature,9.8,False
+16,2026-01-08 22:01:00,Engine Room,High,Unauthorized Access,3.4,False
+2468,2026-01-08 22:23:00,Cargo Hold,Low,Port Scan,10.0,True
+1866,2026-01-09 00:43:00,Crew Quarters,Low,Bandwidth Anomaly,1.0,False
+316,2026-01-09 00:46:00,Engine Room,Low,Firmware Mismatch,1.0,True
+1621,2026-01-09 01:33:00,Cargo Hold,Medium,Bandwidth Anomaly,1.3,True
+1540,2026-01-09 02:01:00,Cargo Hold,Low,Port Scan,39.8,False
+995,2026-01-09 02:27:00,Passenger WiFi,High,Bandwidth Anomaly,0.1,True
+294,2026-01-09 02:46:00,Cargo Hold,Medium,Bandwidth Anomaly,1.2,True
+2225,2026-01-09 05:49:00,Cargo Hold,Critical,Port Scan,18.3,False
+1791,2026-01-09 08:17:00,Engine Room,Low,Malware Signature,19.5,False
+490,2026-01-09 08:36:00,Engine Room,Medium,Malware Signature,8.6,True
+2321,2026-01-09 09:48:00,Engine Room,Medium,Unauthorized Access,17.4,False
+1402,2026-01-09 10:57:00,Passenger WiFi,Low,Port Scan,22.2,True
+2347,2026-01-09 12:18:00,Cargo Hold,Critical,Port Scan,21.7,True
+1806,2026-01-09 13:11:00,Engine Room,High,Unauthorized Access,52.0,True
+76,2026-01-09 13:19:00,Engine Room,High,Malware Signature,4.7,True
+1999,2026-01-09 16:04:00,Passenger WiFi,Medium,Port Scan,7.8,False
+1223,2026-01-09 17:08:00,Cargo Hold,Medium,Port Scan,7.4,False
+2202,2026-01-09 18:01:00,Crew Quarters,Medium,Malware Signature,2.0,False
+1510,2026-01-09 20:59:00,Engine Room,Low,Unauthorized Access,22.6,False
+2245,2026-01-09 21:09:00,Engine Room,High,Malware Signature,12.4,False
+1766,2026-01-09 22:47:00,Crew Quarters,Low,Port Scan,5.6,False
+1340,2026-01-09 22:54:00,Passenger WiFi,High,Malware Signature,1.5,True
+1017,2026-01-10 01:00:00,Passenger WiFi,High,Bandwidth Anomaly,5.8,False
+1366,2026-01-10 02:36:00,Engine Room,Medium,Firmware Mismatch,17.2,True
+1276,2026-01-10 03:26:00,Engine Room,Low,Firmware Mismatch,29.9,True
+688,2026-01-10 03:37:00,Bridge,Low,Firmware Mismatch,2.0,True
+1913,2026-01-10 05:45:00,Cargo Hold,Medium,Failed Login,36.4,True
+1387,2026-01-10 07:41:00,Bridge,Medium,Unauthorized Access,4.8,True
+2292,2026-01-10 08:40:00,Crew Quarters,Medium,Firmware Mismatch,0.7,True
+527,2026-01-10 12:06:00,Passenger WiFi,Low,Firmware Mismatch,40.5,False
+309,2026-01-10 12:43:00,Passenger WiFi,Low,Port Scan,5.1,False
+983,2026-01-10 12:53:00,Cargo Hold,Low,Bandwidth Anomaly,23.0,False
+131,2026-01-10 14:07:00,Crew Quarters,Critical,Firmware Mismatch,16.7,False
+1918,2026-01-10 14:37:00,Crew Quarters,Low,Bandwidth Anomaly,15.4,True
+1404,2026-01-10 16:40:00,Bridge,Low,Failed Login,20.7,False
+1794,2026-01-10 20:20:00,Crew Quarters,Low,Failed Login,0.6,False
+487,2026-01-10 21:38:00,Bridge,Low,Bandwidth Anomaly,1.1,False
+1284,2026-01-10 23:50:00,Engine Room,Medium,Port Scan,2.4,False
+1405,2026-01-11 00:59:00,Bridge,Low,Port Scan,48.8,False
+1324,2026-01-11 01:36:00,Passenger WiFi,Medium,Malware Signature,34.8,True
+41,2026-01-11 04:43:00,Cargo Hold,Medium,Bandwidth Anomaly,10.6,False
+784,2026-01-11 06:44:00,Crew Quarters,Medium,Malware Signature,31.5,False
+474,2026-01-11 08:44:00,Passenger WiFi,Medium,Malware Signature,16.8,True
+642,2026-01-11 08:58:00,Passenger WiFi,High,Unauthorized Access,12.1,False
+118,2026-01-11 15:36:00,Crew Quarters,Medium,Port Scan,16.8,False
+1772,2026-01-11 19:10:00,Bridge,High,Malware Signature,19.8,False
+1544,2026-01-11 19:17:00,Crew Quarters,Low,Unauthorized Access,20.2,False
+304,2026-01-11 23:03:00,Passenger WiFi,Medium,Firmware Mismatch,3.3,False
+607,2026-01-11 23:32:00,Cargo Hold,Medium,Bandwidth Anomaly,8.5,True
+1296,2026-01-11 23:40:00,Engine Room,High,Firmware Mismatch,11.0,False
+1975,2026-01-12 00:22:00,Engine Room,Low,Bandwidth Anomaly,6.0,False
+2070,2026-01-12 03:22:00,Crew Quarters,High,Malware Signature,25.0,False
+1361,2026-01-12 04:54:00,Passenger WiFi,Medium,Malware Signature,10.6,False
+1018,2026-01-12 05:03:00,Passenger WiFi,Low,Bandwidth Anomaly,19.7,False
+180,2026-01-12 05:47:00,Bridge,Medium,Failed Login,17.3,True
+200,2026-01-12 06:49:00,Cargo Hold,Medium,Port Scan,16.4,False
+2434,2026-01-12 06:51:00,Bridge,Medium,Firmware Mismatch,4.9,False
+2270,2026-01-12 07:15:00,Cargo Hold,Medium,Port Scan,11.1,True
+1334,2026-01-12 07:42:00,Bridge,High,Unauthorized Access,13.1,False
+1318,2026-01-12 14:42:00,Engine Room,Medium,Malware Signature,48.6,False
+361,2026-01-12 16:26:00,Cargo Hold,Medium,Firmware Mismatch,14.0,True
+2406,2026-01-12 19:41:00,Cargo Hold,High,Malware Signature,25.4,True
+1162,2026-01-12 20:03:00,Bridge,Low,Failed Login,5.2,False
+892,2026-01-12 20:25:00,Passenger WiFi,High,Unauthorized Access,4.5,True
+2193,2026-01-13 00:59:00,Passenger WiFi,Critical,Bandwidth Anomaly,2.0,False
+2224,2026-01-13 01:57:00,Passenger WiFi,Low,Firmware Mismatch,14.8,False
+647,2026-01-13 02:05:00,Crew Quarters,Critical,Failed Login,42.5,False
+147,2026-01-13 02:23:00,Cargo Hold,Medium,Port Scan,1.6,True
+1728,2026-01-13 03:19:00,Engine Room,High,Firmware Mismatch,62.4,True
+113,2026-01-13 04:20:00,Passenger WiFi,Critical,Unauthorized Access,6.0,False
+846,2026-01-13 04:29:00,Passenger WiFi,Low,Port Scan,31.5,True
+2432,2026-01-13 07:48:00,Passenger WiFi,Low,Unauthorized Access,2.9,False
+164,2026-01-13 08:33:00,Bridge,High,Bandwidth Anomaly,2.7,False
+2217,2026-01-13 09:31:00,Engine Room,Low,Malware Signature,33.4,False
+396,2026-01-13 09:48:00,Passenger WiFi,Medium,Bandwidth Anomaly,30.4,False
+1273,2026-01-13 10:00:00,Bridge,Low,Bandwidth Anomaly,10.9,False
+679,2026-01-13 13:50:00,Passenger WiFi,High,Unauthorized Access,13.7,False
+925,2026-01-13 13:55:00,Crew Quarters,Medium,Malware Signature,9.0,False
+1188,2026-01-13 15:21:00,Crew Quarters,Critical,Port Scan,4.0,False
+1958,2026-01-13 17:09:00,Bridge,Medium,Port Scan,20.7,False
+1381,2026-01-13 18:53:00,Bridge,Medium,Bandwidth Anomaly,19.2,False
+1244,2026-01-14 06:42:00,Engine Room,Low,Failed Login,13.0,True
+755,2026-01-14 07:33:00,Crew Quarters,Critical,Failed Login,9.9,True
+1737,2026-01-14 08:02:00,Cargo Hold,Low,Bandwidth Anomaly,8.6,True
+2373,2026-01-14 08:52:00,Bridge,Medium,Firmware Mismatch,29.2,False
+1886,2026-01-14 09:25:00,Bridge,Low,Bandwidth Anomaly,3.6,False
+844,2026-01-14 10:04:00,Bridge,Medium,Unauthorized Access,5.9,False
+125,2026-01-14 10:36:00,Bridge,Medium,Port Scan,35.0,False
+488,2026-01-14 11:49:00,Crew Quarters,Low,Bandwidth Anomaly,6.4,False
+1793,2026-01-14 13:42:00,Bridge,Critical,Bandwidth Anomaly,56.9,False
+876,2026-01-14 16:19:00,Cargo Hold,Low,Failed Login,0.6,True
+453,2026-01-14 17:57:00,Passenger WiFi,High,Firmware Mismatch,14.4,False
+600,2026-01-14 18:10:00,Passenger WiFi,Low,Port Scan,2.3,False
+1615,2026-01-14 21:30:00,Bridge,Medium,Bandwidth Anomaly,12.5,False
+1070,2026-01-14 22:18:00,Bridge,Low,Bandwidth Anomaly,43.1,True
+2427,2026-01-14 22:48:00,Passenger WiFi,Medium,Firmware Mismatch,10.0,True
+2367,2026-01-14 23:12:00,Crew Quarters,Low,Malware Signature,1.9,False
+2025,2026-01-15 00:22:00,Cargo Hold,Low,Malware Signature,1.4,False
+1328,2026-01-15 00:57:00,Cargo Hold,Low,Firmware Mismatch,26.8,True
+2056,2026-01-15 01:22:00,Cargo Hold,Low,Firmware Mismatch,21.3,True
+2287,2026-01-15 01:29:00,Passenger WiFi,Medium,Port Scan,18.0,False
+2092,2026-01-15 03:09:00,Engine Room,Low,Port Scan,11.2,False
+2256,2026-01-15 07:40:00,Cargo Hold,Low,Bandwidth Anomaly,12.9,True
+1663,2026-01-15 08:19:00,Engine Room,Critical,Port Scan,16.7,False
+2031,2026-01-15 10:30:00,Bridge,Low,Firmware Mismatch,15.8,True
+669,2026-01-15 11:25:00,Engine Room,Medium,Bandwidth Anomaly,12.5,False
+2477,2026-01-15 13:38:00,Bridge,Low,Unauthorized Access,21.3,False
+381,2026-01-15 14:54:00,Engine Room,Low,Unauthorized Access,14.8,False
+579,2026-01-15 15:16:00,Engine Room,Low,Port Scan,9.5,False
+434,2026-01-15 19:42:00,Crew Quarters,Medium,Firmware Mismatch,15.2,False
+1104,2026-01-15 21:40:00,Crew Quarters,Low,Failed Login,17.8,False
+824,2026-01-15 21:46:00,Crew Quarters,Critical,Port Scan,30.7,False
+1264,2026-01-15 23:42:00,Bridge,Medium,Unauthorized Access,10.5,False
+1146,2026-01-15 23:53:00,Cargo Hold,High,Firmware Mismatch,29.1,False
+730,2026-01-16 02:38:00,Bridge,Low,Unauthorized Access,4.6,False
+1465,2026-01-16 02:57:00,Passenger WiFi,Critical,Failed Login,27.5,False
+1694,2026-01-16 06:11:00,Passenger WiFi,High,Port Scan,11.3,True
+982,2026-01-16 06:16:00,Cargo Hold,Low,Port Scan,10.2,False
+1261,2026-01-16 06:51:00,Passenger WiFi,Medium,Port Scan,14.8,False
+1773,2026-01-16 09:15:00,Crew Quarters,Critical,Firmware Mismatch,8.5,True
+192,2026-01-16 12:01:00,Passenger WiFi,Medium,Firmware Mismatch,7.3,False
+2199,2026-01-16 12:27:00,Cargo Hold,High,Port Scan,14.0,False
+1569,2026-01-16 16:48:00,Cargo Hold,Medium,Firmware Mismatch,0.2,False
+1048,2026-01-16 18:13:00,Crew Quarters,Critical,Port Scan,2.3,True
+2058,2026-01-16 18:28:00,Engine Room,Critical,Firmware Mismatch,17.5,False
+1170,2026-01-16 20:59:00,Passenger WiFi,High,Firmware Mismatch,2.5,True
+1801,2026-01-16 21:18:00,Crew Quarters,High,Firmware Mismatch,12.4,False
+243,2026-01-16 22:00:00,Bridge,Medium,Bandwidth Anomaly,15.6,False
+313,2026-01-16 22:56:00,Engine Room,Low,Bandwidth Anomaly,0.5,False
+1732,2026-01-16 23:35:00,Engine Room,Low,Bandwidth Anomaly,20.7,False
+718,2026-01-17 00:50:00,Engine Room,Medium,Failed Login,72.6,True
+558,2026-01-17 01:20:00,Passenger WiFi,High,Unauthorized Access,14.1,True
+603,2026-01-17 02:18:00,Passenger WiFi,High,Port Scan,15.3,False
+587,2026-01-17 04:32:00,Cargo Hold,Low,Failed Login,0.3,False
+693,2026-01-17 05:12:00,Cargo Hold,Low,Firmware Mismatch,5.9,False
+1524,2026-01-17 08:36:00,Bridge,Critical,Malware Signature,5.7,False
+573,2026-01-17 10:07:00,Crew Quarters,Low,Failed Login,3.7,True
+1630,2026-01-17 10:19:00,Cargo Hold,Critical,Bandwidth Anomaly,6.2,False
+1796,2026-01-17 13:16:00,Passenger WiFi,Medium,Firmware Mismatch,1.8,False
+852,2026-01-17 14:45:00,Passenger WiFi,Medium,Bandwidth Anomaly,6.4,False
+1602,2026-01-17 18:08:00,Engine Room,Medium,Port Scan,2.1,False
+1906,2026-01-17 20:32:00,Passenger WiFi,High,Malware Signature,24.6,False
+2473,2026-01-17 20:59:00,Cargo Hold,Medium,Failed Login,12.7,False
+472,2026-01-17 21:17:00,Passenger WiFi,Low,Failed Login,13.9,False
+1221,2026-01-17 23:06:00,Engine Room,Low,Malware Signature,4.7,False
+832,2026-01-18 01:42:00,Crew Quarters,Low,Malware Signature,12.9,True
+1929,2026-01-18 02:17:00,Engine Room,Low,Unauthorized Access,3.5,True
+380,2026-01-18 04:18:00,Passenger WiFi,Medium,Malware Signature,20.0,False
+747,2026-01-18 04:39:00,Crew Quarters,Low,Port Scan,1.7,False
+2067,2026-01-18 04:39:00,Bridge,Medium,Port Scan,44.0,True
+972,2026-01-18 04:49:00,Passenger WiFi,High,Malware Signature,1.7,False
+99,2026-01-18 07:18:00,Engine Room,Medium,Failed Login,7.4,False
+1576,2026-01-18 08:58:00,Crew Quarters,Low,Malware Signature,2.3,False
+1290,2026-01-18 09:54:00,Passenger WiFi,Medium,Malware Signature,18.2,True
+593,2026-01-18 10:31:00,Passenger WiFi,Critical,Port Scan,8.1,True
+1893,2026-01-18 11:02:00,Engine Room,Low,Bandwidth Anomaly,23.7,False
+300,2026-01-18 11:10:00,Bridge,Medium,Unauthorized Access,18.5,False
+2471,2026-01-18 11:33:00,Bridge,High,Firmware Mismatch,6.0,False
+2278,2026-01-18 11:58:00,Bridge,Critical,Bandwidth Anomaly,2.7,True
+2214,2026-01-18 12:26:00,Bridge,Medium,Malware Signature,21.6,False
+407,2026-01-18 14:23:00,Bridge,Medium,Port Scan,16.7,False
+1088,2026-01-18 17:54:00,Crew Quarters,Low,Bandwidth Anomaly,12.6,False
+604,2026-01-18 19:01:00,Cargo Hold,Medium,Unauthorized Access,28.8,True
+1283,2026-01-18 20:49:00,Passenger WiFi,Medium,Bandwidth Anomaly,15.9,False
+286,2026-01-18 21:06:00,Passenger WiFi,Medium,Firmware Mismatch,19.6,True
+393,2026-01-18 21:51:00,Passenger WiFi,High,Bandwidth Anomaly,5.9,False
+2430,2026-01-18 22:13:00,Cargo Hold,Low,Firmware Mismatch,45.8,False
+1468,2026-01-18 22:39:00,Engine Room,High,Malware Signature,31.9,False
+325,2026-01-19 00:04:00,Bridge,Low,Bandwidth Anomaly,18.2,False
+2135,2026-01-19 03:35:00,Passenger WiFi,Low,Port Scan,15.7,True
+1818,2026-01-19 03:42:00,Passenger WiFi,Medium,Unauthorized Access,123.9,False
+1311,2026-01-19 05:26:00,Bridge,Low,Bandwidth Anomaly,33.5,False
+1419,2026-01-19 05:47:00,Cargo Hold,High,Unauthorized Access,12.8,False
+1811,2026-01-19 06:54:00,Engine Room,Critical,Malware Signature,2.8,False
+1024,2026-01-19 09:44:00,Passenger WiFi,Low,Malware Signature,8.7,False
+1365,2026-01-19 10:15:00,Passenger WiFi,Low,Failed Login,3.8,False
+1376,2026-01-19 10:49:00,Engine Room,Low,Unauthorized Access,6.2,False
+684,2026-01-19 11:58:00,Engine Room,Low,Malware Signature,20.7,False
+1594,2026-01-19 12:12:00,Cargo Hold,High,Failed Login,6.3,False
+1591,2026-01-19 14:41:00,Cargo Hold,High,Failed Login,3.0,False
+650,2026-01-19 15:00:00,Engine Room,Medium,Failed Login,7.9,False
+1789,2026-01-19 18:35:00,Passenger WiFi,Medium,Unauthorized Access,1.5,False
+2204,2026-01-19 18:48:00,Passenger WiFi,Medium,Failed Login,0.2,False
+1930,2026-01-19 21:28:00,Passenger WiFi,Medium,Unauthorized Access,4.1,True
+2012,2026-01-20 01:14:00,Engine Room,Low,Firmware Mismatch,3.3,True
+1471,2026-01-20 03:07:00,Engine Room,Low,Bandwidth Anomaly,5.3,False
+363,2026-01-20 05:59:00,Cargo Hold,Low,Firmware Mismatch,27.6,False
+295,2026-01-20 06:26:00,Cargo Hold,Medium,Unauthorized Access,14.4,True
+751,2026-01-20 06:42:00,Cargo Hold,Medium,Firmware Mismatch,10.7,False
+2059,2026-01-20 06:57:00,Cargo Hold,High,Bandwidth Anomaly,12.6,True
+2499,2026-01-20 08:00:00,Crew Quarters,Low,Malware Signature,32.7,False
+2497,2026-01-20 08:41:00,Crew Quarters,Medium,Malware Signature,44.1,True
+568,2026-01-20 10:19:00,Passenger WiFi,Low,Firmware Mismatch,4.2,False
+1099,2026-01-20 10:42:00,Cargo Hold,Low,Unauthorized Access,21.0,False
+1348,2026-01-20 12:50:00,Passenger WiFi,High,Bandwidth Anomaly,47.5,False
+1016,2026-01-20 12:55:00,Bridge,Low,Port Scan,10.7,False
+2085,2026-01-20 15:23:00,Cargo Hold,Low,Failed Login,2.8,False
+2475,2026-01-20 17:24:00,Cargo Hold,High,Malware Signature,7.5,True
+21,2026-01-20 19:31:00,Engine Room,Low,Port Scan,38.5,False
+988,2026-01-20 19:55:00,Cargo Hold,High,Bandwidth Anomaly,9.8,True
+2397,2026-01-20 22:00:00,Engine Room,Medium,Port Scan,5.0,False
+743,2026-01-20 23:44:00,Engine Room,High,Bandwidth Anomaly,11.5,False
+424,2026-01-21 00:44:00,Engine Room,Medium,Bandwidth Anomaly,16.9,False
+759,2026-01-21 01:48:00,Passenger WiFi,Medium,Failed Login,11.3,False
+214,2026-01-21 04:44:00,Engine Room,Medium,Port Scan,22.4,False
+849,2026-01-21 08:15:00,Bridge,Low,Bandwidth Anomaly,6.9,False
+1425,2026-01-21 08:55:00,Crew Quarters,Low,Port Scan,7.5,False
+782,2026-01-21 09:11:00,Bridge,Low,Bandwidth Anomaly,2.8,False
+1574,2026-01-21 10:20:00,Passenger WiFi,Medium,Port Scan,13.1,False
+1181,2026-01-21 10:25:00,Engine Room,Low,Failed Login,4.0,False
+1730,2026-01-21 11:18:00,Engine Room,Low,Firmware Mismatch,13.7,True
+1715,2026-01-21 12:56:00,Cargo Hold,Low,Firmware Mismatch,2.2,True
+686,2026-01-21 12:56:00,Bridge,Medium,Failed Login,0.9,False
+2013,2026-01-21 13:10:00,Crew Quarters,Low,Unauthorized Access,33.9,False
+485,2026-01-21 15:02:00,Bridge,Medium,Unauthorized Access,54.0,False
+1410,2026-01-21 15:40:00,Bridge,Low,Port Scan,1.7,False
+2231,2026-01-21 15:42:00,Passenger WiFi,Low,Unauthorized Access,9.7,False
+553,2026-01-21 16:31:00,Engine Room,High,Malware Signature,5.0,False
+1430,2026-01-21 17:01:00,Engine Room,Low,Firmware Mismatch,1.5,False
+1490,2026-01-21 20:15:00,Crew Quarters,High,Unauthorized Access,12.9,False
+2053,2026-01-21 20:32:00,Bridge,Low,Bandwidth Anomaly,1.9,True
+1248,2026-01-22 00:19:00,Engine Room,Low,Unauthorized Access,0.4,True
+714,2026-01-22 03:23:00,Crew Quarters,Low,Bandwidth Anomaly,13.8,True
+2021,2026-01-22 03:35:00,Cargo Hold,Low,Port Scan,9.8,False
+1369,2026-01-22 05:18:00,Cargo Hold,Low,Failed Login,12.4,True
+37,2026-01-22 06:01:00,Crew Quarters,Medium,Unauthorized Access,32.1,False
+987,2026-01-22 10:21:00,Passenger WiFi,High,Port Scan,1.1,False
+1535,2026-01-22 10:55:00,Passenger WiFi,High,Port Scan,10.8,False
+861,2026-01-22 11:37:00,Bridge,Low,Port Scan,16.2,True
+1942,2026-01-22 11:40:00,Bridge,Critical,Firmware Mismatch,22.6,False
+1339,2026-01-22 11:52:00,Cargo Hold,Low,Firmware Mismatch,0.1,False
+491,2026-01-22 13:27:00,Bridge,Medium,Bandwidth Anomaly,25.5,False
+1159,2026-01-22 16:39:00,Engine Room,High,Firmware Mismatch,50.8,True
+2239,2026-01-22 16:45:00,Engine Room,Medium,Failed Login,2.6,False
+1485,2026-01-22 16:51:00,Bridge,Medium,Unauthorized Access,17.1,False
+795,2026-01-22 21:35:00,Cargo Hold,Medium,Bandwidth Anomaly,8.9,True
+26,2026-01-22 21:52:00,Crew Quarters,Low,Bandwidth Anomaly,9.0,True
+822,2026-01-22 22:08:00,Cargo Hold,High,Port Scan,52.1,False
+1392,2026-01-22 22:56:00,Bridge,Low,Firmware Mismatch,27.1,False
+1464,2026-01-22 23:15:00,Cargo Hold,Low,Firmware Mismatch,36.9,True
+170,2026-01-23 00:05:00,Cargo Hold,Medium,Port Scan,28.3,False
+1443,2026-01-23 00:44:00,Engine Room,Medium,Malware Signature,16.9,False
+2425,2026-01-23 00:51:00,Passenger WiFi,Low,Bandwidth Anomaly,5.2,False
+1597,2026-01-23 02:37:00,Engine Room,Low,Firmware Mismatch,10.9,False
+830,2026-01-23 03:41:00,Bridge,Medium,Port Scan,1.8,True
+1247,2026-01-23 05:32:00,Crew Quarters,High,Firmware Mismatch,33.8,True
+621,2026-01-23 08:22:00,Passenger WiFi,Low,Failed Login,13.7,False
+2095,2026-01-23 09:08:00,Engine Room,Medium,Port Scan,8.8,False
+2060,2026-01-23 09:12:00,Passenger WiFi,Medium,Malware Signature,17.3,True
+1642,2026-01-23 10:32:00,Crew Quarters,Medium,Failed Login,5.1,False
+53,2026-01-23 12:41:00,Cargo Hold,Medium,Port Scan,132.0,True
+403,2026-01-23 17:15:00,Bridge,High,Port Scan,6.2,False
+949,2026-01-23 19:05:00,Passenger WiFi,Critical,Port Scan,0.6,False
+15,2026-01-23 19:21:00,Cargo Hold,Low,Malware Signature,17.1,False
+1254,2026-01-23 22:57:00,Cargo Hold,Low,Unauthorized Access,12.3,False
+1279,2026-01-23 23:51:00,Engine Room,Low,Bandwidth Anomaly,1.9,False
+1632,2026-01-23 23:56:00,Engine Room,Medium,Firmware Mismatch,29.3,False
+1740,2026-01-24 04:45:00,Cargo Hold,Medium,Unauthorized Access,8.1,True
+818,2026-01-24 05:25:00,Bridge,Low,Malware Signature,5.2,True
+965,2026-01-24 06:36:00,Crew Quarters,High,Bandwidth Anomaly,5.6,False
+221,2026-01-24 07:15:00,Engine Room,Low,Malware Signature,28.3,True
+2049,2026-01-24 08:18:00,Crew Quarters,Low,Malware Signature,6.0,True
+806,2026-01-24 13:58:00,Engine Room,High,Failed Login,32.1,False
+444,2026-01-24 14:38:00,Crew Quarters,High,Unauthorized Access,10.5,False
+907,2026-01-24 15:06:00,Passenger WiFi,Critical,Port Scan,23.1,False
+35,2026-01-24 15:14:00,Crew Quarters,Low,Port Scan,32.5,True
+2305,2026-01-24 17:30:00,Engine Room,Low,Malware Signature,13.3,False
+1301,2026-01-24 18:12:00,Passenger WiFi,High,Port Scan,22.4,True
+183,2026-01-24 19:12:00,Bridge,Medium,Firmware Mismatch,1.2,False
+2100,2026-01-24 19:57:00,Crew Quarters,High,Port Scan,0.1,False
+758,2026-01-24 20:50:00,Engine Room,Critical,Port Scan,24.3,True
+1578,2026-01-24 23:02:00,Cargo Hold,Low,Port Scan,2.3,True
+365,2026-01-25 01:10:00,Cargo Hold,Low,Bandwidth Anomaly,16.1,False
+749,2026-01-25 01:27:00,Bridge,Low,Failed Login,9.9,True
+1362,2026-01-25 04:18:00,Crew Quarters,High,Unauthorized Access,53.4,True
+2331,2026-01-25 06:01:00,Bridge,High,Unauthorized Access,0.3,False
+2146,2026-01-25 11:43:00,Passenger WiFi,High,Malware Signature,2.0,False
+1769,2026-01-25 12:09:00,Bridge,Medium,Unauthorized Access,1.4,True
+341,2026-01-25 12:55:00,Bridge,Medium,Bandwidth Anomaly,14.9,False
+1462,2026-01-25 15:41:00,Cargo Hold,Low,Malware Signature,23.2,False
+268,2026-01-25 15:48:00,Bridge,Low,Malware Signature,8.0,True
+1502,2026-01-25 15:54:00,Engine Room,Low,Malware Signature,0.7,False
+1851,2026-01-25 16:25:00,Engine Room,Low,Malware Signature,17.4,True
+1588,2026-01-25 19:37:00,Bridge,Medium,Unauthorized Access,18.4,False
+645,2026-01-25 19:45:00,Passenger WiFi,Critical,Unauthorized Access,7.7,False
+1614,2026-01-25 20:01:00,Cargo Hold,Medium,Firmware Mismatch,11.0,False
+2232,2026-01-25 21:24:00,Cargo Hold,Low,Bandwidth Anomaly,17.5,False
+2316,2026-01-25 22:13:00,Engine Room,Low,Failed Login,20.1,False
+2320,2026-01-25 23:54:00,Crew Quarters,Medium,Firmware Mismatch,20.4,False
+2363,2026-01-26 01:13:00,Passenger WiFi,Low,Unauthorized Access,39.3,False
+161,2026-01-26 01:52:00,Crew Quarters,High,Bandwidth Anomaly,18.2,False
+2317,2026-01-26 03:56:00,Passenger WiFi,Low,Bandwidth Anomaly,3.3,True
+1941,2026-01-26 05:19:00,Engine Room,High,Unauthorized Access,6.7,False
+185,2026-01-26 07:28:00,Engine Room,High,Failed Login,8.8,True
+2264,2026-01-26 10:50:00,Cargo Hold,High,Bandwidth Anomaly,6.6,False
+120,2026-01-26 11:15:00,Engine Room,High,Bandwidth Anomaly,32.2,False
+1454,2026-01-26 12:31:00,Crew Quarters,High,Failed Login,90.4,False
+283,2026-01-26 12:32:00,Bridge,Medium,Port Scan,6.1,False
+1626,2026-01-26 13:40:00,Bridge,Low,Port Scan,11.3,False
+216,2026-01-26 14:32:00,Crew Quarters,Low,Bandwidth Anomaly,8.9,False
+23,2026-01-26 14:41:00,Cargo Hold,Low,Bandwidth Anomaly,19.6,False
+1703,2026-01-26 15:55:00,Cargo Hold,Low,Firmware Mismatch,2.1,False
+373,2026-01-26 16:23:00,Engine Room,Critical,Unauthorized Access,0.5,False
+219,2026-01-26 16:46:00,Bridge,High,Unauthorized Access,5.6,True
+1575,2026-01-26 19:56:00,Passenger WiFi,Medium,Port Scan,0.9,False
+470,2026-01-26 22:41:00,Cargo Hold,Low,Malware Signature,3.3,True
+2299,2026-01-26 23:53:00,Passenger WiFi,Low,Bandwidth Anomaly,16.6,False
+7,2026-01-27 01:08:00,Crew Quarters,Low,Port Scan,0.4,False
+1020,2026-01-27 01:24:00,Cargo Hold,Low,Bandwidth Anomaly,20.0,True
+2360,2026-01-27 02:27:00,Engine Room,Low,Firmware Mismatch,30.5,False
+201,2026-01-27 02:32:00,Engine Room,Medium,Failed Login,1.7,True
+978,2026-01-27 03:47:00,Engine Room,High,Port Scan,0.2,True
+2087,2026-01-27 04:44:00,Passenger WiFi,Low,Unauthorized Access,55.6,False
+2404,2026-01-27 06:15:00,Engine Room,Medium,Firmware Mismatch,13.6,False
+1382,2026-01-27 06:17:00,Bridge,High,Firmware Mismatch,16.1,False
+2259,2026-01-27 06:48:00,Engine Room,High,Unauthorized Access,24.7,False
+191,2026-01-27 09:05:00,Engine Room,Low,Malware Signature,57.9,True
+562,2026-01-27 09:15:00,Bridge,Medium,Malware Signature,0.1,True
+1231,2026-01-27 09:19:00,Crew Quarters,Medium,Unauthorized Access,11.0,True
+2358,2026-01-27 11:46:00,Passenger WiFi,Medium,Bandwidth Anomaly,2.3,False
+735,2026-01-27 12:19:00,Bridge,Low,Failed Login,5.0,False
+2439,2026-01-27 12:46:00,Engine Room,Low,Unauthorized Access,5.2,True
+1004,2026-01-27 13:14:00,Cargo Hold,High,Firmware Mismatch,0.7,False
+873,2026-01-27 13:45:00,Bridge,Low,Firmware Mismatch,14.0,True
+1647,2026-01-27 14:22:00,Engine Room,Low,Failed Login,28.7,True
+1442,2026-01-27 15:00:00,Crew Quarters,High,Port Scan,19.1,False
+2313,2026-01-27 15:06:00,Bridge,Low,Unauthorized Access,19.7,True
+887,2026-01-27 15:20:00,Engine Room,Medium,Malware Signature,19.8,False
+462,2026-01-27 15:48:00,Engine Room,Medium,Port Scan,43.4,True
+563,2026-01-27 20:43:00,Passenger WiFi,High,Unauthorized Access,3.9,False
+105,2026-01-27 22:13:00,Bridge,Critical,Failed Login,8.0,True
+2153,2026-01-27 22:55:00,Passenger WiFi,Low,Bandwidth Anomaly,1.5,False
+1095,2026-01-28 00:53:00,Crew Quarters,Low,Unauthorized Access,6.9,False
+2148,2026-01-28 02:01:00,Passenger WiFi,Medium,Unauthorized Access,16.7,False
+1139,2026-01-28 04:17:00,Cargo Hold,Low,Malware Signature,73.6,False
+2469,2026-01-28 05:35:00,Passenger WiFi,High,Firmware Mismatch,2.5,False
+1980,2026-01-28 06:12:00,Crew Quarters,Low,Firmware Mismatch,23.7,False
+1106,2026-01-28 07:22:00,Passenger WiFi,High,Bandwidth Anomaly,0.9,False
+880,2026-01-28 09:21:00,Crew Quarters,Low,Firmware Mismatch,3.9,True
+31,2026-01-28 12:07:00,Crew Quarters,Medium,Failed Login,9.2,True
+399,2026-01-28 13:56:00,Cargo Hold,High,Malware Signature,18.8,False
+785,2026-01-28 16:51:00,Passenger WiFi,Medium,Port Scan,12.0,True
+1390,2026-01-28 18:06:00,Cargo Hold,Low,Port Scan,4.8,True
+1437,2026-01-28 19:44:00,Passenger WiFi,Medium,Port Scan,40.4,False
+1691,2026-01-28 21:04:00,Bridge,Medium,Bandwidth Anomaly,2.0,False
+2220,2026-01-28 21:43:00,Passenger WiFi,Medium,Unauthorized Access,122.1,False
+1505,2026-01-28 22:26:00,Bridge,Critical,Failed Login,21.2,True
+963,2026-01-29 01:23:00,Engine Room,Medium,Port Scan,83.4,True
+681,2026-01-29 07:00:00,Passenger WiFi,Medium,Malware Signature,24.2,False
+1164,2026-01-29 07:42:00,Cargo Hold,Medium,Bandwidth Anomaly,16.6,True
+623,2026-01-29 09:02:00,Cargo Hold,Low,Unauthorized Access,1.0,True
+1033,2026-01-29 09:22:00,Bridge,Low,Failed Login,24.7,False
+2003,2026-01-29 10:52:00,Engine Room,High,Failed Login,0.6,True
+1711,2026-01-29 11:14:00,Engine Room,Low,Firmware Mismatch,15.6,True
+848,2026-01-29 11:33:00,Crew Quarters,High,Failed Login,24.5,False
+1790,2026-01-29 12:25:00,Cargo Hold,Low,Unauthorized Access,1.5,True
+2230,2026-01-29 14:52:00,Crew Quarters,Low,Unauthorized Access,1.0,False
+2332,2026-01-29 16:06:00,Crew Quarters,Low,Firmware Mismatch,0.9,False
+2355,2026-01-29 16:36:00,Crew Quarters,Medium,Malware Signature,5.1,False
+1306,2026-01-29 19:15:00,Engine Room,Medium,Failed Login,27.7,False
+566,2026-01-29 20:06:00,Cargo Hold,Low,Firmware Mismatch,24.0,True
+1986,2026-01-29 20:25:00,Crew Quarters,Low,Firmware Mismatch,1.7,True
+2210,2026-01-29 23:08:00,Passenger WiFi,Medium,Malware Signature,8.6,False
+1538,2026-01-29 23:18:00,Passenger WiFi,Low,Failed Login,5.2,False
+1153,2026-01-30 03:00:00,Crew Quarters,High,Unauthorized Access,1.0,True
+1015,2026-01-30 06:32:00,Crew Quarters,Low,Failed Login,13.2,False
+499,2026-01-30 06:45:00,Bridge,High,Unauthorized Access,7.8,False
+520,2026-01-30 06:55:00,Crew Quarters,Critical,Firmware Mismatch,12.3,False
+1030,2026-01-30 08:39:00,Bridge,Medium,Bandwidth Anomaly,35.3,False
+2293,2026-01-30 09:12:00,Crew Quarters,Critical,Unauthorized Access,4.6,False
+1847,2026-01-30 11:43:00,Bridge,Low,Failed Login,27.4,False
+2254,2026-01-30 11:51:00,Bridge,Low,Bandwidth Anomaly,2.9,False
+677,2026-01-30 13:42:00,Passenger WiFi,Medium,Unauthorized Access,11.5,False
+1093,2026-01-30 14:53:00,Engine Room,Medium,Unauthorized Access,5.0,True
+702,2026-01-30 15:25:00,Crew Quarters,Low,Failed Login,19.1,False
+2169,2026-01-30 15:29:00,Crew Quarters,Medium,Firmware Mismatch,23.7,False
+2389,2026-01-30 16:03:00,Engine Room,Medium,Firmware Mismatch,14.6,False
+132,2026-01-30 19:25:00,Passenger WiFi,Low,Bandwidth Anomaly,16.4,False
+1698,2026-01-30 20:53:00,Passenger WiFi,Low,Port Scan,27.4,False
+346,2026-01-30 21:30:00,Engine Room,High,Unauthorized Access,4.7,False
+1973,2026-01-30 21:54:00,Engine Room,High,Failed Login,0.3,False
+409,2026-01-30 21:57:00,Passenger WiFi,Medium,Port Scan,20.4,False
+2284,2026-01-30 23:46:00,Bridge,Medium,Bandwidth Anomaly,8.1,False
+1110,2026-01-31 01:22:00,Crew Quarters,Medium,Port Scan,5.8,False
+2283,2026-01-31 02:15:00,Crew Quarters,High,Failed Login,35.8,True
+1045,2026-01-31 03:43:00,Crew Quarters,Low,Failed Login,9.8,False
+895,2026-01-31 04:15:00,Bridge,Medium,Malware Signature,29.9,True
+786,2026-01-31 09:07:00,Bridge,Low,Bandwidth Anomaly,16.0,False
+615,2026-01-31 10:02:00,Bridge,Medium,Unauthorized Access,49.4,False
+1337,2026-01-31 12:43:00,Engine Room,Medium,Bandwidth Anomaly,2.3,False
+1492,2026-01-31 13:16:00,Engine Room,Low,Failed Login,11.2,True
+561,2026-01-31 14:19:00,Bridge,High,Port Scan,0.4,False
+2466,2026-01-31 16:20:00,Crew Quarters,Medium,Failed Login,14.9,False
+1039,2026-01-31 20:16:00,Engine Room,Medium,Unauthorized Access,7.6,False
+1641,2026-01-31 21:25:00,Passenger WiFi,Low,Malware Signature,15.0,False
+711,2026-01-31 21:34:00,Passenger WiFi,Medium,Unauthorized Access,8.5,False
+767,2026-01-31 21:39:00,Engine Room,High,Failed Login,4.8,True
+1142,2026-02-01 00:59:00,Passenger WiFi,Low,Failed Login,1.7,True
+1427,2026-02-01 01:58:00,Cargo Hold,High,Bandwidth Anomaly,26.8,False
+2454,2026-02-01 02:25:00,Cargo Hold,Medium,Malware Signature,16.0,True
+636,2026-02-01 02:28:00,Bridge,Low,Port Scan,2.6,False
+188,2026-02-01 03:25:00,Bridge,Medium,Malware Signature,17.2,False
+821,2026-02-01 04:32:00,Bridge,Low,Failed Login,5.8,False
+792,2026-02-01 04:55:00,Passenger WiFi,Low,Firmware Mismatch,10.7,False
+1342,2026-02-01 05:20:00,Bridge,Medium,Bandwidth Anomaly,19.4,False
+107,2026-02-01 06:58:00,Crew Quarters,Medium,Bandwidth Anomaly,3.1,False
+2057,2026-02-01 07:59:00,Cargo Hold,Critical,Failed Login,13.1,True
+51,2026-02-01 08:17:00,Cargo Hold,Medium,Unauthorized Access,1.6,True
+630,2026-02-01 08:24:00,Cargo Hold,High,Bandwidth Anomaly,5.1,True
+673,2026-02-01 13:50:00,Passenger WiFi,Low,Port Scan,16.5,False
+422,2026-02-01 15:13:00,Cargo Hold,Low,Port Scan,14.0,False
+2102,2026-02-01 16:53:00,Cargo Hold,Medium,Firmware Mismatch,16.2,True
+1386,2026-02-01 17:35:00,Passenger WiFi,Critical,Failed Login,19.3,False
+2206,2026-02-01 17:49:00,Passenger WiFi,Low,Unauthorized Access,0.7,True
+644,2026-02-01 20:14:00,Crew Quarters,Medium,Firmware Mismatch,4.8,False
+1379,2026-02-01 21:12:00,Bridge,Low,Malware Signature,23.0,False
+1234,2026-02-02 01:34:00,Engine Room,Low,Failed Login,5.3,True
+989,2026-02-02 01:43:00,Crew Quarters,Medium,Port Scan,2.8,False
+1097,2026-02-02 07:19:00,Cargo Hold,High,Failed Login,17.9,False
+1808,2026-02-02 07:19:00,Crew Quarters,Medium,Malware Signature,23.4,False
+1144,2026-02-02 10:12:00,Engine Room,Low,Failed Login,11.2,True
+240,2026-02-02 10:13:00,Passenger WiFi,High,Firmware Mismatch,1.7,False
+1349,2026-02-02 10:23:00,Bridge,Medium,Unauthorized Access,32.3,True
+2417,2026-02-02 10:26:00,Engine Room,High,Unauthorized Access,6.6,False
+1738,2026-02-02 12:01:00,Passenger WiFi,Low,Unauthorized Access,3.8,True
+1704,2026-02-02 14:58:00,Engine Room,High,Unauthorized Access,17.1,False
+1925,2026-02-02 15:17:00,Cargo Hold,Low,Bandwidth Anomaly,2.5,False
+946,2026-02-02 16:33:00,Crew Quarters,Low,Bandwidth Anomaly,13.4,True
+275,2026-02-02 17:24:00,Crew Quarters,High,Malware Signature,5.6,False
+585,2026-02-02 17:50:00,Crew Quarters,Low,Firmware Mismatch,12.8,False
+1473,2026-02-02 19:11:00,Crew Quarters,Medium,Malware Signature,27.5,True
+356,2026-02-02 19:18:00,Crew Quarters,Low,Unauthorized Access,33.3,False
+1934,2026-02-02 19:34:00,Crew Quarters,Low,Unauthorized Access,6.0,True
+1959,2026-02-02 21:17:00,Cargo Hold,Low,Firmware Mismatch,1.8,True
+1198,2026-02-02 21:33:00,Passenger WiFi,Medium,Firmware Mismatch,3.3,False
+142,2026-02-02 23:13:00,Passenger WiFi,High,Bandwidth Anomaly,10.7,True
+308,2026-02-02 23:30:00,Cargo Hold,Critical,Bandwidth Anomaly,8.5,False
+805,2026-02-03 01:58:00,Engine Room,High,Port Scan,5.1,True
+1928,2026-02-03 03:05:00,Crew Quarters,Medium,Unauthorized Access,25.7,False
+458,2026-02-03 03:32:00,Crew Quarters,Low,Port Scan,22.0,False
+1593,2026-02-03 05:16:00,Bridge,Medium,Bandwidth Anomaly,7.3,False
+83,2026-02-03 05:55:00,Passenger WiFi,Medium,Failed Login,24.9,False
+2291,2026-02-03 06:35:00,Cargo Hold,Critical,Port Scan,18.7,True
+900,2026-02-03 10:17:00,Crew Quarters,Medium,Failed Login,4.6,True
+2237,2026-02-03 11:20:00,Cargo Hold,High,Failed Login,4.9,False
+1028,2026-02-03 12:52:00,Engine Room,Critical,Bandwidth Anomaly,21.2,False
+1537,2026-02-03 13:23:00,Passenger WiFi,Critical,Unauthorized Access,11.1,False
+813,2026-02-03 14:29:00,Bridge,Critical,Port Scan,1.5,False
+881,2026-02-03 15:49:00,Cargo Hold,Low,Port Scan,20.2,False
+227,2026-02-03 18:30:00,Engine Room,Critical,Malware Signature,15.0,True
+583,2026-02-03 18:45:00,Bridge,High,Failed Login,20.5,True
+1817,2026-02-03 23:22:00,Cargo Hold,Medium,Malware Signature,31.8,True
+1617,2026-02-04 00:47:00,Cargo Hold,Medium,Malware Signature,48.8,False
+45,2026-02-04 01:28:00,Engine Room,Low,Malware Signature,4.1,False
+1023,2026-02-04 05:04:00,Crew Quarters,High,Unauthorized Access,10.4,False
+1857,2026-02-04 05:59:00,Bridge,Low,Port Scan,4.5,False
+1814,2026-02-04 07:47:00,Crew Quarters,Medium,Firmware Mismatch,23.0,True
+1487,2026-02-04 07:56:00,Engine Room,High,Unauthorized Access,2.4,False
+62,2026-02-04 08:29:00,Cargo Hold,High,Unauthorized Access,33.7,False
+1960,2026-02-04 13:53:00,Passenger WiFi,Low,Bandwidth Anomaly,4.3,False
+1777,2026-02-04 16:32:00,Passenger WiFi,Low,Bandwidth Anomaly,8.9,False
+2266,2026-02-04 18:31:00,Engine Room,Medium,Failed Login,28.5,True
+1756,2026-02-04 19:59:00,Engine Room,Low,Unauthorized Access,34.0,True
+1108,2026-02-05 00:33:00,Passenger WiFi,Medium,Port Scan,11.5,False
+1220,2026-02-05 06:20:00,Bridge,Low,Malware Signature,4.0,False
+839,2026-02-05 12:09:00,Crew Quarters,Low,Bandwidth Anomaly,2.1,False
+2215,2026-02-05 13:12:00,Passenger WiFi,High,Port Scan,26.9,True
+2455,2026-02-05 14:44:00,Crew Quarters,Critical,Unauthorized Access,0.1,False
+1749,2026-02-05 15:05:00,Passenger WiFi,Low,Failed Login,9.9,False
+135,2026-02-05 15:17:00,Crew Quarters,High,Bandwidth Anomaly,48.9,False
+1854,2026-02-05 18:00:00,Bridge,High,Failed Login,12.3,False
+49,2026-02-05 18:45:00,Engine Room,Critical,Bandwidth Anomaly,4.5,False
+2126,2026-02-05 18:58:00,Engine Room,Low,Port Scan,13.6,False
+2357,2026-02-05 20:54:00,Cargo Hold,Low,Port Scan,8.3,False
+324,2026-02-05 22:36:00,Bridge,Medium,Firmware Mismatch,10.0,False
+884,2026-02-05 23:33:00,Crew Quarters,Critical,Malware Signature,18.1,True
+1321,2026-02-06 01:13:00,Engine Room,High,Port Scan,28.0,False
+2340,2026-02-06 02:10:00,Cargo Hold,Medium,Malware Signature,7.5,True
+1423,2026-02-06 02:33:00,Passenger WiFi,Low,Port Scan,6.5,False
+1775,2026-02-06 03:00:00,Passenger WiFi,Medium,Port Scan,14.1,True
+999,2026-02-06 04:29:00,Cargo Hold,Low,Port Scan,20.0,False
+2189,2026-02-06 09:26:00,Bridge,Low,Failed Login,35.1,True
+1128,2026-02-06 09:28:00,Passenger WiFi,High,Port Scan,8.9,False
+284,2026-02-06 09:39:00,Cargo Hold,High,Port Scan,13.3,False
+1112,2026-02-06 09:56:00,Cargo Hold,Medium,Malware Signature,26.9,False
+624,2026-02-06 12:07:00,Cargo Hold,High,Bandwidth Anomaly,53.9,True
+296,2026-02-06 12:17:00,Passenger WiFi,Critical,Port Scan,16.4,False
+2150,2026-02-06 13:01:00,Cargo Hold,Low,Bandwidth Anomaly,8.9,False
+473,2026-02-06 13:02:00,Engine Room,Critical,Port Scan,0.9,True
+690,2026-02-06 14:29:00,Crew Quarters,High,Firmware Mismatch,5.1,False
+1558,2026-02-06 14:46:00,Crew Quarters,Low,Unauthorized Access,34.2,False
+1998,2026-02-06 15:39:00,Bridge,Low,Port Scan,17.6,False
+589,2026-02-06 16:39:00,Cargo Hold,Low,Firmware Mismatch,29.3,True
+2257,2026-02-06 19:29:00,Passenger WiFi,Low,Malware Signature,6.6,False
+1534,2026-02-06 20:54:00,Crew Quarters,Critical,Bandwidth Anomaly,64.4,False
+1721,2026-02-06 22:37:00,Cargo Hold,Low,Port Scan,5.1,False
+2402,2026-02-07 00:27:00,Cargo Hold,Low,Bandwidth Anomaly,2.0,True
+1839,2026-02-07 00:42:00,Crew Quarters,High,Bandwidth Anomaly,4.7,False
+1171,2026-02-07 02:18:00,Crew Quarters,Medium,Bandwidth Anomaly,8.7,False
+2394,2026-02-07 04:24:00,Passenger WiFi,Low,Unauthorized Access,12.9,True
+3,2026-02-07 05:22:00,Crew Quarters,High,Unauthorized Access,20.2,False
+1903,2026-02-07 05:34:00,Engine Room,High,Malware Signature,32.8,True
+496,2026-02-07 06:23:00,Bridge,Medium,Failed Login,9.1,False
+254,2026-02-07 08:28:00,Crew Quarters,Critical,Unauthorized Access,2.3,True
+577,2026-02-07 08:52:00,Engine Room,Critical,Unauthorized Access,18.3,False
+48,2026-02-07 10:50:00,Passenger WiFi,High,Malware Signature,1.4,True
+1546,2026-02-07 13:23:00,Bridge,Low,Malware Signature,4.8,True
+75,2026-02-07 13:58:00,Passenger WiFi,Critical,Firmware Mismatch,1.7,False
+2174,2026-02-07 18:57:00,Crew Quarters,High,Unauthorized Access,43.7,True
+1650,2026-02-08 02:29:00,Cargo Hold,High,Port Scan,7.5,True
+1208,2026-02-08 03:02:00,Crew Quarters,Low,Firmware Mismatch,16.9,False
+1420,2026-02-08 04:18:00,Engine Room,Low,Malware Signature,25.9,False
+639,2026-02-08 04:46:00,Cargo Hold,Low,Bandwidth Anomaly,13.3,False
+226,2026-02-08 05:15:00,Bridge,High,Failed Login,24.2,False
+2387,2026-02-08 06:15:00,Cargo Hold,Medium,Malware Signature,11.3,False
+731,2026-02-08 06:30:00,Passenger WiFi,Low,Bandwidth Anomaly,8.4,False
+1322,2026-02-08 06:54:00,Crew Quarters,Medium,Port Scan,14.2,False
+1251,2026-02-08 07:24:00,Cargo Hold,Low,Bandwidth Anomaly,1.3,True
+1411,2026-02-08 07:31:00,Crew Quarters,Medium,Port Scan,12.8,False
+2108,2026-02-08 07:55:00,Cargo Hold,Low,Malware Signature,0.6,True
+1914,2026-02-08 08:22:00,Crew Quarters,Medium,Bandwidth Anomaly,15.9,False
+748,2026-02-08 09:05:00,Crew Quarters,Low,Failed Login,27.7,False
+1482,2026-02-08 09:17:00,Passenger WiFi,Low,Firmware Mismatch,1.5,False
+606,2026-02-08 10:02:00,Crew Quarters,Medium,Malware Signature,32.1,False
+2074,2026-02-08 11:23:00,Passenger WiFi,High,Bandwidth Anomaly,19.7,False
+456,2026-02-08 12:07:00,Engine Room,Critical,Unauthorized Access,36.0,False
+560,2026-02-08 12:57:00,Cargo Hold,High,Port Scan,5.4,False
+1166,2026-02-08 13:04:00,Engine Room,Low,Port Scan,4.4,True
+1178,2026-02-08 14:54:00,Bridge,Critical,Failed Login,1.9,False
+1499,2026-02-08 17:12:00,Cargo Hold,Medium,Firmware Mismatch,12.2,True
+2190,2026-02-08 18:13:00,Passenger WiFi,Low,Bandwidth Anomaly,1.8,False
+2275,2026-02-08 18:20:00,Bridge,Medium,Bandwidth Anomaly,46.6,False
+1845,2026-02-08 18:51:00,Passenger WiFi,Low,Bandwidth Anomaly,9.9,False
+260,2026-02-08 19:13:00,Engine Room,Low,Malware Signature,8.7,True
+2365,2026-02-08 19:48:00,Crew Quarters,High,Unauthorized Access,17.6,False
+1103,2026-02-08 19:49:00,Bridge,High,Port Scan,13.7,False
+1211,2026-02-08 19:56:00,Passenger WiFi,High,Unauthorized Access,15.6,False
+701,2026-02-08 20:02:00,Crew Quarters,Medium,Bandwidth Anomaly,13.4,False
+1086,2026-02-08 21:33:00,Bridge,Medium,Unauthorized Access,29.3,True
+962,2026-02-09 01:27:00,Engine Room,Low,Unauthorized Access,95.1,False
+412,2026-02-09 01:45:00,Engine Room,Low,Port Scan,9.9,True
+447,2026-02-09 04:43:00,Crew Quarters,Critical,Firmware Mismatch,19.0,False
+1692,2026-02-09 04:44:00,Cargo Hold,Low,Malware Signature,25.2,False
+2255,2026-02-09 06:16:00,Engine Room,Critical,Malware Signature,1.0,False
+277,2026-02-09 06:31:00,Passenger WiFi,Medium,Firmware Mismatch,22.4,False
+1952,2026-02-09 06:37:00,Engine Room,Critical,Malware Signature,3.9,False
+1060,2026-02-09 07:12:00,Passenger WiFi,Low,Bandwidth Anomaly,19.9,True
+1229,2026-02-09 08:00:00,Crew Quarters,High,Bandwidth Anomaly,1.7,True
+1656,2026-02-09 18:13:00,Engine Room,Low,Bandwidth Anomaly,2.4,False
+215,2026-02-09 20:11:00,Crew Quarters,Medium,Firmware Mismatch,8.9,False
+519,2026-02-09 22:39:00,Passenger WiFi,High,Firmware Mismatch,19.6,True
+2388,2026-02-09 23:10:00,Crew Quarters,Low,Malware Signature,7.5,True
+514,2026-02-09 23:23:00,Cargo Hold,High,Port Scan,8.4,False
+1182,2026-02-10 00:52:00,Cargo Hold,Medium,Unauthorized Access,14.0,False
+2072,2026-02-10 01:04:00,Cargo Hold,Critical,Unauthorized Access,39.2,False
+232,2026-02-10 02:11:00,Bridge,High,Malware Signature,3.2,True
+871,2026-02-10 02:19:00,Crew Quarters,Low,Port Scan,0.2,False
+872,2026-02-10 06:29:00,Cargo Hold,Medium,Firmware Mismatch,2.7,True
+1678,2026-02-10 08:33:00,Engine Room,Low,Bandwidth Anomaly,15.9,True
+637,2026-02-10 09:03:00,Bridge,Low,Port Scan,0.2,False
+2411,2026-02-10 09:06:00,Bridge,Low,Unauthorized Access,48.1,False
+2371,2026-02-10 09:29:00,Passenger WiFi,Medium,Bandwidth Anomaly,32.3,True
+2369,2026-02-10 12:23:00,Passenger WiFi,Medium,Port Scan,51.7,False
+2015,2026-02-10 15:26:00,Passenger WiFi,Low,Failed Login,18.4,False
+1216,2026-02-10 15:32:00,Crew Quarters,Low,Firmware Mismatch,17.0,False
+2260,2026-02-10 17:13:00,Engine Room,High,Port Scan,6.9,False
+2288,2026-02-10 17:23:00,Engine Room,Medium,Unauthorized Access,0.0,False
+1439,2026-02-10 20:24:00,Engine Room,Medium,Malware Signature,14.9,True
+1215,2026-02-10 22:12:00,Bridge,Low,Unauthorized Access,1.2,False
+2311,2026-02-10 22:17:00,Bridge,High,Firmware Mismatch,34.0,True
+1916,2026-02-11 03:26:00,Passenger WiFi,High,Failed Login,6.7,False
+625,2026-02-11 06:27:00,Engine Room,Low,Port Scan,11.8,False
+1761,2026-02-11 07:30:00,Cargo Hold,Medium,Unauthorized Access,5.9,False
+1874,2026-02-11 08:00:00,Bridge,Medium,Port Scan,11.1,False
+2374,2026-02-11 08:40:00,Crew Quarters,Medium,Malware Signature,0.7,False
+1230,2026-02-11 11:07:00,Passenger WiFi,Medium,Malware Signature,17.8,False
+1606,2026-02-11 11:11:00,Bridge,Medium,Bandwidth Anomaly,8.8,True
+956,2026-02-11 11:55:00,Bridge,High,Malware Signature,5.8,False
+1446,2026-02-11 12:16:00,Crew Quarters,High,Failed Login,7.2,True
+345,2026-02-11 13:13:00,Engine Room,Low,Unauthorized Access,1.8,False
+2179,2026-02-11 14:39:00,Bridge,High,Malware Signature,0.9,False
+2106,2026-02-11 14:58:00,Crew Quarters,Low,Malware Signature,6.7,True
+1113,2026-02-11 15:02:00,Engine Room,Critical,Malware Signature,39.8,False
+883,2026-02-11 16:27:00,Crew Quarters,Low,Unauthorized Access,29.4,False
+909,2026-02-11 17:23:00,Bridge,Medium,Port Scan,2.2,False
+1795,2026-02-11 22:51:00,Passenger WiFi,High,Bandwidth Anomaly,8.8,False
+2386,2026-02-12 01:34:00,Bridge,Low,Unauthorized Access,17.9,False
+57,2026-02-12 02:11:00,Cargo Hold,Low,Bandwidth Anomaly,38.0,True
+709,2026-02-12 05:07:00,Bridge,Medium,Port Scan,7.7,False
+1429,2026-02-12 06:01:00,Passenger WiFi,Critical,Malware Signature,19.8,False
+199,2026-02-12 06:13:00,Passenger WiFi,Medium,Malware Signature,34.6,False
+79,2026-02-12 07:17:00,Cargo Hold,Medium,Port Scan,0.2,False
+2494,2026-02-12 10:06:00,Passenger WiFi,Low,Firmware Mismatch,57.6,False
+2218,2026-02-12 10:41:00,Engine Room,Low,Port Scan,9.5,False
+1186,2026-02-12 11:58:00,Crew Quarters,Low,Malware Signature,20.4,False
+2348,2026-02-12 12:18:00,Bridge,Low,Port Scan,0.3,False
+2240,2026-02-12 13:40:00,Crew Quarters,Medium,Bandwidth Anomaly,6.2,True
+2149,2026-02-12 20:01:00,Engine Room,Critical,Bandwidth Anomaly,34.2,False
+1526,2026-02-12 23:24:00,Crew Quarters,High,Bandwidth Anomaly,0.5,False
+1330,2026-02-12 23:51:00,Bridge,Low,Malware Signature,5.2,True
+952,2026-02-13 00:55:00,Crew Quarters,Medium,Bandwidth Anomaly,21.2,True
+1684,2026-02-13 02:46:00,Crew Quarters,Low,Bandwidth Anomaly,12.2,False
+182,2026-02-13 02:55:00,Crew Quarters,Medium,Firmware Mismatch,6.7,True
+1924,2026-02-13 04:27:00,Crew Quarters,Critical,Unauthorized Access,41.7,False
+1,2026-02-13 04:35:00,Cargo Hold,High,Unauthorized Access,9.6,False
+800,2026-02-13 04:51:00,Crew Quarters,Medium,Port Scan,5.5,False
+1373,2026-02-13 05:04:00,Passenger WiFi,Medium,Malware Signature,48.9,False
+1858,2026-02-13 05:26:00,Passenger WiFi,Critical,Malware Signature,5.2,False
+1810,2026-02-13 05:34:00,Bridge,Low,Failed Login,6.4,True
+2449,2026-02-13 06:43:00,Crew Quarters,Low,Firmware Mismatch,11.6,False
+2089,2026-02-13 07:13:00,Bridge,Critical,Bandwidth Anomaly,8.3,False
+1314,2026-02-13 08:00:00,Bridge,Low,Failed Login,10.3,False
+1884,2026-02-13 09:11:00,Bridge,Low,Firmware Mismatch,9.1,True
+1185,2026-02-13 11:21:00,Passenger WiFi,Medium,Failed Login,25.2,False
+2304,2026-02-13 12:05:00,Bridge,Low,Unauthorized Access,4.5,False
+12,2026-02-13 12:38:00,Crew Quarters,High,Failed Login,2.9,False
+671,2026-02-13 15:09:00,Crew Quarters,Medium,Port Scan,1.6,False
+94,2026-02-13 16:05:00,Crew Quarters,Low,Malware Signature,7.3,False
+901,2026-02-13 16:49:00,Crew Quarters,Low,Port Scan,13.4,True
+659,2026-02-13 19:58:00,Bridge,High,Port Scan,2.4,True
+87,2026-02-13 21:31:00,Bridge,High,Bandwidth Anomaly,46.8,False
+783,2026-02-13 21:57:00,Bridge,Low,Malware Signature,28.5,False
+455,2026-02-13 22:10:00,Cargo Hold,Low,Malware Signature,7.4,True
+913,2026-02-13 22:16:00,Crew Quarters,Medium,Unauthorized Access,9.5,True
+212,2026-02-14 00:49:00,Cargo Hold,Low,Unauthorized Access,0.2,False
+539,2026-02-14 01:35:00,Engine Room,Medium,Failed Login,0.7,True
+2098,2026-02-14 04:17:00,Bridge,Medium,Bandwidth Anomaly,1.6,True
+2104,2026-02-14 08:22:00,Cargo Hold,Medium,Failed Login,9.1,True
+2487,2026-02-14 09:13:00,Crew Quarters,Low,Malware Signature,6.4,False
+2470,2026-02-14 12:36:00,Bridge,Low,Malware Signature,6.9,False
+509,2026-02-14 12:40:00,Passenger WiFi,High,Firmware Mismatch,33.4,False
+282,2026-02-14 14:37:00,Passenger WiFi,High,Failed Login,2.2,False
+649,2026-02-14 15:47:00,Bridge,Medium,Malware Signature,12.5,False
+384,2026-02-14 16:55:00,Cargo Hold,Low,Unauthorized Access,16.9,True
+854,2026-02-14 17:00:00,Engine Room,Low,Failed Login,2.6,False
+1939,2026-02-14 17:13:00,Cargo Hold,Low,Port Scan,40.1,True
+2164,2026-02-14 17:46:00,Engine Room,Low,Malware Signature,2.0,False
+419,2026-02-14 17:49:00,Passenger WiFi,Low,Firmware Mismatch,5.0,True
+1235,2026-02-14 18:01:00,Engine Room,Medium,Port Scan,4.6,True
+1911,2026-02-14 19:29:00,Crew Quarters,Medium,Port Scan,1.8,False
+2339,2026-02-14 19:56:00,Passenger WiFi,Low,Failed Login,2.5,False
+1226,2026-02-14 22:24:00,Cargo Hold,Medium,Firmware Mismatch,2.5,False
+790,2026-02-15 00:58:00,Bridge,Medium,Malware Signature,29.7,True
+205,2026-02-15 02:43:00,Cargo Hold,Low,Unauthorized Access,26.2,True
+905,2026-02-15 02:51:00,Cargo Hold,Low,Unauthorized Access,1.2,True
+775,2026-02-15 04:00:00,Engine Room,Low,Firmware Mismatch,7.2,False
+2191,2026-02-15 06:07:00,Cargo Hold,Low,Unauthorized Access,2.9,True
+397,2026-02-15 08:51:00,Passenger WiFi,Low,Unauthorized Access,10.4,False
+591,2026-02-15 09:08:00,Bridge,Critical,Port Scan,0.1,True
+465,2026-02-15 09:17:00,Engine Room,High,Firmware Mismatch,9.7,False
+2246,2026-02-15 09:36:00,Passenger WiFi,Medium,Failed Login,16.7,False
+838,2026-02-15 09:46:00,Engine Room,Medium,Firmware Mismatch,6.5,True
+1875,2026-02-15 10:21:00,Bridge,Critical,Port Scan,7.7,True
+746,2026-02-15 11:51:00,Crew Quarters,Low,Failed Login,41.4,False
+765,2026-02-15 19:05:00,Engine Room,Low,Firmware Mismatch,21.7,True
+480,2026-02-15 20:20:00,Passenger WiFi,Medium,Bandwidth Anomaly,5.5,True
+2314,2026-02-15 20:22:00,Engine Room,Medium,Firmware Mismatch,37.5,True
+1905,2026-02-15 22:36:00,Cargo Hold,Low,Port Scan,20.4,True
+1175,2026-02-16 00:01:00,Cargo Hold,Medium,Failed Login,16.6,False
+344,2026-02-16 01:44:00,Cargo Hold,Medium,Firmware Mismatch,52.8,False
+1619,2026-02-16 02:30:00,Engine Room,Medium,Firmware Mismatch,12.3,True
+1848,2026-02-16 03:26:00,Engine Room,Medium,Bandwidth Anomaly,5.3,False
+117,2026-02-16 06:47:00,Engine Room,High,Failed Login,37.4,False
+378,2026-02-16 07:00:00,Engine Room,Critical,Malware Signature,3.5,False
+1989,2026-02-16 08:53:00,Bridge,Low,Port Scan,0.5,False
+379,2026-02-16 09:09:00,Engine Room,Low,Malware Signature,11.6,True
+2175,2026-02-16 11:29:00,Engine Room,Low,Failed Login,39.9,False
+276,2026-02-16 12:34:00,Crew Quarters,High,Failed Login,32.6,True
+1898,2026-02-16 14:23:00,Engine Room,Low,Malware Signature,25.1,False
+322,2026-02-16 15:24:00,Engine Room,High,Firmware Mismatch,32.2,False
+1034,2026-02-16 15:42:00,Crew Quarters,Low,Failed Login,6.6,False
+517,2026-02-16 17:25:00,Engine Room,Medium,Bandwidth Anomaly,2.4,True
+1536,2026-02-16 17:46:00,Bridge,High,Firmware Mismatch,40.8,False
+1751,2026-02-16 18:36:00,Bridge,Medium,Bandwidth Anomaly,26.2,False
+501,2026-02-16 19:31:00,Cargo Hold,High,Malware Signature,3.9,False
+885,2026-02-16 19:32:00,Bridge,Medium,Port Scan,7.7,False
+25,2026-02-16 21:59:00,Bridge,Low,Failed Login,1.0,False
+388,2026-02-16 23:36:00,Engine Room,Low,Firmware Mismatch,1.3,False
+2026,2026-02-16 23:45:00,Passenger WiFi,Low,Unauthorized Access,0.3,False
+1987,2026-02-17 00:44:00,Cargo Hold,High,Malware Signature,4.6,False
+441,2026-02-17 01:22:00,Bridge,Low,Unauthorized Access,16.3,False
+1401,2026-02-17 03:07:00,Crew Quarters,Medium,Failed Login,31.2,False
+1493,2026-02-17 05:36:00,Bridge,High,Port Scan,32.6,False
+724,2026-02-17 06:33:00,Cargo Hold,Low,Failed Login,4.0,True
+2030,2026-02-17 06:49:00,Bridge,Medium,Firmware Mismatch,14.5,False
+859,2026-02-17 07:10:00,Bridge,Low,Firmware Mismatch,25.8,False
+576,2026-02-17 08:32:00,Passenger WiFi,Low,Failed Login,2.5,True
+280,2026-02-17 10:28:00,Crew Quarters,Low,Unauthorized Access,4.7,True
+415,2026-02-17 12:59:00,Bridge,Low,Firmware Mismatch,0.4,True
+54,2026-02-17 15:19:00,Passenger WiFi,Medium,Unauthorized Access,0.0,True
+367,2026-02-17 16:15:00,Cargo Hold,Medium,Malware Signature,12.3,False
+1250,2026-02-17 18:13:00,Cargo Hold,Low,Bandwidth Anomaly,19.2,True
+2216,2026-02-17 20:05:00,Passenger WiFi,Medium,Bandwidth Anomaly,6.4,True
+545,2026-02-17 20:30:00,Bridge,Low,Port Scan,11.3,False
+657,2026-02-17 21:55:00,Bridge,Medium,Bandwidth Anomaly,94.8,True
+1718,2026-02-17 22:56:00,Crew Quarters,Critical,Bandwidth Anomaly,16.2,False
+691,2026-02-17 23:18:00,Passenger WiFi,Low,Failed Login,28.8,False
+80,2026-02-17 23:54:00,Cargo Hold,Medium,Malware Signature,22.8,False
+1240,2026-02-18 03:43:00,Bridge,High,Malware Signature,17.3,False
+666,2026-02-18 05:09:00,Bridge,Low,Failed Login,25.6,False
+1701,2026-02-18 07:37:00,Cargo Hold,Low,Malware Signature,4.0,False
+1555,2026-02-18 08:14:00,Bridge,Low,Failed Login,2.0,False
+1595,2026-02-18 08:57:00,Passenger WiFi,Critical,Bandwidth Anomaly,31.1,False
+1760,2026-02-18 11:35:00,Engine Room,High,Port Scan,7.9,True
+1213,2026-02-18 12:46:00,Crew Quarters,Critical,Bandwidth Anomaly,2.7,False
+323,2026-02-18 13:36:00,Engine Room,Medium,Unauthorized Access,44.4,False
+2435,2026-02-18 14:25:00,Cargo Hold,Medium,Bandwidth Anomaly,109.3,False
+30,2026-02-18 16:37:00,Cargo Hold,Low,Unauthorized Access,5.4,True
+1187,2026-02-18 18:31:00,Bridge,Medium,Port Scan,16.3,False
+1919,2026-02-18 19:45:00,Passenger WiFi,High,Unauthorized Access,6.0,False
+665,2026-02-18 21:56:00,Crew Quarters,Medium,Firmware Mismatch,23.3,True
+149,2026-02-18 22:24:00,Engine Room,Low,Failed Login,1.3,True
+1864,2026-02-19 01:20:00,Passenger WiFi,Medium,Bandwidth Anomaly,1.6,True
+202,2026-02-19 05:09:00,Crew Quarters,Low,Failed Login,16.7,False
+32,2026-02-19 06:06:00,Cargo Hold,Low,Unauthorized Access,4.9,False
+1651,2026-02-19 10:12:00,Cargo Hold,Medium,Port Scan,4.6,False
+1804,2026-02-19 11:59:00,Cargo Hold,Low,Port Scan,2.4,True
+850,2026-02-19 13:20:00,Crew Quarters,Medium,Failed Login,28.9,False
+1169,2026-02-19 13:47:00,Engine Room,Medium,Malware Signature,7.7,True
+1904,2026-02-19 14:52:00,Bridge,Critical,Failed Login,1.6,True
+1853,2026-02-19 15:00:00,Bridge,High,Firmware Mismatch,14.1,False
+2393,2026-02-19 16:00:00,Engine Room,Low,Failed Login,7.8,False
+777,2026-02-19 16:09:00,Engine Room,Low,Malware Signature,16.7,False
+1612,2026-02-19 17:36:00,Bridge,Critical,Unauthorized Access,25.3,False
+1413,2026-02-19 18:52:00,Cargo Hold,High,Firmware Mismatch,29.0,False
+2428,2026-02-19 19:29:00,Engine Room,Critical,Malware Signature,5.7,True
+1661,2026-02-19 20:55:00,Engine Room,Low,Firmware Mismatch,24.2,False
+2483,2026-02-20 01:56:00,Engine Room,Medium,Bandwidth Anomaly,64.1,False
+1992,2026-02-20 02:04:00,Bridge,Critical,Malware Signature,12.4,False
+1528,2026-02-20 04:06:00,Engine Room,Critical,Port Scan,27.1,False
+1747,2026-02-20 05:59:00,Engine Room,Critical,Unauthorized Access,7.3,True
+703,2026-02-20 06:17:00,Engine Room,High,Firmware Mismatch,20.5,False
+2456,2026-02-20 07:21:00,Passenger WiFi,Low,Malware Signature,39.4,False
+72,2026-02-20 14:37:00,Passenger WiFi,Medium,Malware Signature,17.7,False
+1096,2026-02-20 15:49:00,Engine Room,Medium,Firmware Mismatch,2.3,False
+1133,2026-02-20 16:35:00,Passenger WiFi,Low,Port Scan,2.4,True
+2426,2026-02-20 17:41:00,Passenger WiFi,Critical,Bandwidth Anomaly,1.2,True
+2080,2026-02-20 17:51:00,Cargo Hold,High,Firmware Mismatch,39.6,False
+927,2026-02-20 19:12:00,Engine Room,Low,Port Scan,7.4,False
+329,2026-02-20 19:23:00,Engine Room,Medium,Bandwidth Anomaly,43.9,False
+1008,2026-02-20 20:10:00,Bridge,Low,Malware Signature,10.6,False
+929,2026-02-20 21:17:00,Bridge,Low,Firmware Mismatch,38.8,False
+1272,2026-02-21 02:22:00,Engine Room,Medium,Failed Login,6.6,True
+36,2026-02-21 04:41:00,Passenger WiFi,Medium,Port Scan,0.2,False
+504,2026-02-21 05:16:00,Crew Quarters,Critical,Failed Login,1.4,True
+1445,2026-02-21 06:08:00,Engine Room,Low,Bandwidth Anomaly,10.1,False
+299,2026-02-21 07:34:00,Cargo Hold,Medium,Failed Login,31.1,False
+2172,2026-02-21 08:15:00,Bridge,Low,Malware Signature,15.3,False
+2438,2026-02-21 09:31:00,Passenger WiFi,Medium,Port Scan,16.2,False
+1627,2026-02-21 09:32:00,Passenger WiFi,Low,Malware Signature,23.3,False
+1787,2026-02-21 11:09:00,Engine Room,Low,Failed Login,1.7,False
+259,2026-02-21 11:20:00,Engine Room,Low,Malware Signature,37.7,False
+744,2026-02-21 11:34:00,Passenger WiFi,High,Unauthorized Access,28.9,False
+1743,2026-02-21 15:34:00,Crew Quarters,High,Bandwidth Anomaly,10.8,False
+1007,2026-02-21 15:40:00,Engine Room,Critical,Failed Login,33.3,False
+985,2026-02-21 19:07:00,Crew Quarters,Critical,Firmware Mismatch,1.3,False
+674,2026-02-21 19:25:00,Cargo Hold,Low,Malware Signature,24.7,False
+1639,2026-02-21 20:11:00,Bridge,High,Unauthorized Access,8.6,False
+1014,2026-02-21 20:59:00,Bridge,Medium,Malware Signature,25.8,False
+1083,2026-02-21 23:12:00,Engine Room,Low,Failed Login,11.7,False
+2247,2026-02-21 23:22:00,Engine Room,High,Failed Login,18.2,False
+2308,2026-02-22 00:57:00,Bridge,High,Firmware Mismatch,5.6,False
+1812,2026-02-22 01:41:00,Passenger WiFi,Low,Unauthorized Access,1.2,True
+1469,2026-02-22 02:17:00,Bridge,High,Failed Login,24.6,False
+878,2026-02-22 02:28:00,Engine Room,Low,Failed Login,1.1,True
+2124,2026-02-22 02:38:00,Engine Room,Medium,Port Scan,0.5,True
+549,2026-02-22 04:03:00,Bridge,Critical,Firmware Mismatch,3.5,False
+565,2026-02-22 05:21:00,Cargo Hold,Medium,Bandwidth Anomaly,28.6,False
+1843,2026-02-22 06:19:00,Bridge,Low,Failed Login,8.9,False
+879,2026-02-22 08:26:00,Passenger WiFi,Low,Port Scan,33.7,True
+1710,2026-02-22 10:43:00,Passenger WiFi,Low,Malware Signature,1.9,False
+2362,2026-02-22 13:55:00,Passenger WiFi,Medium,Unauthorized Access,14.1,False
+421,2026-02-22 14:02:00,Engine Room,Medium,Failed Login,13.5,False
+951,2026-02-22 14:09:00,Cargo Hold,Low,Port Scan,9.9,False
+176,2026-02-22 15:11:00,Engine Room,Low,Bandwidth Anomaly,3.2,True
+1600,2026-02-22 16:51:00,Bridge,High,Malware Signature,2.7,False
+996,2026-02-22 17:47:00,Engine Room,Low,Bandwidth Anomaly,37.5,False
+728,2026-02-22 18:19:00,Engine Room,Low,Port Scan,5.5,True
+1955,2026-02-22 18:51:00,Cargo Hold,Low,Malware Signature,5.8,True
+756,2026-02-22 23:30:00,Crew Quarters,Critical,Firmware Mismatch,1.8,False
+478,2026-02-23 02:34:00,Bridge,Medium,Failed Login,8.2,False
+2034,2026-02-23 04:57:00,Cargo Hold,Medium,Malware Signature,16.2,True
+1717,2026-02-23 08:01:00,Crew Quarters,Low,Unauthorized Access,7.9,False
+661,2026-02-23 08:38:00,Passenger WiFi,High,Port Scan,13.0,False
+2205,2026-02-23 09:35:00,Passenger WiFi,Low,Port Scan,31.8,True
+90,2026-02-23 10:06:00,Crew Quarters,Low,Bandwidth Anomaly,10.5,False
+229,2026-02-23 10:11:00,Crew Quarters,High,Firmware Mismatch,0.9,False
+1945,2026-02-23 11:45:00,Engine Room,Low,Bandwidth Anomaly,8.9,False
+1978,2026-02-23 15:02:00,Cargo Hold,Critical,Failed Login,26.3,False
+220,2026-02-23 16:25:00,Bridge,Medium,Firmware Mismatch,3.5,False
+700,2026-02-23 20:26:00,Engine Room,Low,Port Scan,13.2,False
+797,2026-02-23 21:10:00,Passenger WiFi,Medium,Unauthorized Access,12.6,False
+1666,2026-02-23 22:28:00,Passenger WiFi,High,Failed Login,70.2,True
+1983,2026-02-23 23:50:00,Engine Room,Low,Unauthorized Access,62.9,False
+2349,2026-02-24 01:23:00,Engine Room,Critical,Unauthorized Access,40.8,True
+210,2026-02-24 03:48:00,Cargo Hold,High,Port Scan,109.8,True
+1403,2026-02-24 06:14:00,Passenger WiFi,Medium,Bandwidth Anomaly,8.1,True
+2368,2026-02-24 07:22:00,Cargo Hold,High,Unauthorized Access,6.7,False
+1280,2026-02-24 07:37:00,Engine Room,Low,Unauthorized Access,14.4,True
+1029,2026-02-24 07:41:00,Cargo Hold,Low,Failed Login,4.8,False
+918,2026-02-24 07:42:00,Bridge,Medium,Bandwidth Anomaly,12.2,False
+1005,2026-02-24 08:25:00,Passenger WiFi,High,Port Scan,14.7,True
+1424,2026-02-24 08:53:00,Crew Quarters,Critical,Firmware Mismatch,5.2,False
+1963,2026-02-24 09:59:00,Passenger WiFi,High,Port Scan,7.3,True
+2022,2026-02-24 10:36:00,Engine Room,Medium,Port Scan,10.1,False
+1157,2026-02-24 11:21:00,Bridge,Medium,Failed Login,15.9,False
+1683,2026-02-24 12:53:00,Crew Quarters,Medium,Port Scan,18.8,False
+1697,2026-02-24 13:23:00,Cargo Hold,Low,Firmware Mismatch,35.4,False
+2244,2026-02-24 19:01:00,Passenger WiFi,High,Failed Login,26.6,True
+575,2026-02-24 20:54:00,Passenger WiFi,Critical,Firmware Mismatch,0.2,False
+138,2026-02-24 22:20:00,Engine Room,Medium,Bandwidth Anomaly,14.0,True
+2431,2026-02-24 23:36:00,Bridge,Medium,Unauthorized Access,8.8,False
+1458,2026-02-25 01:53:00,Passenger WiFi,Low,Port Scan,3.9,True
+1057,2026-02-25 03:28:00,Engine Room,Low,Port Scan,3.8,False
+2168,2026-02-25 04:14:00,Passenger WiFi,Low,Malware Signature,21.3,True
+1820,2026-02-25 04:23:00,Engine Room,Low,Malware Signature,21.6,False
+222,2026-02-25 06:17:00,Bridge,Critical,Port Scan,35.5,False
+1792,2026-02-25 06:48:00,Passenger WiFi,Medium,Unauthorized Access,5.9,False
+542,2026-02-25 09:12:00,Engine Room,Medium,Unauthorized Access,20.9,True
+727,2026-02-25 09:41:00,Cargo Hold,High,Failed Login,5.7,False
+2144,2026-02-25 10:12:00,Bridge,Medium,Firmware Mismatch,24.9,False
+1076,2026-02-25 11:24:00,Bridge,Medium,Firmware Mismatch,1.6,True
+186,2026-02-25 12:58:00,Cargo Hold,Medium,Unauthorized Access,16.6,False
+350,2026-02-25 14:20:00,Passenger WiFi,Medium,Malware Signature,4.9,False
+95,2026-02-25 19:03:00,Bridge,High,Port Scan,53.7,True
+1840,2026-02-25 20:25:00,Bridge,High,Port Scan,24.5,False
+61,2026-02-25 21:03:00,Engine Room,Low,Failed Login,0.0,False
+357,2026-02-25 21:18:00,Cargo Hold,Low,Port Scan,7.9,False
+1967,2026-02-25 23:08:00,Engine Room,Low,Unauthorized Access,8.4,False
+1434,2026-02-26 00:01:00,Passenger WiFi,Low,Firmware Mismatch,5.3,True
+754,2026-02-26 00:46:00,Crew Quarters,Low,Port Scan,21.2,False
+1829,2026-02-26 02:39:00,Bridge,Low,Port Scan,41.2,True
+2156,2026-02-26 05:04:00,Cargo Hold,Medium,Failed Login,26.6,False
+705,2026-02-26 06:16:00,Bridge,Low,Unauthorized Access,6.0,True
+2211,2026-02-26 06:51:00,Engine Room,High,Port Scan,49.2,False
+143,2026-02-26 07:22:00,Cargo Hold,Medium,Port Scan,1.0,True
+658,2026-02-26 07:27:00,Engine Room,Critical,Malware Signature,3.1,False
+2028,2026-02-26 08:06:00,Cargo Hold,Low,Bandwidth Anomaly,1.7,True
+903,2026-02-26 08:13:00,Passenger WiFi,High,Port Scan,0.3,False
+121,2026-02-26 09:34:00,Engine Room,Low,Bandwidth Anomaly,9.6,True
+737,2026-02-26 09:48:00,Bridge,Low,Bandwidth Anomaly,3.0,False
+1689,2026-02-26 11:23:00,Passenger WiFi,Low,Malware Signature,7.5,False
+153,2026-02-26 11:34:00,Bridge,Low,Port Scan,19.0,False
+626,2026-02-26 11:58:00,Engine Room,Low,Firmware Mismatch,12.3,False
+1961,2026-02-26 12:24:00,Engine Room,Medium,Port Scan,24.7,True
+74,2026-02-26 13:00:00,Engine Room,Low,Unauthorized Access,40.2,False
+1089,2026-02-26 14:54:00,Cargo Hold,Critical,Port Scan,6.3,True
+1714,2026-02-26 15:51:00,Engine Room,High,Port Scan,10.8,False
+2118,2026-02-26 22:05:00,Engine Room,Low,Unauthorized Access,2.1,False
+1896,2026-02-26 22:57:00,Crew Quarters,Low,Firmware Mismatch,22.5,True
+1938,2026-02-27 03:29:00,Engine Room,High,Bandwidth Anomaly,11.4,False
+1660,2026-02-27 04:18:00,Cargo Hold,Low,Failed Login,4.7,False
+2263,2026-02-27 05:26:00,Passenger WiFi,Low,Firmware Mismatch,28.1,False
+1197,2026-02-27 07:16:00,Engine Room,Low,Port Scan,38.3,False
+96,2026-02-27 07:51:00,Crew Quarters,High,Port Scan,2.6,False
+935,2026-02-27 12:06:00,Passenger WiFi,Critical,Failed Login,24.6,False
+2445,2026-02-27 12:44:00,Cargo Hold,High,Malware Signature,24.5,False
+1288,2026-02-27 14:18:00,Engine Room,Medium,Port Scan,0.9,False
+597,2026-02-27 14:39:00,Passenger WiFi,Medium,Unauthorized Access,2.9,False
+1415,2026-02-27 15:04:00,Bridge,Low,Port Scan,4.4,True
+1836,2026-02-27 15:15:00,Engine Room,Low,Unauthorized Access,6.5,False
+1394,2026-02-27 17:22:00,Crew Quarters,Low,Failed Login,9.1,False
+1119,2026-02-27 18:04:00,Passenger WiFi,Low,Unauthorized Access,38.8,False
+2071,2026-02-27 19:44:00,Passenger WiFi,Low,Failed Login,59.4,True
+508,2026-02-27 19:59:00,Cargo Hold,Medium,Failed Login,3.2,True
+1022,2026-02-27 20:26:00,Bridge,Medium,Bandwidth Anomaly,30.0,False
+1586,2026-02-27 20:45:00,Cargo Hold,Medium,Firmware Mismatch,0.8,False
+438,2026-02-27 20:51:00,Crew Quarters,Low,Unauthorized Access,7.1,True
+663,2026-02-27 20:56:00,Bridge,Low,Port Scan,6.8,False
+2129,2026-02-27 21:16:00,Cargo Hold,Low,Unauthorized Access,25.4,True
+1776,2026-02-27 23:22:00,Cargo Hold,Low,Firmware Mismatch,22.0,False
+270,2026-02-27 23:23:00,Cargo Hold,Medium,Malware Signature,20.7,False
+1062,2026-02-28 01:43:00,Bridge,Low,Unauthorized Access,31.2,False
+544,2026-02-28 01:43:00,Cargo Hold,Low,Bandwidth Anomaly,10.9,False
+2178,2026-02-28 03:29:00,Crew Quarters,Medium,Malware Signature,2.8,False
+1447,2026-02-28 03:40:00,Passenger WiFi,Medium,Bandwidth Anomaly,3.8,False
+2441,2026-02-28 04:25:00,Cargo Hold,Low,Port Scan,2.6,True
+646,2026-02-28 05:01:00,Engine Room,Low,Bandwidth Anomaly,22.6,False
+1001,2026-02-28 05:48:00,Cargo Hold,Critical,Bandwidth Anomaly,16.0,True
+717,2026-02-28 08:56:00,Engine Room,Medium,Failed Login,19.9,False
+1125,2026-02-28 08:57:00,Passenger WiFi,Medium,Malware Signature,20.5,False
+1779,2026-02-28 09:14:00,Bridge,Low,Port Scan,15.5,False
+2315,2026-02-28 11:16:00,Engine Room,Critical,Malware Signature,36.4,False
+2163,2026-02-28 14:04:00,Crew Quarters,Low,Port Scan,4.1,False
+1207,2026-02-28 14:36:00,Cargo Hold,Medium,Bandwidth Anomaly,14.5,True
+148,2026-02-28 17:10:00,Crew Quarters,Medium,Firmware Mismatch,11.5,True
+1891,2026-02-28 17:47:00,Crew Quarters,Low,Firmware Mismatch,14.2,False
+1931,2026-02-28 17:59:00,Cargo Hold,Low,Failed Login,2.1,False
+1901,2026-02-28 18:04:00,Passenger WiFi,Low,Port Scan,9.2,False
+936,2026-02-28 18:49:00,Bridge,Low,Bandwidth Anomaly,0.9,False
+1834,2026-02-28 19:40:00,Engine Room,Low,Malware Signature,0.5,True
+177,2026-02-28 20:51:00,Crew Quarters,Low,Malware Signature,12.4,False
+1805,2026-02-28 21:01:00,Passenger WiFi,High,Bandwidth Anomaly,35.2,True
+656,2026-02-28 23:36:00,Bridge,High,Failed Login,4.4,False
+991,2026-02-28 23:47:00,Engine Room,Medium,Failed Login,36.4,False
+2223,2026-03-01 01:02:00,Passenger WiFi,Low,Malware Signature,0.2,False
+2140,2026-03-01 01:18:00,Cargo Hold,Low,Firmware Mismatch,3.0,False
+1143,2026-03-01 01:21:00,Bridge,Low,Firmware Mismatch,31.9,False
+1431,2026-03-01 01:46:00,Engine Room,Low,Port Scan,45.4,False
+464,2026-03-01 05:12:00,Engine Room,High,Firmware Mismatch,11.0,True
+1129,2026-03-01 05:45:00,Cargo Hold,Low,Unauthorized Access,8.8,True
+1764,2026-03-01 06:07:00,Passenger WiFi,High,Malware Signature,9.8,False
+64,2026-03-01 10:27:00,Engine Room,Medium,Unauthorized Access,4.6,False
+529,2026-03-01 10:33:00,Passenger WiFi,Medium,Port Scan,23.6,True
+602,2026-03-01 11:39:00,Cargo Hold,Low,Malware Signature,23.4,False
+1850,2026-03-01 14:15:00,Engine Room,High,Failed Login,2.2,True
+522,2026-03-01 14:49:00,Bridge,High,Failed Login,24.8,False
+289,2026-03-01 17:15:00,Crew Quarters,High,Malware Signature,10.2,False
+1206,2026-03-01 18:24:00,Passenger WiFi,Medium,Firmware Mismatch,2.0,False
+1042,2026-03-01 18:25:00,Engine Room,Low,Firmware Mismatch,2.2,True
+722,2026-03-01 18:30:00,Crew Quarters,Medium,Port Scan,30.9,False
+2008,2026-03-01 21:17:00,Bridge,Low,Malware Signature,22.8,False
+555,2026-03-01 21:45:00,Passenger WiFi,Low,Port Scan,9.9,True
+729,2026-03-01 22:51:00,Crew Quarters,Low,Failed Login,2.5,False
+894,2026-03-02 03:04:00,Cargo Hold,High,Unauthorized Access,9.1,True
+942,2026-03-02 03:25:00,Passenger WiFi,Low,Port Scan,7.8,True
+1329,2026-03-02 03:39:00,Passenger WiFi,Low,Malware Signature,18.0,True
+2243,2026-03-02 05:43:00,Cargo Hold,Medium,Port Scan,1.0,False
+896,2026-03-02 06:51:00,Passenger WiFi,High,Port Scan,37.3,False
+619,2026-03-02 08:32:00,Cargo Hold,Medium,Firmware Mismatch,9.4,True
+1629,2026-03-02 09:38:00,Passenger WiFi,Low,Unauthorized Access,15.7,False
+2385,2026-03-02 11:32:00,Crew Quarters,Medium,Firmware Mismatch,10.0,True
+1297,2026-03-02 12:37:00,Bridge,High,Failed Login,29.6,False
+781,2026-03-02 12:45:00,Engine Room,Low,Malware Signature,30.2,True
+2437,2026-03-02 13:11:00,Crew Quarters,Medium,Bandwidth Anomaly,6.0,False
+1444,2026-03-02 14:43:00,Crew Quarters,High,Malware Signature,18.3,False
+1897,2026-03-02 16:12:00,Passenger WiFi,Medium,Firmware Mismatch,4.7,True
+875,2026-03-02 16:20:00,Bridge,Critical,Bandwidth Anomaly,0.3,True
+256,2026-03-02 16:57:00,Crew Quarters,Medium,Firmware Mismatch,12.4,False
+2147,2026-03-02 20:48:00,Engine Room,Medium,Port Scan,35.0,True
+2344,2026-03-02 21:22:00,Crew Quarters,Medium,Bandwidth Anomaly,5.7,False
+2143,2026-03-02 22:17:00,Bridge,Medium,Malware Signature,19.3,True
+103,2026-03-02 22:20:00,Cargo Hold,Low,Bandwidth Anomaly,19.6,True
+516,2026-03-02 22:59:00,Crew Quarters,Medium,Unauthorized Access,11.0,False
+1075,2026-03-03 00:36:00,Passenger WiFi,Low,Failed Login,22.8,False
+954,2026-03-03 05:53:00,Passenger WiFi,Low,Malware Signature,0.7,False
+2229,2026-03-03 07:57:00,Cargo Hold,Medium,Bandwidth Anomaly,8.9,False
+1168,2026-03-03 08:12:00,Passenger WiFi,High,Bandwidth Anomaly,9.8,False
+1408,2026-03-03 10:06:00,Engine Room,Low,Failed Login,42.7,True
+1554,2026-03-03 13:47:00,Crew Quarters,Low,Firmware Mismatch,13.1,True
+1819,2026-03-03 15:14:00,Cargo Hold,Low,Port Scan,4.2,True
+841,2026-03-03 17:48:00,Passenger WiFi,Low,Malware Signature,10.7,False
+246,2026-03-03 17:50:00,Crew Quarters,Low,Firmware Mismatch,10.6,True
+1951,2026-03-03 20:13:00,Bridge,Low,Failed Login,7.0,False
+1141,2026-03-03 21:21:00,Passenger WiFi,Low,Firmware Mismatch,0.8,False
+1623,2026-03-04 01:34:00,Engine Room,Medium,Malware Signature,41.3,False
+953,2026-03-04 03:53:00,Cargo Hold,Medium,Firmware Mismatch,9.0,False
+1378,2026-03-04 04:22:00,Engine Room,Medium,Malware Signature,20.7,False
+552,2026-03-04 05:47:00,Engine Room,Medium,Malware Signature,8.0,False
+2294,2026-03-04 08:57:00,Cargo Hold,Low,Unauthorized Access,10.3,False
+1332,2026-03-04 09:25:00,Passenger WiFi,High,Unauthorized Access,5.5,False
+2052,2026-03-04 13:41:00,Engine Room,Medium,Port Scan,17.8,True
+571,2026-03-04 14:54:00,Engine Room,Low,Port Scan,10.3,False
+1355,2026-03-04 15:51:00,Cargo Hold,Low,Firmware Mismatch,3.6,False
+763,2026-03-04 16:24:00,Passenger WiFi,Low,Bandwidth Anomaly,14.9,True
+2405,2026-03-04 19:14:00,Engine Room,Medium,Unauthorized Access,6.1,False
+789,2026-03-04 19:24:00,Bridge,Low,Unauthorized Access,19.2,True
+1152,2026-03-04 20:12:00,Engine Room,High,Failed Login,11.9,False
+253,2026-03-04 21:50:00,Cargo Hold,Low,Malware Signature,15.1,False
+541,2026-03-04 22:22:00,Bridge,High,Malware Signature,31.3,True
+2079,2026-03-04 23:28:00,Passenger WiFi,Low,Malware Signature,19.5,False
+2203,2026-03-05 00:02:00,Cargo Hold,Medium,Firmware Mismatch,0.4,False
+1579,2026-03-05 01:00:00,Crew Quarters,Medium,Unauthorized Access,15.3,False
+1907,2026-03-05 01:28:00,Engine Room,Critical,Unauthorized Access,4.7,False
+1670,2026-03-05 04:31:00,Engine Room,Medium,Firmware Mismatch,4.1,False
+1506,2026-03-05 05:28:00,Cargo Hold,Medium,Bandwidth Anomaly,15.3,False
+1090,2026-03-05 05:29:00,Bridge,Low,Malware Signature,12.4,False
+1872,2026-03-05 06:06:00,Passenger WiFi,Medium,Failed Login,27.8,True
+1433,2026-03-05 07:10:00,Cargo Hold,Low,Firmware Mismatch,18.4,True
+2029,2026-03-05 09:04:00,Crew Quarters,Medium,Firmware Mismatch,64.8,False
+1448,2026-03-05 11:27:00,Passenger WiFi,Medium,Unauthorized Access,26.1,True
+716,2026-03-05 13:44:00,Cargo Hold,Critical,Malware Signature,10.6,False
+869,2026-03-05 14:57:00,Engine Room,Low,Unauthorized Access,16.9,False
+358,2026-03-05 16:39:00,Passenger WiFi,Medium,Unauthorized Access,2.4,False
+2183,2026-03-05 16:52:00,Cargo Hold,Low,Bandwidth Anomaly,11.8,True
+1601,2026-03-05 16:59:00,Passenger WiFi,Medium,Port Scan,16.8,True
+1249,2026-03-05 17:43:00,Passenger WiFi,Low,Failed Login,6.4,False
+2145,2026-03-05 17:52:00,Passenger WiFi,Critical,Firmware Mismatch,23.9,False
+1539,2026-03-05 18:08:00,Crew Quarters,Low,Unauthorized Access,4.7,False
+613,2026-03-05 18:47:00,Passenger WiFi,High,Unauthorized Access,13.3,False
+629,2026-03-05 19:25:00,Cargo Hold,Low,Bandwidth Anomaly,4.6,True
+819,2026-03-05 23:13:00,Passenger WiFi,Medium,Unauthorized Access,7.1,False
+1303,2026-03-05 23:27:00,Crew Quarters,Low,Firmware Mismatch,21.0,False
+733,2026-03-06 01:06:00,Cargo Hold,Medium,Firmware Mismatch,6.1,True
+2452,2026-03-06 03:12:00,Engine Room,Medium,Bandwidth Anomaly,20.0,False
+34,2026-03-06 03:26:00,Bridge,Critical,Unauthorized Access,2.6,True
+1285,2026-03-06 04:48:00,Passenger WiFi,Low,Malware Signature,12.1,True
+1079,2026-03-06 05:44:00,Crew Quarters,Low,Failed Login,0.2,False
+955,2026-03-06 06:16:00,Bridge,Medium,Port Scan,5.6,True
+167,2026-03-06 08:01:00,Cargo Hold,High,Port Scan,0.2,True
+667,2026-03-06 09:30:00,Passenger WiFi,Low,Unauthorized Access,47.5,False
+1126,2026-03-06 11:27:00,Crew Quarters,Low,Unauthorized Access,1.2,False
+655,2026-03-06 11:38:00,Passenger WiFi,Low,Malware Signature,4.5,False
+2155,2026-03-06 14:57:00,Cargo Hold,Medium,Unauthorized Access,27.2,True
+1956,2026-03-06 17:25:00,Cargo Hold,Low,Port Scan,36.7,True
+2024,2026-03-06 22:16:00,Passenger WiFi,High,Port Scan,41.6,False
+578,2026-03-06 22:32:00,Cargo Hold,Medium,Unauthorized Access,4.2,True
+1567,2026-03-06 22:51:00,Cargo Hold,Low,Port Scan,0.1,False
+2382,2026-03-06 23:29:00,Bridge,Low,Unauthorized Access,23.7,False
+14,2026-03-06 23:40:00,Engine Room,Medium,Firmware Mismatch,10.6,True
+1347,2026-03-07 03:18:00,Engine Room,High,Unauthorized Access,25.2,False
+704,2026-03-07 03:50:00,Cargo Hold,Low,Failed Login,10.8,False
+2272,2026-03-07 04:17:00,Crew Quarters,Low,Malware Signature,87.8,False
+990,2026-03-07 04:20:00,Engine Room,Critical,Port Scan,20.9,False
+815,2026-03-07 04:49:00,Engine Room,Low,Unauthorized Access,32.8,True
+1758,2026-03-07 04:53:00,Engine Room,Medium,Port Scan,7.6,False
+706,2026-03-07 05:07:00,Cargo Hold,Low,Firmware Mismatch,27.3,False
+1832,2026-03-07 08:55:00,Engine Room,Medium,Port Scan,4.5,False
+1071,2026-03-07 09:03:00,Passenger WiFi,Low,Malware Signature,34.9,True
+675,2026-03-07 09:09:00,Bridge,Low,Unauthorized Access,10.7,False
+532,2026-03-07 10:57:00,Engine Room,Low,Unauthorized Access,31.0,True
+2453,2026-03-07 11:27:00,Passenger WiFi,Medium,Firmware Mismatch,13.8,False
+1117,2026-03-07 12:39:00,Cargo Hold,Medium,Firmware Mismatch,60.4,True
+1475,2026-03-07 12:54:00,Engine Room,Low,Unauthorized Access,0.6,True
+140,2026-03-07 13:21:00,Passenger WiFi,Low,Bandwidth Anomaly,11.7,False
+1583,2026-03-07 17:40:00,Cargo Hold,High,Port Scan,1.7,False
+1109,2026-03-07 19:25:00,Crew Quarters,Low,Unauthorized Access,2.8,False
+369,2026-03-07 19:51:00,Cargo Hold,Low,Unauthorized Access,6.4,True
+298,2026-03-07 20:16:00,Crew Quarters,High,Firmware Mismatch,46.3,False
+1031,2026-03-07 21:25:00,Passenger WiFi,Low,Port Scan,25.5,False
+660,2026-03-07 21:50:00,Crew Quarters,Critical,Failed Login,1.6,True
+2027,2026-03-07 22:04:00,Bridge,Low,Port Scan,24.6,True
+2250,2026-03-08 01:02:00,Bridge,Medium,Firmware Mismatch,46.9,True
+2325,2026-03-08 02:56:00,Engine Room,Medium,Port Scan,46.0,False
+1398,2026-03-08 02:58:00,Engine Room,High,Unauthorized Access,26.3,False
+285,2026-03-08 04:20:00,Bridge,Medium,Firmware Mismatch,1.6,False
+598,2026-03-08 05:13:00,Passenger WiFi,Critical,Failed Login,32.9,True
+483,2026-03-08 06:24:00,Engine Room,High,Unauthorized Access,22.7,False
+1032,2026-03-08 09:32:00,Engine Room,Medium,Unauthorized Access,6.4,False
+712,2026-03-08 12:29:00,Passenger WiFi,Medium,Port Scan,7.3,True
+721,2026-03-08 13:29:00,Crew Quarters,High,Malware Signature,3.8,True
+1286,2026-03-08 14:19:00,Bridge,High,Malware Signature,11.2,False
+1260,2026-03-08 14:56:00,Bridge,Medium,Malware Signature,5.4,False
+1372,2026-03-08 15:05:00,Passenger WiFi,Low,Firmware Mismatch,10.2,False
+1920,2026-03-08 15:15:00,Cargo Hold,Medium,Port Scan,29.5,True
+1035,2026-03-08 15:30:00,Cargo Hold,Low,Port Scan,1.6,False
+1672,2026-03-08 15:58:00,Cargo Hold,High,Malware Signature,14.3,False
+1091,2026-03-08 17:14:00,Passenger WiFi,Medium,Malware Signature,1.1,True
+1543,2026-03-08 18:42:00,Crew Quarters,Medium,Failed Login,12.2,True
+858,2026-03-08 19:25:00,Cargo Hold,Critical,Bandwidth Anomaly,18.4,True
+433,2026-03-08 20:57:00,Cargo Hold,Low,Malware Signature,2.8,True
+2375,2026-03-08 21:21:00,Crew Quarters,Critical,Bandwidth Anomaly,2.4,False
+994,2026-03-08 21:25:00,Engine Room,High,Unauthorized Access,21.7,False
+2444,2026-03-08 22:21:00,Crew Quarters,Medium,Port Scan,0.3,False
+454,2026-03-09 00:21:00,Passenger WiFi,Critical,Bandwidth Anomaly,9.9,False
+2366,2026-03-09 00:34:00,Engine Room,Medium,Unauthorized Access,23.2,True
+1564,2026-03-09 01:20:00,Crew Quarters,Low,Firmware Mismatch,17.8,False
+1757,2026-03-09 01:27:00,Crew Quarters,Medium,Malware Signature,60.8,False
+2306,2026-03-09 04:20:00,Engine Room,Medium,Malware Signature,4.5,False
+2041,2026-03-09 07:23:00,Cargo Hold,Low,Failed Login,5.2,True
+2337,2026-03-09 08:24:00,Cargo Hold,Low,Port Scan,11.1,False
+236,2026-03-09 09:31:00,Engine Room,High,Firmware Mismatch,19.0,True
+1917,2026-03-09 12:19:00,Passenger WiFi,High,Malware Signature,3.0,False
+2476,2026-03-09 14:12:00,Crew Quarters,High,Malware Signature,59.6,False
+1082,2026-03-09 14:52:00,Crew Quarters,Low,Port Scan,8.7,False
+1299,2026-03-09 16:10:00,Cargo Hold,Medium,Unauthorized Access,0.5,False
+348,2026-03-09 17:44:00,Bridge,High,Bandwidth Anomaly,27.2,False
+50,2026-03-09 19:50:00,Cargo Hold,Low,Malware Signature,1.5,False
+213,2026-03-09 21:02:00,Crew Quarters,Critical,Firmware Mismatch,2.4,True
+97,2026-03-09 23:30:00,Passenger WiFi,High,Firmware Mismatch,6.6,False
+1262,2026-03-09 23:59:00,Bridge,Medium,Bandwidth Anomaly,2.4,False
+1873,2026-03-10 01:47:00,Crew Quarters,Low,Bandwidth Anomaly,7.6,False
+371,2026-03-10 03:41:00,Engine Room,Low,Unauthorized Access,3.5,False
+225,2026-03-10 03:45:00,Bridge,Low,Port Scan,4.5,False
+168,2026-03-10 04:25:00,Crew Quarters,Medium,Firmware Mismatch,6.8,False
+13,2026-03-10 05:28:00,Passenger WiFi,Low,Malware Signature,19.4,False
+608,2026-03-10 07:20:00,Bridge,Low,Firmware Mismatch,20.7,True
+1885,2026-03-10 07:36:00,Bridge,Low,Port Scan,20.5,False
+262,2026-03-10 08:12:00,Crew Quarters,High,Bandwidth Anomaly,23.9,True
+85,2026-03-10 10:58:00,Bridge,Medium,Port Scan,0.7,False
+1163,2026-03-10 12:23:00,Crew Quarters,Critical,Bandwidth Anomaly,7.0,False
+2458,2026-03-10 15:24:00,Bridge,Low,Port Scan,6.9,True
+336,2026-03-10 15:47:00,Engine Room,Critical,Malware Signature,21.0,False
+1778,2026-03-10 17:10:00,Bridge,Low,Port Scan,9.6,True
+1518,2026-03-10 18:15:00,Crew Quarters,High,Firmware Mismatch,19.2,False
+445,2026-03-10 19:55:00,Passenger WiFi,Medium,Failed Login,8.6,False
+889,2026-03-10 21:33:00,Engine Room,High,Bandwidth Anomaly,0.0,False
+548,2026-03-10 21:54:00,Engine Room,Low,Firmware Mismatch,17.2,True
+810,2026-03-10 22:44:00,Passenger WiFi,Critical,Port Scan,23.5,False
+1400,2026-03-11 00:30:00,Crew Quarters,Low,Unauthorized Access,5.2,False
+1712,2026-03-11 01:34:00,Cargo Hold,High,Bandwidth Anomaly,4.3,True
+1011,2026-03-11 03:41:00,Bridge,High,Firmware Mismatch,16.0,False
+2234,2026-03-11 04:40:00,Engine Room,Medium,Port Scan,11.6,False
+187,2026-03-11 05:30:00,Passenger WiFi,Critical,Failed Login,5.7,False
+761,2026-03-11 05:37:00,Crew Quarters,Low,Firmware Mismatch,17.1,True
+1364,2026-03-11 08:09:00,Crew Quarters,Medium,Port Scan,23.6,False
+109,2026-03-11 10:16:00,Crew Quarters,Medium,Port Scan,1.4,False
+1194,2026-03-11 10:16:00,Engine Room,Low,Bandwidth Anomaly,1.3,False
+156,2026-03-11 10:43:00,Bridge,High,Unauthorized Access,5.2,True
+1472,2026-03-11 11:01:00,Engine Room,Medium,Firmware Mismatch,32.9,True
+2302,2026-03-11 13:06:00,Bridge,Low,Failed Login,0.8,True
+525,2026-03-11 14:37:00,Passenger WiFi,Critical,Bandwidth Anomaly,5.5,False
+413,2026-03-11 14:57:00,Passenger WiFi,Low,Port Scan,5.2,False
+968,2026-03-11 17:40:00,Passenger WiFi,Medium,Firmware Mismatch,11.3,True
+612,2026-03-11 18:27:00,Bridge,High,Unauthorized Access,11.0,False
+1527,2026-03-11 19:13:00,Engine Room,Medium,Port Scan,19.4,False
+1816,2026-03-11 20:46:00,Cargo Hold,Low,Port Scan,36.8,True
+2081,2026-03-11 23:31:00,Engine Room,Critical,Malware Signature,24.5,True
+1784,2026-03-12 00:11:00,Passenger WiFi,Medium,Firmware Mismatch,5.7,True
+1741,2026-03-12 02:57:00,Engine Room,Low,Unauthorized Access,20.6,False
+1970,2026-03-12 03:23:00,Engine Room,Low,Failed Login,17.3,False
+2459,2026-03-12 03:42:00,Bridge,High,Firmware Mismatch,7.7,True
+2044,2026-03-12 05:04:00,Engine Room,Medium,Port Scan,6.2,False
+888,2026-03-12 05:25:00,Passenger WiFi,Medium,Port Scan,14.4,True
+1949,2026-03-12 05:55:00,Engine Room,Medium,Unauthorized Access,3.9,False
+1199,2026-03-12 07:41:00,Cargo Hold,High,Malware Signature,48.5,True
+39,2026-03-12 08:40:00,Bridge,High,Malware Signature,6.0,False
+2032,2026-03-12 09:56:00,Crew Quarters,Low,Malware Signature,3.3,False
+958,2026-03-12 09:58:00,Passenger WiFi,High,Unauthorized Access,15.9,True
+511,2026-03-12 11:34:00,Crew Quarters,Low,Malware Signature,3.3,True
+1835,2026-03-12 15:17:00,Bridge,Medium,Failed Login,37.0,False
+1422,2026-03-12 18:01:00,Bridge,Low,Malware Signature,14.9,True
+1937,2026-03-12 20:39:00,Crew Quarters,Low,Bandwidth Anomaly,19.7,False
+531,2026-03-12 21:03:00,Engine Room,High,Bandwidth Anomaly,15.6,False
+1012,2026-03-12 21:24:00,Crew Quarters,Low,Unauthorized Access,4.1,False
+1616,2026-03-12 22:31:00,Cargo Hold,Medium,Port Scan,16.6,True
+2381,2026-03-13 02:50:00,Engine Room,Low,Port Scan,10.1,True
+770,2026-03-13 03:12:00,Bridge,High,Firmware Mismatch,35.0,True
+1655,2026-03-13 04:45:00,Cargo Hold,Low,Port Scan,3.4,False
+1545,2026-03-13 06:05:00,Crew Quarters,Low,Bandwidth Anomaly,10.4,True
+1451,2026-03-13 06:29:00,Cargo Hold,Medium,Failed Login,43.2,True
+1080,2026-03-13 08:03:00,Engine Room,Low,Unauthorized Access,11.9,False
+1064,2026-03-13 10:11:00,Bridge,Low,Malware Signature,37.0,False
+1762,2026-03-13 11:15:00,Bridge,Critical,Unauthorized Access,22.8,False
+1282,2026-03-13 12:47:00,Engine Room,Low,Unauthorized Access,3.1,True
+1500,2026-03-13 13:18:00,Cargo Hold,Medium,Malware Signature,33.7,True
+1748,2026-03-13 13:22:00,Crew Quarters,Low,Malware Signature,43.5,True
+622,2026-03-13 15:15:00,Engine Room,Medium,Unauthorized Access,13.8,False
+1134,2026-03-13 16:45:00,Cargo Hold,High,Unauthorized Access,0.5,False
+417,2026-03-13 16:47:00,Engine Room,Low,Unauthorized Access,12.1,False
+1662,2026-03-13 17:17:00,Crew Quarters,Low,Bandwidth Anomaly,9.1,True
+554,2026-03-13 17:27:00,Passenger WiFi,Low,Bandwidth Anomaly,5.0,False
+1504,2026-03-13 17:39:00,Crew Quarters,Low,Port Scan,3.6,False
+1846,2026-03-13 17:45:00,Passenger WiFi,Low,Failed Login,5.9,True
+1449,2026-03-13 17:47:00,Bridge,Medium,Bandwidth Anomaly,14.1,True
+535,2026-03-13 19:00:00,Crew Quarters,Medium,Failed Login,12.7,False
+780,2026-03-13 21:06:00,Bridge,High,Bandwidth Anomaly,25.1,True
+1830,2026-03-13 21:54:00,Engine Room,Low,Unauthorized Access,4.0,False
+1582,2026-03-13 22:25:00,Passenger WiFi,Low,Malware Signature,2.9,True
+802,2026-03-14 01:07:00,Crew Quarters,Low,Malware Signature,11.6,False
+817,2026-03-14 03:45:00,Bridge,Medium,Firmware Mismatch,8.0,False
+2139,2026-03-14 08:51:00,Passenger WiFi,Medium,Firmware Mismatch,14.1,False
+2075,2026-03-14 09:42:00,Cargo Hold,Medium,Malware Signature,6.9,True
+1298,2026-03-14 16:04:00,Crew Quarters,High,Malware Signature,0.1,True
+1719,2026-03-14 16:17:00,Engine Room,Medium,Unauthorized Access,32.0,True
+1131,2026-03-14 16:51:00,Engine Room,Medium,Malware Signature,2.0,False
+559,2026-03-14 17:17:00,Bridge,Low,Malware Signature,7.2,False
+1409,2026-03-14 17:26:00,Crew Quarters,Medium,Failed Login,13.9,False
+395,2026-03-14 20:05:00,Passenger WiFi,Medium,Firmware Mismatch,38.9,False
+2064,2026-03-14 20:34:00,Engine Room,Medium,Bandwidth Anomaly,7.8,True
+2268,2026-03-14 20:48:00,Bridge,Low,Malware Signature,1.0,False
+1882,2026-03-14 22:41:00,Cargo Hold,High,Failed Login,6.2,False
+435,2026-03-14 22:43:00,Cargo Hold,Low,Failed Login,55.2,False
+152,2026-03-14 22:51:00,Bridge,Low,Firmware Mismatch,50.0,False
+428,2026-03-14 23:27:00,Passenger WiFi,Low,Unauthorized Access,16.0,False
+332,2026-03-14 23:57:00,Engine Room,Medium,Bandwidth Anomaly,8.9,False
+2004,2026-03-15 02:57:00,Bridge,Low,Unauthorized Access,12.0,False
+366,2026-03-15 03:04:00,Passenger WiFi,Critical,Firmware Mismatch,5.1,False
+2038,2026-03-15 04:16:00,Engine Room,High,Bandwidth Anomaly,2.2,False
+2443,2026-03-15 06:14:00,Engine Room,Critical,Firmware Mismatch,1.7,False
+1923,2026-03-15 07:09:00,Crew Quarters,Low,Malware Signature,7.6,False
+1599,2026-03-15 09:08:00,Passenger WiFi,Medium,Bandwidth Anomaly,13.0,True
+467,2026-03-15 09:18:00,Engine Room,Low,Firmware Mismatch,25.6,False
+2491,2026-03-15 09:49:00,Crew Quarters,High,Failed Login,4.1,False
+975,2026-03-15 10:58:00,Cargo Hold,Medium,Port Scan,23.2,False
+2197,2026-03-15 11:03:00,Engine Room,Critical,Failed Login,2.8,False
+1981,2026-03-15 13:58:00,Cargo Hold,Low,Bandwidth Anomaly,68.1,True
+2328,2026-03-15 14:30:00,Bridge,Medium,Bandwidth Anomaly,14.2,True
+1562,2026-03-15 15:02:00,Engine Room,Low,Failed Login,0.5,True
+833,2026-03-15 15:17:00,Engine Room,Medium,Port Scan,15.4,True
+1158,2026-03-15 15:47:00,Bridge,High,Port Scan,6.4,True
+1046,2026-03-15 17:00:00,Crew Quarters,Low,Malware Signature,9.6,False
+788,2026-03-15 19:06:00,Cargo Hold,Medium,Bandwidth Anomaly,5.0,False
+868,2026-03-15 19:35:00,Passenger WiFi,High,Failed Login,1.6,True
+1887,2026-03-15 22:19:00,Bridge,Low,Unauthorized Access,0.2,False
+398,2026-03-15 22:22:00,Crew Quarters,Low,Bandwidth Anomaly,0.9,False
+2192,2026-03-15 23:10:00,Cargo Hold,Low,Port Scan,8.4,True
+742,2026-03-15 23:56:00,Passenger WiFi,High,Unauthorized Access,1.2,False
+2440,2026-03-16 00:33:00,Cargo Hold,Low,Firmware Mismatch,3.6,True
+2227,2026-03-16 01:54:00,Crew Quarters,Medium,Unauthorized Access,51.6,True
+752,2026-03-16 01:59:00,Cargo Hold,High,Malware Signature,9.7,False
+179,2026-03-16 02:28:00,Passenger WiFi,Low,Malware Signature,1.3,False
+1161,2026-03-16 02:34:00,Bridge,Low,Failed Login,14.9,False
+437,2026-03-16 02:46:00,Engine Room,Critical,Firmware Mismatch,0.9,False
+594,2026-03-16 03:19:00,Engine Room,Low,Failed Login,2.5,True
+1964,2026-03-16 04:02:00,Passenger WiFi,Low,Failed Login,46.3,True
+2181,2026-03-16 06:27:00,Passenger WiFi,Medium,Firmware Mismatch,3.1,True
+1460,2026-03-16 11:44:00,Passenger WiFi,Critical,Malware Signature,5.4,False
+915,2026-03-16 15:12:00,Cargo Hold,Medium,Firmware Mismatch,9.3,True
+65,2026-03-16 15:57:00,Engine Room,Low,Failed Login,21.9,False
+1780,2026-03-16 16:22:00,Cargo Hold,Medium,Port Scan,1.7,False
+680,2026-03-16 17:49:00,Passenger WiFi,Low,Malware Signature,24.9,True
+804,2026-03-16 18:40:00,Passenger WiFi,Critical,Firmware Mismatch,1.1,False
+2252,2026-03-16 18:54:00,Bridge,High,Bandwidth Anomaly,52.4,False
+1265,2026-03-16 19:02:00,Bridge,Medium,Malware Signature,13.2,False
+1214,2026-03-16 20:02:00,Cargo Hold,Critical,Port Scan,62.9,False
+2091,2026-03-16 20:48:00,Passenger WiFi,High,Unauthorized Access,5.6,True
+2151,2026-03-16 21:05:00,Bridge,Low,Unauthorized Access,8.6,False
+829,2026-03-16 23:19:00,Engine Room,Low,Failed Login,8.0,False
+78,2026-03-17 00:41:00,Cargo Hold,Medium,Unauthorized Access,12.5,True
+506,2026-03-17 01:33:00,Bridge,Medium,Firmware Mismatch,4.6,False
+1191,2026-03-17 01:58:00,Passenger WiFi,Medium,Port Scan,12.1,True
+134,2026-03-17 02:35:00,Passenger WiFi,Low,Malware Signature,27.1,False
+1056,2026-03-17 02:38:00,Crew Quarters,Low,Malware Signature,4.6,False
+2361,2026-03-17 03:15:00,Engine Room,Low,Unauthorized Access,12.1,False
+1066,2026-03-17 05:15:00,Cargo Hold,High,Malware Signature,10.1,False
+1833,2026-03-17 06:28:00,Engine Room,Medium,Malware Signature,0.3,False
+1426,2026-03-17 09:05:00,Engine Room,High,Firmware Mismatch,6.3,True
+1098,2026-03-17 12:45:00,Bridge,Critical,Bandwidth Anomaly,2.7,False
+1515,2026-03-17 13:31:00,Cargo Hold,High,Port Scan,24.7,False
+2480,2026-03-17 13:33:00,Bridge,Medium,Malware Signature,1.6,True
+1686,2026-03-17 14:28:00,Engine Room,Medium,Malware Signature,39.8,True
+808,2026-03-17 16:20:00,Crew Quarters,Critical,Failed Login,18.6,True
+251,2026-03-17 16:39:00,Bridge,Low,Firmware Mismatch,15.7,False
+2188,2026-03-17 17:03:00,Cargo Hold,Low,Port Scan,12.3,True
+1552,2026-03-17 21:23:00,Crew Quarters,Low,Firmware Mismatch,2.3,False
+2007,2026-03-17 21:35:00,Bridge,Critical,Failed Login,5.5,False
+904,2026-03-18 02:22:00,Cargo Hold,Low,Firmware Mismatch,40.5,True
+1809,2026-03-18 03:32:00,Engine Room,Medium,Failed Login,16.3,True
+507,2026-03-18 06:40:00,Cargo Hold,Critical,Bandwidth Anomaly,19.3,False
+1009,2026-03-18 07:08:00,Cargo Hold,Medium,Failed Login,1.2,True
+382,2026-03-18 08:01:00,Passenger WiFi,Low,Failed Login,9.6,True
+137,2026-03-18 09:46:00,Cargo Hold,Low,Port Scan,14.6,True
+791,2026-03-18 10:13:00,Crew Quarters,Medium,Bandwidth Anomaly,15.9,False
+1319,2026-03-18 13:25:00,Crew Quarters,Low,Firmware Mismatch,5.8,False
+2481,2026-03-18 15:02:00,Cargo Hold,Medium,Failed Login,27.9,False
+1700,2026-03-18 19:58:00,Cargo Hold,High,Firmware Mismatch,7.9,False
+2350,2026-03-18 21:09:00,Passenger WiFi,Low,Port Scan,1.4,False
+1021,2026-03-18 21:53:00,Bridge,High,Bandwidth Anomaly,1.1,False
+2400,2026-03-18 22:01:00,Bridge,Low,Malware Signature,16.3,False
+1565,2026-03-18 22:29:00,Bridge,Low,Port Scan,23.8,False
+682,2026-03-18 23:34:00,Passenger WiFi,Medium,Unauthorized Access,40.4,False
+10,2026-03-18 23:47:00,Passenger WiFi,Medium,Port Scan,2.9,False
+2392,2026-03-19 00:57:00,Bridge,Low,Port Scan,7.4,True
+312,2026-03-19 01:16:00,Crew Quarters,Medium,Bandwidth Anomaly,1.5,True
+198,2026-03-19 04:31:00,Bridge,Low,Firmware Mismatch,21.6,False
+1659,2026-03-19 10:01:00,Bridge,Low,Port Scan,3.1,True
+66,2026-03-19 10:02:00,Cargo Hold,High,Firmware Mismatch,39.2,False
+333,2026-03-19 10:07:00,Bridge,High,Port Scan,23.9,False
+2342,2026-03-19 10:43:00,Bridge,Medium,Failed Login,1.8,False
+1385,2026-03-19 12:30:00,Passenger WiFi,Low,Failed Login,23.4,True
+423,2026-03-19 13:54:00,Engine Room,Low,Malware Signature,7.7,False
+1233,2026-03-19 14:29:00,Bridge,Medium,Port Scan,8.2,False
+798,2026-03-19 15:29:00,Engine Room,Low,Malware Signature,7.2,True
+720,2026-03-19 18:42:00,Engine Room,High,Port Scan,6.9,True
+274,2026-03-19 18:48:00,Cargo Hold,Medium,Firmware Mismatch,2.0,True
+1467,2026-03-19 21:30:00,Passenger WiFi,Medium,Malware Signature,22.1,False
+44,2026-03-19 23:46:00,Engine Room,Critical,Bandwidth Anomaly,7.4,False
+1798,2026-03-19 23:50:00,Passenger WiFi,High,Malware Signature,95.0,False
+825,2026-03-20 00:26:00,Bridge,Critical,Port Scan,8.2,True
+799,2026-03-20 00:31:00,Crew Quarters,Low,Firmware Mismatch,21.2,True
+2142,2026-03-20 02:00:00,Crew Quarters,Low,Failed Login,0.4,False
+119,2026-03-20 03:59:00,Bridge,Medium,Port Scan,70.2,False
+1888,2026-03-20 04:13:00,Crew Quarters,Medium,Failed Login,22.5,False
+932,2026-03-20 04:14:00,Bridge,Low,Firmware Mismatch,0.3,True
+163,2026-03-20 04:15:00,Passenger WiFi,Medium,Unauthorized Access,15.0,True
+1782,2026-03-20 05:29:00,Cargo Hold,Low,Port Scan,53.6,False
+934,2026-03-20 09:26:00,Crew Quarters,High,Firmware Mismatch,3.8,False
+1877,2026-03-20 11:52:00,Bridge,Low,Port Scan,24.4,False
+1232,2026-03-20 13:00:00,Engine Room,Low,Failed Login,5.3,False
+1241,2026-03-20 13:13:00,Bridge,High,Bandwidth Anomaly,10.5,False
+8,2026-03-20 15:05:00,Crew Quarters,High,Malware Signature,7.8,False
+1238,2026-03-20 15:25:00,Bridge,Low,Unauthorized Access,4.3,False
+678,2026-03-20 16:27:00,Crew Quarters,High,Failed Login,41.2,False
+2356,2026-03-20 16:45:00,Bridge,Low,Port Scan,6.1,False
+165,2026-03-20 17:14:00,Crew Quarters,Low,Port Scan,12.5,False
+237,2026-03-20 18:38:00,Bridge,Low,Malware Signature,13.1,False
+572,2026-03-20 18:44:00,Engine Room,Low,Firmware Mismatch,8.7,False
+1844,2026-03-20 19:09:00,Crew Quarters,High,Port Scan,5.6,True
+171,2026-03-20 19:46:00,Bridge,High,Malware Signature,32.9,False
+2078,2026-03-20 22:53:00,Bridge,High,Port Scan,57.7,False
+1726,2026-03-20 23:16:00,Bridge,Critical,Failed Login,3.0,False
+939,2026-03-20 23:34:00,Bridge,High,Unauthorized Access,12.7,True
+1525,2026-03-21 01:15:00,Crew Quarters,Low,Firmware Mismatch,16.7,True
+169,2026-03-21 03:04:00,Bridge,Low,Malware Signature,13.8,True
+1457,2026-03-21 03:53:00,Crew Quarters,Low,Bandwidth Anomaly,7.0,True
+683,2026-03-21 04:34:00,Engine Room,High,Port Scan,22.1,False
+377,2026-03-21 07:27:00,Cargo Hold,Low,Port Scan,20.6,False
+1977,2026-03-21 09:45:00,Passenger WiFi,High,Port Scan,5.6,True
+1696,2026-03-21 10:00:00,Passenger WiFi,Medium,Malware Signature,3.5,False
+2251,2026-03-21 11:15:00,Bridge,Low,Firmware Mismatch,21.8,True
+93,2026-03-21 11:19:00,Crew Quarters,Medium,Unauthorized Access,10.4,False
+505,2026-03-21 13:34:00,Crew Quarters,Low,Port Scan,10.3,False
+328,2026-03-21 15:32:00,Passenger WiFi,Low,Bandwidth Anomaly,4.5,True
+1828,2026-03-21 15:35:00,Engine Room,Medium,Port Scan,13.9,True
+2336,2026-03-21 16:33:00,Engine Room,Critical,Port Scan,17.0,False
+1628,2026-03-21 16:38:00,Bridge,High,Malware Signature,27.5,True
+1277,2026-03-21 21:00:00,Bridge,Low,Malware Signature,5.3,False
+2241,2026-03-21 23:54:00,Bridge,Low,Unauthorized Access,5.9,False
+1813,2026-03-22 00:19:00,Bridge,Low,Malware Signature,17.7,False
+605,2026-03-22 00:23:00,Crew Quarters,Medium,Bandwidth Anomaly,20.1,True
+436,2026-03-22 00:42:00,Cargo Hold,Medium,Malware Signature,26.2,False
+1676,2026-03-22 01:29:00,Crew Quarters,Low,Port Scan,13.3,False
+959,2026-03-22 02:05:00,Crew Quarters,Medium,Failed Login,4.8,True
+1664,2026-03-22 05:44:00,Cargo Hold,Medium,Port Scan,5.7,True
+102,2026-03-22 06:19:00,Bridge,Low,Failed Login,3.7,True
+1013,2026-03-22 07:20:00,Passenger WiFi,High,Failed Login,4.9,False
+601,2026-03-22 07:59:00,Crew Quarters,Medium,Unauthorized Access,21.7,True
+1947,2026-03-22 10:43:00,Crew Quarters,Low,Port Scan,8.1,True
+392,2026-03-22 13:29:00,Passenger WiFi,Medium,Unauthorized Access,1.8,True
+1135,2026-03-22 13:59:00,Crew Quarters,Low,Failed Login,1.1,False
+2226,2026-03-22 15:01:00,Bridge,Low,Port Scan,15.8,True
+1155,2026-03-22 18:12:00,Engine Room,Medium,Bandwidth Anomaly,13.3,False
+272,2026-03-22 18:26:00,Bridge,Low,Malware Signature,3.4,True
+1483,2026-03-22 22:12:00,Crew Quarters,Low,Unauthorized Access,19.6,False
+1179,2026-03-22 23:34:00,Passenger WiFi,Low,Malware Signature,5.8,True
+196,2026-03-23 01:08:00,Crew Quarters,Low,Unauthorized Access,2.0,True
+1295,2026-03-23 02:32:00,Crew Quarters,Medium,Port Scan,27.8,False
+2088,2026-03-23 03:33:00,Cargo Hold,Low,Malware Signature,21.5,False
+123,2026-03-23 03:38:00,Passenger WiFi,Medium,Port Scan,3.2,True
+429,2026-03-23 05:55:00,Passenger WiFi,Low,Malware Signature,6.3,False
+33,2026-03-23 07:38:00,Cargo Hold,Low,Port Scan,6.9,False
+269,2026-03-23 09:06:00,Passenger WiFi,High,Unauthorized Access,5.3,True
+2401,2026-03-23 09:19:00,Cargo Hold,Medium,Port Scan,25.5,False
+124,2026-03-23 09:24:00,Crew Quarters,Low,Bandwidth Anomaly,9.3,True
+1359,2026-03-23 10:16:00,Passenger WiFi,High,Failed Login,45.8,True
+1489,2026-03-23 10:47:00,Passenger WiFi,Medium,Port Scan,1.8,False
+1316,2026-03-23 12:01:00,Engine Room,Critical,Unauthorized Access,5.2,True
+1633,2026-03-23 12:29:00,Engine Room,Low,Port Scan,5.3,False
+110,2026-03-23 12:59:00,Crew Quarters,High,Failed Login,12.2,False
+1308,2026-03-23 13:45:00,Bridge,Low,Failed Login,2.8,False
+1993,2026-03-23 14:53:00,Crew Quarters,Medium,Port Scan,9.7,True
+281,2026-03-23 15:05:00,Engine Room,Medium,Failed Login,32.8,False
+1417,2026-03-23 15:52:00,Bridge,Critical,Failed Login,11.7,True
+1653,2026-03-23 16:34:00,Crew Quarters,Low,Failed Login,13.9,False
+699,2026-03-23 16:58:00,Engine Room,Low,Firmware Mismatch,5.1,False
+2289,2026-03-23 18:53:00,Cargo Hold,Low,Port Scan,30.8,True
+2496,2026-03-23 19:22:00,Engine Room,Medium,Firmware Mismatch,12.2,False
+2069,2026-03-23 19:22:00,Cargo Hold,Medium,Unauthorized Access,31.2,True
+769,2026-03-23 20:20:00,Passenger WiFi,Low,Malware Signature,7.1,False
+750,2026-03-23 21:17:00,Crew Quarters,Low,Malware Signature,16.2,True
+498,2026-03-23 23:37:00,Bridge,Low,Malware Signature,4.4,False
+1313,2026-03-23 23:39:00,Engine Room,High,Failed Login,17.0,False
+1174,2026-03-24 00:03:00,Engine Room,High,Firmware Mismatch,0.1,True
+1336,2026-03-24 00:56:00,Bridge,Low,Failed Login,28.8,False
+2160,2026-03-24 05:22:00,Passenger WiFi,Medium,Port Scan,0.3,False
+616,2026-03-24 09:59:00,Crew Quarters,Low,Port Scan,2.9,False
+1783,2026-03-24 10:10:00,Crew Quarters,High,Failed Login,0.6,False
+1414,2026-03-24 10:31:00,Passenger WiFi,High,Failed Login,11.3,False
+279,2026-03-24 12:02:00,Crew Quarters,Medium,Bandwidth Anomaly,23.9,False
+446,2026-03-24 12:21:00,Cargo Hold,Low,Malware Signature,6.2,False
+713,2026-03-24 13:04:00,Engine Room,Medium,Unauthorized Access,17.6,False
+2442,2026-03-24 15:34:00,Engine Room,Low,Firmware Mismatch,5.6,False
+614,2026-03-24 16:13:00,Crew Quarters,Medium,Bandwidth Anomaly,2.9,True
+228,2026-03-24 16:26:00,Engine Room,Low,Malware Signature,10.5,False
+2433,2026-03-24 16:31:00,Cargo Hold,Low,Bandwidth Anomaly,3.3,False
+1899,2026-03-24 17:15:00,Engine Room,High,Unauthorized Access,11.4,False
+2335,2026-03-24 17:37:00,Bridge,High,Unauthorized Access,19.2,True
+860,2026-03-25 01:22:00,Crew Quarters,High,Firmware Mismatch,4.0,False
+926,2026-03-25 02:00:00,Crew Quarters,Medium,Malware Signature,6.2,True
+223,2026-03-25 02:03:00,Crew Quarters,Low,Malware Signature,11.7,False
+581,2026-03-25 02:12:00,Cargo Hold,Medium,Port Scan,32.7,False
+1176,2026-03-25 08:00:00,Bridge,Medium,Failed Login,54.0,False
+2485,2026-03-25 08:29:00,Crew Quarters,Low,Bandwidth Anomaly,26.9,False
+1412,2026-03-25 11:13:00,Crew Quarters,Low,Port Scan,10.4,False
+1156,2026-03-25 14:54:00,Crew Quarters,Low,Failed Login,33.9,False
+1343,2026-03-25 14:55:00,Crew Quarters,Low,Failed Login,1.3,False
+1645,2026-03-25 16:11:00,Bridge,High,Malware Signature,5.2,False
+882,2026-03-25 16:55:00,Passenger WiFi,High,Firmware Mismatch,5.6,False
+1092,2026-03-25 18:04:00,Crew Quarters,High,Firmware Mismatch,21.7,False
+1127,2026-03-25 20:33:00,Cargo Hold,Medium,Failed Login,0.7,True
+2300,2026-03-25 21:01:00,Engine Room,Low,Bandwidth Anomaly,1.1,True
+391,2026-03-25 21:24:00,Bridge,High,Port Scan,4.0,True
+842,2026-03-25 22:36:00,Passenger WiFi,Critical,Unauthorized Access,19.2,True
+1114,2026-03-25 22:49:00,Crew Quarters,Low,Malware Signature,14.8,False
+2084,2026-03-25 23:16:00,Cargo Hold,High,Bandwidth Anomaly,6.3,True
+964,2026-03-26 00:27:00,Passenger WiFi,Low,Unauthorized Access,3.2,False
+449,2026-03-26 00:43:00,Bridge,Critical,Bandwidth Anomaly,4.3,True
+865,2026-03-26 00:52:00,Crew Quarters,Critical,Failed Login,7.3,False
+2235,2026-03-26 02:21:00,Cargo Hold,Low,Malware Signature,9.5,False
+1195,2026-03-26 06:10:00,Passenger WiFi,Low,Port Scan,73.9,True
+206,2026-03-26 13:14:00,Crew Quarters,Medium,Bandwidth Anomaly,30.4,True
+510,2026-03-26 14:21:00,Bridge,Medium,Firmware Mismatch,8.5,False
+1356,2026-03-26 15:13:00,Cargo Hold,High,Port Scan,13.9,True
+596,2026-03-26 15:30:00,Passenger WiFi,Low,Bandwidth Anomaly,18.5,True
+828,2026-03-26 16:07:00,Cargo Hold,High,Unauthorized Access,28.5,True
+1461,2026-03-26 17:25:00,Engine Room,Critical,Bandwidth Anomaly,2.9,False
+2002,2026-03-26 19:03:00,Crew Quarters,High,Firmware Mismatch,7.7,False
+595,2026-03-26 21:42:00,Cargo Hold,Medium,Port Scan,16.4,False
+2006,2026-03-26 23:05:00,Passenger WiFi,High,Bandwidth Anomaly,1.8,False
+1560,2026-03-27 01:22:00,Engine Room,Medium,Bandwidth Anomaly,18.6,False
+1838,2026-03-27 02:43:00,Cargo Hold,Low,Unauthorized Access,0.3,False
+1061,2026-03-27 03:01:00,Bridge,Medium,Unauthorized Access,15.2,True
+2111,2026-03-27 03:10:00,Engine Room,Low,Bandwidth Anomaly,24.4,False
+993,2026-03-27 05:16:00,Cargo Hold,Low,Failed Login,11.2,True
+497,2026-03-27 05:19:00,Crew Quarters,High,Port Scan,14.1,False
+695,2026-03-27 05:45:00,Bridge,Low,Unauthorized Access,6.8,False
+2083,2026-03-27 05:51:00,Passenger WiFi,Low,Port Scan,4.3,False
+287,2026-03-27 07:08:00,Cargo Hold,Medium,Port Scan,7.3,False
+524,2026-03-27 07:18:00,Crew Quarters,Medium,Firmware Mismatch,23.8,True
+971,2026-03-27 08:54:00,Cargo Hold,Critical,Bandwidth Anomaly,3.6,False
+368,2026-03-27 11:31:00,Crew Quarters,Medium,Firmware Mismatch,4.9,True
+1291,2026-03-27 14:29:00,Engine Room,Medium,Failed Login,3.7,False
+1514,2026-03-27 16:01:00,Passenger WiFi,High,Bandwidth Anomaly,25.1,False
+67,2026-03-27 16:18:00,Engine Room,High,Malware Signature,9.9,False
+1432,2026-03-27 16:39:00,Passenger WiFi,Medium,Failed Login,14.6,True
+1935,2026-03-27 18:28:00,Passenger WiFi,Critical,Firmware Mismatch,5.0,True
+772,2026-03-27 23:28:00,Bridge,Low,Bandwidth Anomaly,0.9,True
+394,2026-03-27 23:42:00,Bridge,Medium,Port Scan,3.7,True
+411,2026-03-28 01:12:00,Engine Room,Medium,Malware Signature,5.7,True
+106,2026-03-28 02:53:00,Passenger WiFi,Medium,Unauthorized Access,2.8,False
+2047,2026-03-28 02:58:00,Passenger WiFi,High,Failed Login,3.4,True
+442,2026-03-28 03:10:00,Passenger WiFi,Low,Malware Signature,36.6,False
+340,2026-03-28 03:13:00,Cargo Hold,Medium,Failed Login,19.5,True
+1354,2026-03-28 03:31:00,Bridge,Low,Failed Login,4.8,False
+1302,2026-03-28 03:47:00,Engine Room,Medium,Bandwidth Anomaly,9.0,True
+1802,2026-03-28 04:09:00,Cargo Hold,Low,Failed Login,15.7,False
+1681,2026-03-28 04:45:00,Passenger WiFi,Critical,Firmware Mismatch,45.9,False
+1177,2026-03-28 06:30:00,Engine Room,Medium,Failed Login,14.0,True
+961,2026-03-28 07:51:00,Cargo Hold,Low,Bandwidth Anomaly,5.8,False
+611,2026-03-28 08:03:00,Bridge,High,Firmware Mismatch,1.8,False
+1954,2026-03-28 11:51:00,Engine Room,Medium,Malware Signature,2.2,False
+1587,2026-03-28 14:31:00,Bridge,High,Bandwidth Anomaly,8.2,False
+618,2026-03-28 15:28:00,Engine Room,Low,Failed Login,37.0,False
+92,2026-03-28 15:35:00,Bridge,High,Firmware Mismatch,0.1,False
+89,2026-03-28 18:01:00,Cargo Hold,Low,Firmware Mismatch,6.6,False
+209,2026-03-28 18:17:00,Cargo Hold,High,Port Scan,4.7,False
+2165,2026-03-28 22:08:00,Cargo Hold,High,Firmware Mismatch,13.2,False
+2167,2026-03-28 22:27:00,Crew Quarters,Medium,Port Scan,74.8,True
+1132,2026-03-29 01:03:00,Bridge,Medium,Malware Signature,2.0,True
+2238,2026-03-29 02:25:00,Cargo Hold,Low,Failed Login,10.4,False
+184,2026-03-29 02:43:00,Engine Room,Low,Unauthorized Access,8.3,False
+1335,2026-03-29 03:32:00,Cargo Hold,Low,Failed Login,18.0,False
+271,2026-03-29 03:52:00,Crew Quarters,Low,Bandwidth Anomaly,3.5,True
+794,2026-03-29 05:22:00,Engine Room,High,Port Scan,0.8,False
+2194,2026-03-29 06:11:00,Cargo Hold,Medium,Bandwidth Anomaly,12.5,False
+1040,2026-03-29 10:51:00,Engine Room,Low,Failed Login,5.9,True
+530,2026-03-29 10:58:00,Passenger WiFi,High,Firmware Mismatch,4.9,True
+1123,2026-03-29 11:10:00,Passenger WiFi,High,Failed Login,7.9,False
+2378,2026-03-29 12:26:00,Bridge,Low,Firmware Mismatch,4.6,False
+538,2026-03-29 12:31:00,Crew Quarters,Low,Unauthorized Access,31.1,False
+1752,2026-03-29 12:53:00,Cargo Hold,Low,Bandwidth Anomaly,4.8,False
+992,2026-03-29 14:59:00,Crew Quarters,Low,Firmware Mismatch,12.1,False
+2319,2026-03-29 17:14:00,Cargo Hold,Low,Bandwidth Anomaly,3.4,False
+687,2026-03-29 17:30:00,Passenger WiFi,Low,Bandwidth Anomaly,10.9,False
+60,2026-03-29 17:50:00,Engine Room,Low,Unauthorized Access,14.2,False
+1693,2026-03-29 18:29:00,Bridge,Low,Bandwidth Anomaly,0.5,True
+151,2026-03-29 19:57:00,Bridge,Medium,Bandwidth Anomaly,20.5,False
+2005,2026-03-29 23:48:00,Passenger WiFi,Low,Malware Signature,18.5,True
+966,2026-03-30 00:57:00,Engine Room,High,Port Scan,10.0,False
+1559,2026-03-30 01:41:00,Bridge,Low,Bandwidth Anomaly,4.6,True
+126,2026-03-30 03:36:00,Cargo Hold,High,Bandwidth Anomaly,0.8,True
+1085,2026-03-30 05:16:00,Cargo Hold,Medium,Malware Signature,4.4,True
+1861,2026-03-30 05:44:00,Crew Quarters,Medium,Malware Signature,5.4,True
+2170,2026-03-30 06:17:00,Engine Room,High,Unauthorized Access,14.4,False
+347,2026-03-30 07:53:00,Crew Quarters,Critical,Bandwidth Anomaly,10.2,False
+1695,2026-03-30 08:20:00,Engine Room,Low,Firmware Mismatch,16.3,True
+2099,2026-03-30 08:38:00,Bridge,Low,Unauthorized Access,0.8,False
+1477,2026-03-30 09:44:00,Engine Room,Low,Failed Login,0.8,False
+685,2026-03-30 10:26:00,Crew Quarters,Medium,Failed Login,4.0,True
+2482,2026-03-30 10:43:00,Passenger WiFi,Medium,Malware Signature,13.1,False
+244,2026-03-30 10:53:00,Crew Quarters,Low,Unauthorized Access,33.4,False
+2101,2026-03-30 11:25:00,Crew Quarters,Low,Bandwidth Anomaly,6.0,False
+1665,2026-03-30 13:05:00,Cargo Hold,Medium,Failed Login,7.2,False
+1870,2026-03-30 15:35:00,Bridge,High,Failed Login,0.9,True
+2121,2026-03-30 17:31:00,Bridge,Low,Unauthorized Access,10.3,False
+352,2026-03-30 21:07:00,Engine Room,Low,Bandwidth Anomaly,18.4,False
+938,2026-03-30 21:47:00,Bridge,High,Failed Login,31.1,True
+556,2026-03-30 22:16:00,Passenger WiFi,High,Unauthorized Access,19.1,False
+1172,2026-03-31 02:11:00,Engine Room,Medium,Port Scan,22.1,True
+457,2026-03-31 02:13:00,Passenger WiFi,Low,Port Scan,0.4,False
+1326,2026-03-31 04:31:00,Crew Quarters,Low,Port Scan,30.4,False
+1687,2026-03-31 04:34:00,Crew Quarters,Medium,Unauthorized Access,3.1,False
+440,2026-03-31 08:38:00,Bridge,Low,Unauthorized Access,10.5,False
+1532,2026-03-31 08:44:00,Cargo Hold,Low,Malware Signature,5.8,True
+158,2026-03-31 08:50:00,Passenger WiFi,Low,Failed Login,18.2,False
+1892,2026-03-31 10:07:00,Crew Quarters,Low,Unauthorized Access,7.1,False
+2116,2026-03-31 11:04:00,Passenger WiFi,Low,Port Scan,1.6,True
+698,2026-03-31 11:06:00,Engine Room,Low,Port Scan,16.7,False
+1237,2026-03-31 11:09:00,Bridge,Low,Unauthorized Access,6.8,False
+1053,2026-03-31 12:32:00,Bridge,Medium,Bandwidth Anomaly,21.3,True
+2298,2026-03-31 16:04:00,Passenger WiFi,Medium,Malware Signature,19.5,False
+2395,2026-03-31 16:40:00,Crew Quarters,Low,Failed Login,2.5,True
+1933,2026-03-31 16:52:00,Cargo Hold,Low,Port Scan,1.1,True
+584,2026-03-31 17:28:00,Bridge,Low,Unauthorized Access,0.5,False
+1389,2026-03-31 18:20:00,Crew Quarters,Low,Failed Login,8.4,True
+1862,2026-03-31 18:40:00,Cargo Hold,Medium,Firmware Mismatch,6.4,True
+1513,2026-03-31 19:23:00,Engine Room,Medium,Failed Login,12.6,False
+172,2026-03-31 19:26:00,Bridge,Low,Port Scan,9.9,True
+1388,2026-03-31 20:34:00,Bridge,Low,Failed Login,28.1,False
+24,2026-04-01 00:43:00,Bridge,Critical,Unauthorized Access,32.9,False
+734,2026-04-01 02:39:00,Engine Room,Low,Port Scan,6.0,False
+2403,2026-04-01 03:27:00,Engine Room,Low,Bandwidth Anomaly,29.4,True
+1269,2026-04-01 04:08:00,Bridge,Medium,Bandwidth Anomaly,1.1,False
+1643,2026-04-01 06:23:00,Crew Quarters,Low,Unauthorized Access,15.3,False
+877,2026-04-01 07:26:00,Bridge,Medium,Firmware Mismatch,34.9,False
+947,2026-04-01 07:30:00,Engine Room,Critical,Unauthorized Access,11.1,False
+1453,2026-04-01 11:07:00,Crew Quarters,Critical,Unauthorized Access,28.5,False
+2159,2026-04-01 12:23:00,Engine Room,Low,Bandwidth Anomaly,3.5,False
+2051,2026-04-01 12:23:00,Cargo Hold,Low,Port Scan,2.2,True
+211,2026-04-01 12:25:00,Crew Quarters,Medium,Failed Login,2.9,False
+372,2026-04-01 14:12:00,Cargo Hold,Medium,Unauthorized Access,31.1,False
+840,2026-04-01 18:33:00,Crew Quarters,Low,Malware Signature,16.7,False
+1320,2026-04-01 19:01:00,Engine Room,Low,Bandwidth Anomaly,84.0,False
+778,2026-04-01 19:40:00,Passenger WiFi,Medium,Bandwidth Anomaly,11.4,True
+820,2026-04-01 21:27:00,Cargo Hold,Critical,Failed Login,10.7,True
+1149,2026-04-02 00:02:00,Engine Room,Low,Port Scan,12.1,True
+2107,2026-04-02 00:37:00,Crew Quarters,Low,Unauthorized Access,16.5,False
+1038,2026-04-02 00:48:00,Crew Quarters,High,Failed Login,9.1,False
+2334,2026-04-02 01:38:00,Engine Room,Low,Failed Login,35.8,False
+1375,2026-04-02 01:55:00,Passenger WiFi,Medium,Malware Signature,10.1,False
+38,2026-04-02 03:54:00,Passenger WiFi,Low,Firmware Mismatch,12.7,True
+69,2026-04-02 04:53:00,Cargo Hold,High,Unauthorized Access,23.3,True
+1059,2026-04-02 05:55:00,Engine Room,Critical,Failed Login,4.6,False
+1501,2026-04-02 08:18:00,Cargo Hold,Medium,Malware Signature,54.9,True
+1596,2026-04-02 09:40:00,Passenger WiFi,High,Malware Signature,12.4,True
+586,2026-04-02 12:49:00,Passenger WiFi,Medium,Malware Signature,23.2,False
+2112,2026-04-02 13:01:00,Cargo Hold,High,Firmware Mismatch,18.9,True
+1944,2026-04-02 16:53:00,Cargo Hold,High,Bandwidth Anomaly,33.5,False
+1522,2026-04-02 17:53:00,Passenger WiFi,Low,Bandwidth Anomaly,27.7,False
+1274,2026-04-02 23:35:00,Cargo Hold,Medium,Port Scan,5.5,False
+886,2026-04-03 00:09:00,Engine Room,Medium,Firmware Mismatch,1.2,False
+375,2026-04-03 01:31:00,Bridge,High,Failed Login,28.9,True
+2310,2026-04-03 02:05:00,Cargo Hold,Low,Port Scan,4.9,False
+2000,2026-04-03 02:48:00,Crew Quarters,Low,Firmware Mismatch,31.2,True
+1081,2026-04-03 04:07:00,Bridge,Critical,Failed Login,54.4,True
+1357,2026-04-03 06:19:00,Crew Quarters,High,Firmware Mismatch,10.5,False
+1734,2026-04-03 07:30:00,Passenger WiFi,High,Failed Login,14.2,True
+249,2026-04-03 07:42:00,Cargo Hold,Medium,Malware Signature,26.9,False
+1733,2026-04-03 10:03:00,Passenger WiFi,High,Firmware Mismatch,6.0,True
+1312,2026-04-03 10:45:00,Passenger WiFi,Low,Firmware Mismatch,9.2,False
+342,2026-04-03 11:54:00,Cargo Hold,Critical,Port Scan,6.7,False
+1608,2026-04-03 12:26:00,Cargo Hold,Medium,Port Scan,0.2,True
+537,2026-04-03 13:54:00,Crew Quarters,Critical,Port Scan,11.1,False
+418,2026-04-03 14:28:00,Engine Room,Low,Failed Login,0.0,False
+2276,2026-04-03 15:14:00,Passenger WiFi,Low,Bandwidth Anomaly,32.8,False
+360,2026-04-03 16:18:00,Passenger WiFi,Low,Failed Login,49.4,True
+643,2026-04-03 17:15:00,Passenger WiFi,High,Unauthorized Access,13.7,False
+359,2026-04-03 17:18:00,Bridge,Low,Malware Signature,11.1,False
+1763,2026-04-03 18:18:00,Bridge,High,Bandwidth Anomaly,21.3,False
+1173,2026-04-03 19:06:00,Passenger WiFi,Low,Firmware Mismatch,4.6,True
+459,2026-04-03 20:40:00,Engine Room,Low,Unauthorized Access,34.8,False
+732,2026-04-03 21:52:00,Passenger WiFi,High,Firmware Mismatch,19.8,False
+1192,2026-04-03 22:37:00,Bridge,Medium,Unauthorized Access,3.1,False
+1940,2026-04-03 23:09:00,Engine Room,Medium,Firmware Mismatch,45.4,True
+1771,2026-04-03 23:49:00,Cargo Hold,High,Bandwidth Anomaly,16.6,False
+664,2026-04-04 00:31:00,Crew Quarters,High,Port Scan,11.5,True
+632,2026-04-04 05:00:00,Bridge,High,Bandwidth Anomaly,24.7,False
+1263,2026-04-04 05:20:00,Engine Room,Medium,Malware Signature,9.5,False
+1470,2026-04-04 05:59:00,Crew Quarters,Medium,Unauthorized Access,13.8,False
+263,2026-04-04 08:03:00,Passenger WiFi,Low,Unauthorized Access,13.1,True
+1421,2026-04-04 08:50:00,Bridge,Medium,Failed Login,0.4,False
+2329,2026-04-04 09:02:00,Engine Room,Medium,Bandwidth Anomaly,49.9,False
+321,2026-04-04 11:23:00,Engine Room,Low,Bandwidth Anomaly,17.6,True
+104,2026-04-04 12:28:00,Engine Room,Medium,Unauthorized Access,10.4,False
+1673,2026-04-04 13:47:00,Passenger WiFi,Low,Port Scan,9.8,True
+1436,2026-04-04 13:47:00,Passenger WiFi,High,Bandwidth Anomaly,3.8,False
+278,2026-04-04 16:16:00,Crew Quarters,Medium,Bandwidth Anomaly,19.9,False
+1455,2026-04-04 19:36:00,Bridge,Medium,Firmware Mismatch,32.7,False
+1474,2026-04-04 19:44:00,Passenger WiFi,Medium,Failed Login,9.6,False
+145,2026-04-04 22:42:00,Cargo Hold,Medium,Unauthorized Access,8.8,False
+2158,2026-04-05 00:01:00,Cargo Hold,High,Unauthorized Access,18.0,True
+2043,2026-04-05 01:26:00,Passenger WiFi,Low,Unauthorized Access,3.8,True
+2333,2026-04-05 02:31:00,Cargo Hold,Critical,Firmware Mismatch,0.8,True
+779,2026-04-05 03:46:00,Crew Quarters,High,Malware Signature,1.6,False
+130,2026-04-05 05:36:00,Passenger WiFi,Low,Unauthorized Access,42.4,False
+855,2026-04-05 06:57:00,Cargo Hold,Low,Bandwidth Anomaly,34.0,False
+1984,2026-04-05 07:18:00,Bridge,Low,Port Scan,0.4,True
+46,2026-04-05 08:50:00,Bridge,Medium,Firmware Mismatch,0.2,False
+139,2026-04-05 09:26:00,Engine Room,Medium,Failed Login,28.4,False
+2198,2026-04-05 10:31:00,Passenger WiFi,Medium,Malware Signature,6.1,False
+827,2026-04-05 11:51:00,Engine Room,Critical,Firmware Mismatch,35.0,False
+1869,2026-04-05 14:47:00,Passenger WiFi,Medium,Failed Login,16.8,True
+1289,2026-04-05 16:24:00,Crew Quarters,Medium,Port Scan,32.8,False
+2354,2026-04-05 17:14:00,Crew Quarters,Medium,Failed Login,30.3,False
+2418,2026-04-05 17:49:00,Cargo Hold,Low,Firmware Mismatch,5.1,True
+2093,2026-04-05 18:03:00,Bridge,Medium,Failed Login,5.9,True
+2267,2026-04-05 20:22:00,Crew Quarters,Critical,Failed Login,8.3,False
+1557,2026-04-05 20:53:00,Crew Quarters,Low,Failed Login,27.9,False
+1370,2026-04-05 20:56:00,Crew Quarters,Low,Port Scan,3.1,False
+1100,2026-04-05 23:27:00,Engine Room,Low,Bandwidth Anomaly,51.7,False
+745,2026-04-06 01:15:00,Crew Quarters,Medium,Firmware Mismatch,0.1,True
+2182,2026-04-06 02:54:00,Bridge,Medium,Failed Login,6.3,False
+641,2026-04-06 02:54:00,Cargo Hold,Low,Port Scan,8.3,False
+159,2026-04-06 03:13:00,Bridge,High,Failed Login,7.0,True
+266,2026-04-06 03:21:00,Bridge,High,Bandwidth Anomaly,11.1,False
+2280,2026-04-06 04:07:00,Bridge,Low,Bandwidth Anomaly,7.1,False
+2285,2026-04-06 04:58:00,Passenger WiFi,Low,Firmware Mismatch,22.9,False
+771,2026-04-06 06:59:00,Passenger WiFi,Medium,Firmware Mismatch,1.1,False
+1512,2026-04-06 08:00:00,Engine Room,Low,Bandwidth Anomaly,33.2,False
+2039,2026-04-06 09:08:00,Cargo Hold,High,Firmware Mismatch,0.9,False
+1397,2026-04-06 09:41:00,Engine Room,High,Failed Login,3.3,True
+1908,2026-04-06 11:13:00,Passenger WiFi,Critical,Malware Signature,9.6,False
+1063,2026-04-06 11:49:00,Cargo Hold,Critical,Bandwidth Anomaly,1.3,False
+1542,2026-04-06 13:40:00,Cargo Hold,Low,Unauthorized Access,13.0,False
+917,2026-04-06 14:43:00,Crew Quarters,High,Unauthorized Access,9.1,True
+22,2026-04-06 15:51:00,Passenger WiFi,Low,Bandwidth Anomaly,0.2,True
+101,2026-04-06 19:51:00,Cargo Hold,High,Failed Login,3.6,True
+567,2026-04-06 22:22:00,Crew Quarters,Medium,Failed Login,4.7,False
+425,2026-04-07 00:33:00,Crew Quarters,Low,Bandwidth Anomaly,3.2,True
+1871,2026-04-07 01:56:00,Crew Quarters,Low,Failed Login,16.8,False
+1649,2026-04-07 04:55:00,Engine Room,High,Malware Signature,17.0,False
+569,2026-04-07 05:07:00,Cargo Hold,Medium,Port Scan,3.9,False
+1488,2026-04-07 07:34:00,Cargo Hold,Medium,Unauthorized Access,7.8,True
+823,2026-04-07 09:13:00,Engine Room,Critical,Bandwidth Anomaly,40.6,False
+2262,2026-04-07 10:10:00,Cargo Hold,Medium,Firmware Mismatch,28.5,False
+941,2026-04-07 12:02:00,Engine Room,Low,Port Scan,4.5,False
+1702,2026-04-07 13:34:00,Cargo Hold,High,Firmware Mismatch,19.6,False
+1667,2026-04-07 19:18:00,Bridge,Low,Firmware Mismatch,4.3,True
+335,2026-04-07 19:27:00,Cargo Hold,High,Unauthorized Access,15.7,True
+774,2026-04-07 20:24:00,Engine Room,Low,Malware Signature,15.7,True
+668,2026-04-07 21:54:00,Bridge,Critical,Port Scan,26.1,False
+676,2026-04-07 21:56:00,Passenger WiFi,High,Failed Login,0.8,False
+1927,2026-04-07 23:37:00,Passenger WiFi,Medium,Port Scan,4.1,False
+2046,2026-04-07 23:52:00,Cargo Hold,Medium,Unauthorized Access,11.1,False
+1154,2026-04-08 01:09:00,Bridge,Critical,Failed Login,15.4,False
+1613,2026-04-08 01:33:00,Bridge,Low,Bandwidth Anomaly,33.0,False
+1351,2026-04-08 02:03:00,Passenger WiFi,Medium,Malware Signature,29.4,False
+1708,2026-04-08 02:59:00,Cargo Hold,Critical,Firmware Mismatch,0.5,True
+2419,2026-04-08 05:29:00,Passenger WiFi,Low,Malware Signature,4.5,False
+204,2026-04-08 05:32:00,Bridge,Low,Port Scan,24.6,True
+796,2026-04-08 07:25:00,Engine Room,Medium,Bandwidth Anomaly,0.8,False
+1327,2026-04-08 07:29:00,Crew Quarters,Low,Unauthorized Access,27.0,False
+502,2026-04-08 08:33:00,Bridge,Low,Failed Login,13.8,False
+1393,2026-04-08 08:57:00,Passenger WiFi,Medium,Firmware Mismatch,2.4,False
+2011,2026-04-08 12:47:00,Passenger WiFi,High,Bandwidth Anomaly,16.7,False
+319,2026-04-08 13:10:00,Engine Room,Low,Port Scan,17.3,False
+100,2026-04-08 13:24:00,Bridge,Critical,Port Scan,16.4,True
+1310,2026-04-08 13:44:00,Passenger WiFi,Critical,Unauthorized Access,3.3,False
+1121,2026-04-08 14:11:00,Engine Room,Medium,Firmware Mismatch,5.9,True
+1745,2026-04-08 14:28:00,Bridge,Low,Bandwidth Anomaly,10.2,True
+157,2026-04-08 15:24:00,Cargo Hold,High,Port Scan,16.7,False
+1358,2026-04-08 16:39:00,Engine Room,Critical,Malware Signature,30.3,False
+1900,2026-04-08 17:34:00,Cargo Hold,Medium,Malware Signature,0.8,False
+1073,2026-04-08 21:54:00,Crew Quarters,Medium,Malware Signature,1.1,False
+2050,2026-04-08 23:41:00,Engine Room,High,Port Scan,0.3,False
+1852,2026-04-08 23:44:00,Bridge,Low,Firmware Mismatch,36.7,False
+2353,2026-04-08 23:49:00,Cargo Hold,Low,Bandwidth Anomaly,42.5,True
+708,2026-04-09 00:40:00,Crew Quarters,Low,Port Scan,10.6,True
+1521,2026-04-09 01:16:00,Cargo Hold,High,Malware Signature,19.4,False
+911,2026-04-09 01:32:00,Cargo Hold,High,Malware Signature,26.5,False
+2326,2026-04-09 01:40:00,Crew Quarters,High,Failed Login,1.6,True
+326,2026-04-09 01:53:00,Bridge,Critical,Failed Login,28.7,False
+2493,2026-04-09 03:27:00,Crew Quarters,Critical,Failed Login,11.7,False
+867,2026-04-09 03:36:00,Cargo Hold,Low,Firmware Mismatch,27.1,True
+1533,2026-04-09 03:53:00,Bridge,Low,Bandwidth Anomaly,54.9,False
+2019,2026-04-09 04:18:00,Cargo Hold,Low,Firmware Mismatch,17.0,False
+921,2026-04-09 04:51:00,Crew Quarters,Low,Unauthorized Access,0.2,False
+1759,2026-04-09 04:53:00,Passenger WiFi,High,Firmware Mismatch,8.1,False
+427,2026-04-09 08:01:00,Bridge,Medium,Firmware Mismatch,1.9,True
+2383,2026-04-09 08:04:00,Cargo Hold,Medium,Unauthorized Access,16.2,True
+19,2026-04-09 12:36:00,Bridge,Low,Unauthorized Access,16.4,False
+2185,2026-04-09 13:00:00,Cargo Hold,Low,Malware Signature,3.6,False
+1948,2026-04-09 13:34:00,Cargo Hold,Medium,Port Scan,28.5,True
+1915,2026-04-09 16:53:00,Crew Quarters,Medium,Firmware Mismatch,22.3,True
+1481,2026-04-09 17:38:00,Engine Room,Medium,Malware Signature,16.9,False
+2447,2026-04-09 19:46:00,Crew Quarters,Low,Port Scan,22.4,False
+448,2026-04-10 00:07:00,Bridge,Low,Firmware Mismatch,5.1,False
+723,2026-04-10 01:25:00,Engine Room,Critical,Firmware Mismatch,25.3,False
+787,2026-04-10 01:59:00,Engine Room,Critical,Bandwidth Anomaly,7.2,False
+916,2026-04-10 05:00:00,Passenger WiFi,Low,Bandwidth Anomaly,32.8,False
+1753,2026-04-10 06:56:00,Cargo Hold,Critical,Port Scan,1.2,False
+2130,2026-04-10 08:47:00,Engine Room,High,Failed Login,1.0,False
+401,2026-04-10 08:52:00,Crew Quarters,High,Port Scan,52.9,True
+1374,2026-04-10 09:53:00,Crew Quarters,Critical,Unauthorized Access,22.0,True
+1019,2026-04-10 15:10:00,Engine Room,Low,Bandwidth Anomaly,5.1,False
+764,2026-04-10 16:10:00,Passenger WiFi,Low,Failed Login,21.6,True
+2391,2026-04-10 17:50:00,Crew Quarters,Low,Bandwidth Anomaly,1.5,True
+2498,2026-04-10 19:57:00,Engine Room,Medium,Port Scan,10.5,False
+1441,2026-04-10 20:12:00,Passenger WiFi,Low,Firmware Mismatch,7.0,True
+330,2026-04-10 20:20:00,Engine Room,Low,Firmware Mismatch,19.4,False
+1910,2026-04-10 20:28:00,Cargo Hold,Medium,Bandwidth Anomaly,8.7,False
+1495,2026-04-10 20:37:00,Cargo Hold,Medium,Failed Login,32.2,False
+1183,2026-04-10 21:33:00,Passenger WiFi,Low,Failed Login,7.7,False
+1242,2026-04-11 01:33:00,Passenger WiFi,Medium,Failed Login,22.6,False
+2037,2026-04-11 01:47:00,Cargo Hold,Low,Firmware Mismatch,3.3,False
+250,2026-04-11 03:25:00,Crew Quarters,Low,Malware Signature,8.3,True
+1480,2026-04-11 04:04:00,Cargo Hold,Medium,Bandwidth Anomaly,3.2,True
+1624,2026-04-11 04:31:00,Bridge,Low,Unauthorized Access,30.2,False
+208,2026-04-11 05:10:00,Crew Quarters,High,Malware Signature,18.0,False
+1325,2026-04-11 05:14:00,Engine Room,Low,Failed Login,12.2,False
+912,2026-04-11 07:28:00,Crew Quarters,Low,Port Scan,5.4,True
+773,2026-04-11 08:00:00,Cargo Hold,Medium,Malware Signature,39.3,True
+500,2026-04-11 10:45:00,Bridge,Low,Unauthorized Access,17.0,False
+471,2026-04-11 13:29:00,Engine Room,Low,Unauthorized Access,1.4,False
+1266,2026-04-11 14:24:00,Cargo Hold,High,Unauthorized Access,10.8,False
+386,2026-04-11 15:00:00,Bridge,Medium,Failed Login,19.6,False
+1581,2026-04-11 17:31:00,Cargo Hold,Medium,Firmware Mismatch,7.8,True
+2398,2026-04-11 17:44:00,Bridge,Low,Bandwidth Anomaly,46.8,False
+2184,2026-04-11 17:54:00,Crew Quarters,Medium,Unauthorized Access,18.7,False
+2265,2026-04-11 18:27:00,Crew Quarters,Medium,Malware Signature,26.8,True
+1212,2026-04-11 18:29:00,Crew Quarters,Low,Unauthorized Access,0.2,False
+1331,2026-04-11 19:48:00,Passenger WiFi,Medium,Unauthorized Access,6.1,False
+826,2026-04-11 20:10:00,Passenger WiFi,Medium,Bandwidth Anomaly,17.6,False
+383,2026-04-11 21:16:00,Bridge,Medium,Port Scan,48.2,False
+1636,2026-04-12 02:03:00,Engine Room,Low,Malware Signature,20.8,False
+2465,2026-04-12 03:31:00,Crew Quarters,Low,Malware Signature,10.0,True
+1592,2026-04-12 04:51:00,Bridge,Low,Bandwidth Anomaly,48.1,False
+640,2026-04-12 05:10:00,Passenger WiFi,High,Bandwidth Anomaly,2.2,False
+1568,2026-04-12 06:42:00,Engine Room,Low,Firmware Mismatch,9.8,False
+410,2026-04-12 07:32:00,Cargo Hold,High,Failed Login,20.8,False
+492,2026-04-12 08:06:00,Passenger WiFi,Low,Firmware Mismatch,12.0,False
+533,2026-04-12 08:37:00,Engine Room,High,Port Scan,0.6,False
+1210,2026-04-12 09:38:00,Passenger WiFi,High,Unauthorized Access,12.2,True
+203,2026-04-12 10:31:00,Bridge,Low,Malware Signature,15.1,True
+1494,2026-04-12 11:27:00,Engine Room,Medium,Failed Login,27.3,True
+481,2026-04-12 12:20:00,Bridge,Medium,Firmware Mismatch,11.2,False
+1105,2026-04-12 13:13:00,Crew Quarters,Medium,Failed Login,26.2,False
+973,2026-04-12 16:45:00,Passenger WiFi,Medium,Port Scan,17.5,False
+306,2026-04-12 18:10:00,Cargo Hold,Low,Firmware Mismatch,113.1,True
+1566,2026-04-12 18:45:00,Bridge,High,Bandwidth Anomaly,6.2,False
+719,2026-04-12 19:35:00,Engine Room,Low,Bandwidth Anomaly,14.9,False
+950,2026-04-12 19:55:00,Bridge,High,Malware Signature,78.3,False
+503,2026-04-12 19:57:00,Passenger WiFi,High,Bandwidth Anomaly,17.9,True
+2488,2026-04-12 20:07:00,Bridge,Low,Port Scan,4.5,False
+543,2026-04-12 20:59:00,Engine Room,Low,Bandwidth Anomaly,0.3,True
+414,2026-04-12 23:16:00,Cargo Hold,Medium,Firmware Mismatch,4.5,False
+2200,2026-04-12 23:42:00,Passenger WiFi,Low,Firmware Mismatch,12.9,True
+2457,2026-04-13 00:11:00,Cargo Hold,Low,Failed Login,1.0,False
+402,2026-04-13 02:21:00,Passenger WiFi,High,Unauthorized Access,12.3,False
+1688,2026-04-13 05:05:00,Crew Quarters,High,Bandwidth Anomaly,8.6,True
+1520,2026-04-13 05:08:00,Passenger WiFi,Low,Malware Signature,28.5,False
+627,2026-04-13 06:32:00,Cargo Hold,Medium,Port Scan,11.0,False
+155,2026-04-13 06:45:00,Crew Quarters,Medium,Bandwidth Anomaly,18.0,True
+2009,2026-04-13 06:46:00,Engine Room,Medium,Unauthorized Access,6.8,False
+1438,2026-04-13 06:46:00,Bridge,Low,Malware Signature,10.0,False
+1517,2026-04-13 08:36:00,Crew Quarters,Low,Unauthorized Access,1.8,False
+238,2026-04-13 08:49:00,Cargo Hold,High,Malware Signature,44.3,False
+234,2026-04-13 12:07:00,Cargo Hold,Low,Bandwidth Anomaly,17.0,False
+1725,2026-04-13 12:20:00,Passenger WiFi,High,Failed Login,7.0,True
+469,2026-04-13 14:52:00,Bridge,Low,Malware Signature,22.8,False
+1902,2026-04-13 17:15:00,Passenger WiFi,Medium,Port Scan,42.8,True
+376,2026-04-13 18:35:00,Crew Quarters,High,Bandwidth Anomaly,14.9,False
+1637,2026-04-13 19:20:00,Engine Room,Low,Port Scan,14.9,True
+1200,2026-04-13 20:15:00,Engine Room,High,Failed Login,2.3,False
+1867,2026-04-13 21:43:00,Engine Room,Medium,Bandwidth Anomaly,25.8,False
+969,2026-04-13 21:49:00,Cargo Hold,Medium,Bandwidth Anomaly,52.3,True
+1837,2026-04-14 00:03:00,Bridge,Medium,Port Scan,7.9,True
+551,2026-04-14 00:52:00,Crew Quarters,Critical,Port Scan,24.4,False
+1774,2026-04-14 00:58:00,Passenger WiFi,Low,Bandwidth Anomaly,17.1,True
+2323,2026-04-14 04:12:00,Passenger WiFi,Critical,Failed Login,11.4,False
+56,2026-04-14 05:41:00,Bridge,Medium,Bandwidth Anomaly,2.3,False
+430,2026-04-14 06:19:00,Cargo Hold,Critical,Failed Login,20.6,False
+980,2026-04-14 07:29:00,Crew Quarters,Low,Failed Login,1.8,False
+2162,2026-04-14 09:38:00,Passenger WiFi,Low,Port Scan,10.8,False
+374,2026-04-14 10:17:00,Crew Quarters,Medium,Failed Login,1.4,False
+2166,2026-04-14 11:03:00,Crew Quarters,Critical,Malware Signature,21.7,True
+919,2026-04-14 13:21:00,Passenger WiFi,Low,Port Scan,7.8,False
+1065,2026-04-14 15:00:00,Bridge,Medium,Port Scan,5.2,False
+2279,2026-04-14 16:03:00,Crew Quarters,Medium,Failed Login,20.5,False
+2113,2026-04-14 16:33:00,Bridge,Low,Port Scan,3.4,False
+2399,2026-04-14 16:34:00,Passenger WiFi,High,Malware Signature,19.9,True
+857,2026-04-14 16:46:00,Crew Quarters,Critical,Failed Login,9.1,True
+609,2026-04-14 16:54:00,Engine Room,Medium,Unauthorized Access,124.5,False
+1969,2026-04-14 17:09:00,Engine Room,Medium,Bandwidth Anomaly,14.8,True
+362,2026-04-14 17:22:00,Cargo Hold,High,Firmware Mismatch,61.5,True
+1239,2026-04-14 20:03:00,Bridge,Low,Port Scan,17.3,False
+5,2026-04-15 00:19:00,Passenger WiFi,Medium,Bandwidth Anomaly,21.2,False
+1530,2026-04-15 01:22:00,Engine Room,High,Port Scan,21.7,False
+1041,2026-04-15 02:41:00,Crew Quarters,High,Bandwidth Anomaly,59.8,False
+1043,2026-04-15 03:17:00,Crew Quarters,Medium,Failed Login,5.7,False
+1107,2026-04-15 05:13:00,Bridge,Medium,Port Scan,9.8,False
+2117,2026-04-15 06:04:00,Crew Quarters,Medium,Unauthorized Access,3.0,True
+753,2026-04-15 09:14:00,Bridge,Medium,Failed Login,27.0,True
+1509,2026-04-15 09:46:00,Bridge,Low,Unauthorized Access,17.3,False
+355,2026-04-15 10:14:00,Engine Room,Medium,Port Scan,8.8,True
+1573,2026-04-15 10:39:00,Bridge,Low,Malware Signature,4.9,False
+461,2026-04-15 13:08:00,Bridge,Low,Port Scan,12.0,False
+928,2026-04-15 13:46:00,Cargo Hold,Critical,Bandwidth Anomaly,4.2,False
+1323,2026-04-15 14:10:00,Passenger WiFi,Critical,Unauthorized Access,0.6,False
+2296,2026-04-15 14:15:00,Crew Quarters,Medium,Unauthorized Access,3.2,True
+599,2026-04-15 18:56:00,Passenger WiFi,Medium,Firmware Mismatch,8.7,True
+1706,2026-04-15 19:01:00,Crew Quarters,Medium,Unauthorized Access,3.9,False
+189,2026-04-15 19:35:00,Bridge,Low,Firmware Mismatch,30.8,False
+2343,2026-04-15 21:10:00,Passenger WiFi,Critical,Unauthorized Access,8.2,True
+1044,2026-04-15 21:21:00,Bridge,Medium,Firmware Mismatch,10.0,True
+4,2026-04-16 02:07:00,Passenger WiFi,Medium,Malware Signature,1.9,False
+1971,2026-04-16 02:17:00,Bridge,Low,Firmware Mismatch,2.0,False
+2062,2026-04-16 02:49:00,Passenger WiFi,High,Port Scan,40.1,True
+2450,2026-04-16 04:03:00,Passenger WiFi,Low,Failed Login,5.6,False
+1101,2026-04-16 05:20:00,Passenger WiFi,Critical,Port Scan,22.7,False
+1894,2026-04-16 05:52:00,Engine Room,Low,Port Scan,31.1,True
+2127,2026-04-16 06:02:00,Crew Quarters,Medium,Port Scan,13.9,True
+2063,2026-04-16 09:01:00,Bridge,Low,Malware Signature,1.8,True
+463,2026-04-16 10:17:00,Passenger WiFi,Medium,Unauthorized Access,3.6,True
+1946,2026-04-16 11:03:00,Bridge,Critical,Failed Login,11.3,True
+1855,2026-04-16 11:15:00,Bridge,Low,Unauthorized Access,48.7,True
+2324,2026-04-16 12:37:00,Cargo Hold,High,Failed Login,15.3,False
+265,2026-04-16 14:43:00,Cargo Hold,Critical,Failed Login,16.2,False
+582,2026-04-16 17:06:00,Passenger WiFi,High,Malware Signature,33.0,False
+317,2026-04-16 20:40:00,Crew Quarters,Low,Malware Signature,19.2,False
+1722,2026-04-16 21:33:00,Crew Quarters,Medium,Port Scan,0.2,True
+534,2026-04-17 03:00:00,Passenger WiFi,Medium,Bandwidth Anomaly,26.6,False
+1646,2026-04-17 04:02:00,Bridge,Low,Firmware Mismatch,7.7,False
+477,2026-04-17 04:13:00,Cargo Hold,Low,Unauthorized Access,13.4,False
+1876,2026-04-17 04:53:00,Passenger WiFi,Medium,Unauthorized Access,5.4,True
+518,2026-04-17 05:03:00,Passenger WiFi,Medium,Failed Login,1.0,True
+2001,2026-04-17 07:36:00,Cargo Hold,Medium,Malware Signature,8.1,False
+1570,2026-04-17 10:42:00,Crew Quarters,Low,Bandwidth Anomaly,1.4,False
+2416,2026-04-17 13:01:00,Passenger WiFi,Critical,Unauthorized Access,12.4,False
+998,2026-04-17 16:02:00,Bridge,High,Malware Signature,62.1,False
+1879,2026-04-17 16:50:00,Engine Room,Medium,Port Scan,19.3,True
+960,2026-04-17 17:03:00,Bridge,Critical,Port Scan,51.5,False
+851,2026-04-17 17:56:00,Crew Quarters,Low,Port Scan,24.3,True
+1880,2026-04-17 18:34:00,Passenger WiFi,Medium,Bandwidth Anomaly,3.5,False
+1754,2026-04-17 19:14:00,Passenger WiFi,Medium,Port Scan,18.5,False
+1315,2026-04-17 21:24:00,Passenger WiFi,Medium,Bandwidth Anomaly,1.5,False
+1720,2026-04-17 21:29:00,Passenger WiFi,Critical,Firmware Mismatch,7.9,False
+1209,2026-04-17 21:34:00,Engine Room,Low,Bandwidth Anomaly,22.5,True
+2412,2026-04-17 23:27:00,Cargo Hold,Low,Bandwidth Anomaly,6.6,False
+1563,2026-04-17 23:49:00,Passenger WiFi,High,Unauthorized Access,12.3,False
+986,2026-04-18 00:27:00,Crew Quarters,High,Failed Login,21.8,False
+354,2026-04-18 00:37:00,Cargo Hold,Medium,Bandwidth Anomaly,7.4,False
+648,2026-04-18 02:40:00,Passenger WiFi,Low,Port Scan,29.7,False
+1002,2026-04-18 02:40:00,Cargo Hold,Medium,Unauthorized Access,9.6,False
+52,2026-04-18 02:49:00,Cargo Hold,Low,Malware Signature,3.3,False
+20,2026-04-18 03:59:00,Cargo Hold,Low,Bandwidth Anomaly,10.2,False
+1589,2026-04-18 04:44:00,Cargo Hold,Medium,Malware Signature,9.3,False
+320,2026-04-18 07:27:00,Crew Quarters,Low,Unauthorized Access,60.2,False
+1074,2026-04-18 10:21:00,Crew Quarters,Low,Port Scan,28.9,True
+725,2026-04-18 11:42:00,Bridge,Low,Firmware Mismatch,3.4,True
+1635,2026-04-18 12:39:00,Engine Room,High,Failed Login,3.9,True
+141,2026-04-18 12:55:00,Bridge,High,Failed Login,24.4,False
+2054,2026-04-18 14:48:00,Crew Quarters,Low,Failed Login,3.9,False
+331,2026-04-18 15:21:00,Crew Quarters,Low,Malware Signature,3.7,False
+1399,2026-04-18 16:13:00,Bridge,Low,Unauthorized Access,26.6,False
+2338,2026-04-18 16:22:00,Cargo Hold,High,Bandwidth Anomaly,22.8,True
+580,2026-04-18 18:16:00,Cargo Hold,Low,Malware Signature,13.4,False
+2122,2026-04-18 23:51:00,Passenger WiFi,Medium,Firmware Mismatch,9.7,False
+218,2026-04-19 00:32:00,Cargo Hold,Medium,Unauthorized Access,37.8,False
+2125,2026-04-19 01:36:00,Crew Quarters,Low,Firmware Mismatch,5.8,True
+906,2026-04-19 03:17:00,Engine Room,Low,Failed Login,17.5,False
+651,2026-04-19 03:17:00,Engine Room,Low,Malware Signature,6.1,False
+1202,2026-04-19 04:10:00,Cargo Hold,Low,Bandwidth Anomaly,26.6,False
+1890,2026-04-19 06:53:00,Engine Room,Medium,Unauthorized Access,0.9,True
+108,2026-04-19 07:19:00,Cargo Hold,Low,Unauthorized Access,0.2,False
+1625,2026-04-19 07:53:00,Bridge,Low,Firmware Mismatch,60.8,True
+536,2026-04-19 08:38:00,Passenger WiFi,Medium,Malware Signature,14.0,False
+2219,2026-04-19 08:46:00,Passenger WiFi,Low,Firmware Mismatch,11.3,False
+224,2026-04-19 08:50:00,Cargo Hold,Medium,Firmware Mismatch,14.9,False
+811,2026-04-19 10:36:00,Cargo Hold,Critical,Unauthorized Access,4.2,False
+1979,2026-04-19 10:44:00,Engine Room,Medium,Bandwidth Anomaly,13.6,False
+1713,2026-04-19 12:01:00,Engine Room,Medium,Failed Login,27.2,False
+2429,2026-04-19 12:14:00,Cargo Hold,Low,Failed Login,3.4,True
+1519,2026-04-19 12:23:00,Cargo Hold,High,Bandwidth Anomaly,2.6,True
+715,2026-04-19 12:49:00,Crew Quarters,Medium,Failed Login,1.7,False
+588,2026-04-19 13:47:00,Bridge,Low,Unauthorized Access,12.0,False
+2490,2026-04-19 18:30:00,Bridge,Critical,Port Scan,9.4,False
+2196,2026-04-19 19:08:00,Cargo Hold,High,Firmware Mismatch,5.0,True
+1486,2026-04-19 21:22:00,Bridge,Low,Malware Signature,7.0,True
+2123,2026-04-19 22:24:00,Crew Quarters,Medium,Firmware Mismatch,34.8,False
+408,2026-04-20 00:19:00,Cargo Hold,Low,Port Scan,4.1,False
+2423,2026-04-20 01:21:00,Crew Quarters,Medium,Unauthorized Access,17.3,False
+1950,2026-04-20 03:49:00,Passenger WiFi,Medium,Unauthorized Access,4.1,False
+1634,2026-04-20 04:41:00,Engine Room,Low,Malware Signature,38.6,False
+2119,2026-04-20 04:48:00,Crew Quarters,Low,Firmware Mismatch,6.0,True
+1478,2026-04-20 05:43:00,Passenger WiFi,Medium,Firmware Mismatch,39.1,False
+2415,2026-04-20 05:54:00,Crew Quarters,Low,Failed Login,74.1,False
+114,2026-04-20 13:37:00,Crew Quarters,Low,Failed Login,1.8,False
+432,2026-04-20 15:32:00,Bridge,Medium,Malware Signature,9.0,False
+452,2026-04-20 16:42:00,Cargo Hold,Medium,Failed Login,17.8,True
+2236,2026-04-20 17:52:00,Engine Room,Medium,Firmware Mismatch,5.2,True
+1620,2026-04-20 18:16:00,Engine Room,Low,Malware Signature,0.2,True
+405,2026-04-20 18:26:00,Cargo Hold,Medium,Malware Signature,58.1,False
+1991,2026-04-20 18:39:00,Passenger WiFi,Low,Bandwidth Anomaly,12.6,False
+1463,2026-04-20 19:35:00,Crew Quarters,Medium,Bandwidth Anomaly,5.6,False
+1529,2026-04-20 19:59:00,Engine Room,Medium,Failed Login,8.0,False
+1868,2026-04-20 20:10:00,Engine Room,Critical,Failed Login,1.5,False
+2282,2026-04-20 22:58:00,Crew Quarters,Low,Bandwidth Anomaly,14.9,False
+2208,2026-04-20 23:34:00,Crew Quarters,Low,Port Scan,30.8,False
+73,2026-04-20 23:35:00,Passenger WiFi,Medium,Malware Signature,4.2,False
+1077,2026-04-21 07:02:00,Passenger WiFi,Critical,Failed Login,1.7,False
+2195,2026-04-21 08:24:00,Cargo Hold,Medium,Malware Signature,7.6,False
+2133,2026-04-21 10:59:00,Engine Room,Medium,Firmware Mismatch,2.2,True
+2446,2026-04-21 11:03:00,Cargo Hold,Low,Bandwidth Anomaly,2.2,False
+154,2026-04-21 11:28:00,Bridge,Medium,Malware Signature,73.6,False
+1824,2026-04-21 11:32:00,Passenger WiFi,High,Malware Signature,34.2,False
+150,2026-04-21 13:06:00,Cargo Hold,High,Bandwidth Anomaly,5.4,False
+1865,2026-04-21 15:39:00,Cargo Hold,Medium,Failed Login,7.8,False
+1548,2026-04-21 17:51:00,Cargo Hold,Critical,Bandwidth Anomaly,14.5,True
+1344,2026-04-21 18:59:00,Passenger WiFi,High,Failed Login,18.9,False
+1227,2026-04-21 22:59:00,Crew Quarters,High,Unauthorized Access,29.0,True
+1585,2026-04-21 23:27:00,Crew Quarters,Medium,Port Scan,39.5,False
+1895,2026-04-21 23:48:00,Bridge,High,Failed Login,28.6,False
+305,2026-04-22 03:15:00,Crew Quarters,Low,Failed Login,2.3,True
+2364,2026-04-22 04:40:00,Cargo Hold,High,Bandwidth Anomaly,16.4,True
+1055,2026-04-22 06:07:00,Passenger WiFi,Low,Firmware Mismatch,32.7,True
+1768,2026-04-22 06:11:00,Bridge,Medium,Failed Login,25.0,True
+1799,2026-04-22 07:26:00,Bridge,Medium,Firmware Mismatch,33.0,True
+864,2026-04-22 12:07:00,Engine Room,Critical,Bandwidth Anomaly,17.6,False
+1671,2026-04-22 12:49:00,Crew Quarters,Critical,Unauthorized Access,8.0,True
+1765,2026-04-22 13:53:00,Cargo Hold,Low,Unauthorized Access,0.7,False
+2410,2026-04-22 16:47:00,Passenger WiFi,Low,Malware Signature,52.3,False
+2066,2026-04-22 18:29:00,Cargo Hold,Medium,Firmware Mismatch,8.6,False
+1605,2026-04-22 19:20:00,Passenger WiFi,High,Firmware Mismatch,7.1,False
+2318,2026-04-22 23:47:00,Cargo Hold,Low,Failed Login,27.8,False
+1863,2026-04-23 00:25:00,Engine Room,Low,Malware Signature,70.8,False
+160,2026-04-23 00:56:00,Crew Quarters,Low,Unauthorized Access,0.3,False
+495,2026-04-23 03:27:00,Passenger WiFi,High,Unauthorized Access,1.1,False
+68,2026-04-23 06:49:00,Engine Room,Low,Port Scan,5.7,False
+55,2026-04-23 08:01:00,Crew Quarters,Critical,Failed Login,15.3,True
+2479,2026-04-23 11:05:00,Passenger WiFi,Low,Firmware Mismatch,15.5,False
+768,2026-04-23 11:12:00,Passenger WiFi,Medium,Failed Login,24.2,True
+1000,2026-04-23 11:15:00,Crew Quarters,High,Failed Login,22.3,False
+1551,2026-04-23 13:03:00,Passenger WiFi,Medium,Firmware Mismatch,20.1,True
+311,2026-04-23 13:54:00,Bridge,Low,Firmware Mismatch,0.8,False
+1577,2026-04-23 15:16:00,Engine Room,Medium,Failed Login,17.8,False
+870,2026-04-23 16:26:00,Cargo Hold,Medium,Unauthorized Access,4.3,True
+364,2026-04-23 18:47:00,Passenger WiFi,Low,Port Scan,0.5,False
+845,2026-04-23 21:52:00,Passenger WiFi,Low,Port Scan,9.6,True
+1821,2026-04-23 21:55:00,Engine Room,Medium,Failed Login,13.2,False
+486,2026-04-23 22:32:00,Crew Quarters,Medium,Malware Signature,5.0,False
+1580,2026-04-23 23:06:00,Passenger WiFi,Low,Firmware Mismatch,0.8,True
+1786,2026-04-23 23:32:00,Engine Room,Medium,Failed Login,15.1,False
+1994,2026-04-23 23:43:00,Cargo Hold,Low,Unauthorized Access,23.5,False
+835,2026-04-24 02:05:00,Passenger WiFi,Low,Unauthorized Access,5.2,False
+1962,2026-04-24 02:39:00,Crew Quarters,High,Port Scan,21.6,False
+1849,2026-04-24 03:23:00,Cargo Hold,Medium,Unauthorized Access,16.2,False
+1648,2026-04-24 03:50:00,Cargo Hold,Low,Malware Signature,10.4,False
+431,2026-04-24 04:36:00,Engine Room,Medium,Port Scan,12.0,True
+2105,2026-04-24 04:53:00,Engine Room,High,Unauthorized Access,17.3,False
+653,2026-04-24 06:12:00,Crew Quarters,High,Unauthorized Access,1.7,False
+1058,2026-04-24 07:27:00,Cargo Hold,Medium,Firmware Mismatch,9.4,True
+2055,2026-04-24 07:39:00,Engine Room,Critical,Failed Login,6.5,False
+739,2026-04-24 08:14:00,Cargo Hold,Critical,Failed Login,18.3,True
+1680,2026-04-24 08:29:00,Crew Quarters,Medium,Port Scan,15.0,False
+1674,2026-04-24 10:19:00,Passenger WiFi,High,Bandwidth Anomaly,9.2,False
+310,2026-04-24 14:35:00,Passenger WiFi,Medium,Port Scan,13.9,True
+2409,2026-04-24 14:37:00,Engine Room,Low,Failed Login,1.8,True
+515,2026-04-24 17:30:00,Cargo Hold,Low,Bandwidth Anomaly,13.2,True
+2451,2026-04-24 17:44:00,Cargo Hold,High,Port Scan,2.4,False
+233,2026-04-24 17:56:00,Cargo Hold,High,Port Scan,14.0,True
+1856,2026-04-24 18:36:00,Passenger WiFi,Medium,Unauthorized Access,14.8,False
+2297,2026-04-24 19:35:00,Engine Room,Medium,Unauthorized Access,6.1,False
+540,2026-04-24 20:40:00,Cargo Hold,Medium,Bandwidth Anomaly,4.5,True
+2352,2026-04-24 20:46:00,Passenger WiFi,Low,Port Scan,34.3,False
+484,2026-04-24 23:24:00,Passenger WiFi,Medium,Malware Signature,21.9,False
+2212,2026-04-25 00:56:00,Engine Room,High,Port Scan,26.9,False
+1377,2026-04-25 01:03:00,Crew Quarters,Low,Firmware Mismatch,12.0,False
+261,2026-04-25 01:23:00,Engine Room,Low,Port Scan,11.9,True
+2484,2026-04-25 03:32:00,Engine Room,Critical,Bandwidth Anomaly,15.2,True
+1827,2026-04-25 04:08:00,Passenger WiFi,Critical,Malware Signature,17.5,True
+1341,2026-04-25 04:19:00,Bridge,High,Malware Signature,0.8,False
+766,2026-04-25 07:07:00,Cargo Hold,Medium,Port Scan,6.6,True
+77,2026-04-25 08:11:00,Bridge,Medium,Unauthorized Access,11.0,True
+670,2026-04-25 11:14:00,Bridge,Medium,Malware Signature,3.0,True
+984,2026-04-25 12:39:00,Engine Room,Low,Bandwidth Anomaly,13.2,False
+937,2026-04-25 13:32:00,Bridge,Medium,Port Scan,38.1,True
+1072,2026-04-25 14:37:00,Crew Quarters,Low,Firmware Mismatch,30.9,False
+1193,2026-04-25 17:07:00,Passenger WiFi,Low,Bandwidth Anomaly,0.9,False
+1484,2026-04-25 19:57:00,Bridge,Medium,Failed Login,6.4,True
+707,2026-04-25 20:28:00,Passenger WiFi,Low,Malware Signature,5.6,False
+633,2026-04-25 20:59:00,Cargo Hold,Low,Port Scan,0.8,True
+1516,2026-04-25 22:50:00,Cargo Hold,Medium,Unauthorized Access,3.2,True
+2045,2026-04-26 00:06:00,Crew Quarters,High,Failed Login,70.6,True
+343,2026-04-26 00:27:00,Crew Quarters,High,Firmware Mismatch,7.8,False
+1150,2026-04-26 03:49:00,Cargo Hold,Critical,Unauthorized Access,6.3,True
+1785,2026-04-26 08:07:00,Cargo Hold,Low,Bandwidth Anomaly,5.7,True
+945,2026-04-26 16:07:00,Crew Quarters,Low,Unauthorized Access,0.5,False
+812,2026-04-26 16:20:00,Engine Room,High,Port Scan,35.8,True
+2249,2026-04-26 17:10:00,Bridge,Medium,Firmware Mismatch,9.5,False
+592,2026-04-26 19:38:00,Bridge,Medium,Port Scan,0.2,False
+314,2026-04-26 20:36:00,Bridge,Low,Unauthorized Access,10.4,False
+1025,2026-04-26 21:21:00,Bridge,Medium,Bandwidth Anomaly,14.2,True
+2489,2026-04-26 22:43:00,Passenger WiFi,Low,Failed Login,8.4,False
+2209,2026-04-27 02:43:00,Passenger WiFi,Medium,Unauthorized Access,1.5,False
+2152,2026-04-27 03:43:00,Cargo Hold,Low,Port Scan,23.0,False
+1459,2026-04-27 05:12:00,Bridge,Medium,Unauthorized Access,19.9,True
+981,2026-04-27 07:17:00,Crew Quarters,High,Failed Login,22.2,True
+1957,2026-04-27 08:05:00,Cargo Hold,Medium,Firmware Mismatch,7.9,True
+736,2026-04-27 11:24:00,Engine Room,Low,Port Scan,9.8,False
+1724,2026-04-27 12:07:00,Engine Room,Low,Firmware Mismatch,7.7,False
+1257,2026-04-27 14:12:00,Cargo Hold,Low,Unauthorized Access,2.1,False
+1491,2026-04-27 20:57:00,Crew Quarters,Low,Bandwidth Anomaly,0.6,True
+82,2026-04-27 21:15:00,Bridge,Low,Port Scan,7.8,False
+2036,2026-04-27 22:46:00,Bridge,Medium,Unauthorized Access,60.6,False
+1657,2026-04-27 23:27:00,Engine Room,Medium,Unauthorized Access,29.1,False
+847,2026-04-27 23:49:00,Cargo Hold,High,Malware Signature,0.6,True
+290,2026-04-28 00:20:00,Cargo Hold,Low,Port Scan,3.0,True
+1503,2026-04-28 00:23:00,Cargo Hold,Medium,Failed Login,6.6,False
+1205,2026-04-28 00:45:00,Crew Quarters,Low,Unauthorized Access,2.1,False
+689,2026-04-28 05:58:00,Bridge,Medium,Firmware Mismatch,49.1,False
+2322,2026-04-28 06:44:00,Passenger WiFi,Low,Port Scan,21.3,False
+1968,2026-04-28 07:50:00,Bridge,Medium,Firmware Mismatch,3.3,True
+1679,2026-04-28 08:01:00,Engine Room,Medium,Bandwidth Anomaly,1.1,False
+267,2026-04-28 08:10:00,Cargo Hold,Medium,Unauthorized Access,0.4,False
+2462,2026-04-28 09:49:00,Bridge,High,Port Scan,21.0,True
+1067,2026-04-28 09:54:00,Cargo Hold,High,Unauthorized Access,8.7,False
+1889,2026-04-28 11:30:00,Cargo Hold,Medium,Malware Signature,25.9,False
+1068,2026-04-28 12:39:00,Passenger WiFi,Medium,Firmware Mismatch,21.4,False
+1333,2026-04-28 12:57:00,Cargo Hold,Medium,Failed Login,0.3,False
+2023,2026-04-28 13:10:00,Engine Room,High,Failed Login,19.2,False
+1716,2026-04-28 13:27:00,Engine Room,Low,Port Scan,12.7,False
+257,2026-04-28 15:00:00,Bridge,Medium,Failed Login,28.4,True
+1640,2026-04-28 15:31:00,Crew Quarters,High,Malware Signature,40.5,False
+190,2026-04-28 17:20:00,Crew Quarters,Medium,Unauthorized Access,4.1,False
+2171,2026-04-28 17:40:00,Engine Room,High,Malware Signature,63.9,True
+2330,2026-04-28 18:14:00,Bridge,High,Port Scan,1.5,True
+460,2026-04-28 23:55:00,Crew Quarters,Medium,Firmware Mismatch,8.9,False
+1883,2026-04-29 00:56:00,Passenger WiFi,Medium,Bandwidth Anomaly,13.3,True
+2396,2026-04-29 01:42:00,Crew Quarters,Medium,Port Scan,2.9,True
+528,2026-04-29 02:25:00,Bridge,High,Malware Signature,7.5,False
+948,2026-04-29 04:58:00,Cargo Hold,High,Failed Login,5.0,False
+2033,2026-04-29 07:56:00,Bridge,Low,Bandwidth Anomaly,4.1,True
+1300,2026-04-29 09:28:00,Cargo Hold,Low,Bandwidth Anomaly,36.4,False
+1118,2026-04-29 10:15:00,Passenger WiFi,Critical,Port Scan,61.1,True
+970,2026-04-29 11:35:00,Passenger WiFi,Low,Malware Signature,19.3,False
+1218,2026-04-29 14:57:00,Engine Room,Critical,Bandwidth Anomaly,18.9,True
+2233,2026-04-29 16:16:00,Passenger WiFi,Medium,Malware Signature,14.0,False
+1603,2026-04-29 20:45:00,Engine Room,High,Bandwidth Anomaly,24.6,True
+1120,2026-04-29 21:38:00,Engine Room,Low,Firmware Mismatch,23.1,False
+976,2026-04-29 21:47:00,Cargo Hold,Critical,Port Scan,5.6,False
+692,2026-04-30 00:08:00,Passenger WiFi,Medium,Bandwidth Anomaly,7.4,False
+1275,2026-04-30 00:58:00,Crew Quarters,Low,Bandwidth Anomaly,17.5,True
+2103,2026-04-30 01:28:00,Engine Room,Low,Bandwidth Anomaly,19.7,False
+1307,2026-04-30 01:32:00,Cargo Hold,Low,Bandwidth Anomaly,21.4,True
+924,2026-04-30 02:32:00,Passenger WiFi,Low,Failed Login,15.1,False
+370,2026-04-30 03:23:00,Passenger WiFi,Medium,Port Scan,38.5,False
+2213,2026-04-30 05:16:00,Passenger WiFi,High,Firmware Mismatch,10.1,True
+195,2026-04-30 07:14:00,Cargo Hold,High,Malware Signature,1.5,False
+1860,2026-04-30 11:52:00,Bridge,Critical,Bandwidth Anomaly,19.9,False
+816,2026-04-30 14:15:00,Cargo Hold,Medium,Malware Signature,15.4,False
+194,2026-04-30 15:58:00,Engine Room,Low,Firmware Mismatch,8.2,False
+1184,2026-04-30 18:31:00,Engine Room,Low,Bandwidth Anomaly,3.5,False
+2065,2026-04-30 23:17:00,Bridge,Medium,Failed Login,22.1,False
+635,2026-05-01 03:26:00,Bridge,High,Unauthorized Access,24.7,False
+1428,2026-05-01 04:11:00,Crew Quarters,High,Port Scan,4.8,False
+489,2026-05-01 05:23:00,Cargo Hold,Low,Failed Login,20.4,False
+2408,2026-05-01 05:45:00,Bridge,Critical,Firmware Mismatch,28.0,False
+1607,2026-05-01 08:51:00,Bridge,Low,Failed Login,0.7,False
+1346,2026-05-01 10:06:00,Cargo Hold,High,Bandwidth Anomaly,31.5,True
+652,2026-05-01 12:01:00,Engine Room,Medium,Failed Login,2.0,False
+1815,2026-05-01 12:50:00,Engine Room,High,Unauthorized Access,26.3,True
+2492,2026-05-01 12:55:00,Passenger WiFi,Critical,Failed Login,33.7,False
+338,2026-05-01 13:11:00,Cargo Hold,Low,Port Scan,11.7,False
+617,2026-05-01 13:23:00,Cargo Hold,High,Unauthorized Access,2.9,False
+1243,2026-05-01 13:24:00,Crew Quarters,Low,Firmware Mismatch,27.6,False
+1690,2026-05-01 14:05:00,Passenger WiFi,Low,Failed Login,7.8,True
+694,2026-05-01 18:38:00,Bridge,High,Firmware Mismatch,41.0,True
+654,2026-05-01 19:20:00,Passenger WiFi,Low,Bandwidth Anomaly,17.5,False
+2461,2026-05-01 22:40:00,Cargo Hold,Low,Bandwidth Anomaly,10.3,True
+416,2026-05-02 01:10:00,Passenger WiFi,High,Port Scan,5.0,False
+1803,2026-05-02 03:16:00,Engine Room,Low,Bandwidth Anomaly,3.5,False
+1609,2026-05-02 03:59:00,Bridge,High,Bandwidth Anomaly,38.2,False
+1996,2026-05-02 04:28:00,Bridge,Low,Firmware Mismatch,5.6,False
+914,2026-05-02 05:05:00,Bridge,High,Failed Login,4.8,False
+513,2026-05-02 05:22:00,Bridge,Low,Port Scan,7.9,False
+807,2026-05-02 06:48:00,Crew Quarters,Low,Firmware Mismatch,2.4,False
+1997,2026-05-02 10:51:00,Passenger WiFi,Critical,Unauthorized Access,14.3,False
+315,2026-05-02 13:00:00,Engine Room,Medium,Firmware Mismatch,13.8,False
+2076,2026-05-02 14:22:00,Cargo Hold,High,Malware Signature,1.7,False
+71,2026-05-02 15:00:00,Bridge,Low,Bandwidth Anomaly,32.9,False
+741,2026-05-02 17:57:00,Engine Room,Low,Port Scan,0.1,True
+2359,2026-05-02 17:58:00,Passenger WiFi,Critical,Bandwidth Anomaly,0.3,False
+836,2026-05-02 19:06:00,Cargo Hold,Medium,Port Scan,2.7,False
+2068,2026-05-02 19:15:00,Cargo Hold,Low,Unauthorized Access,9.5,False
+1841,2026-05-02 22:12:00,Cargo Hold,Medium,Unauthorized Access,14.3,False
+2464,2026-05-02 22:17:00,Cargo Hold,Low,Failed Login,31.7,False
+334,2026-05-03 00:25:00,Passenger WiFi,Medium,Port Scan,11.9,True
+494,2026-05-03 00:58:00,Bridge,Critical,Failed Login,44.3,True
+2157,2026-05-03 04:36:00,Passenger WiFi,Low,Port Scan,46.9,True
+967,2026-05-03 05:13:00,Bridge,Low,Firmware Mismatch,16.4,True
+475,2026-05-03 05:59:00,Crew Quarters,Low,Port Scan,11.3,False
+59,2026-05-03 09:24:00,Cargo Hold,Low,Firmware Mismatch,46.5,False
+696,2026-05-03 09:29:00,Engine Room,High,Unauthorized Access,7.4,False
+2312,2026-05-03 11:25:00,Bridge,Medium,Bandwidth Anomaly,15.2,False
+1201,2026-05-03 11:35:00,Engine Room,Medium,Malware Signature,10.7,False
+1084,2026-05-03 12:55:00,Engine Room,Medium,Bandwidth Anomaly,51.6,True
+1309,2026-05-03 13:03:00,Cargo Hold,High,Firmware Mismatch,26.9,False
+776,2026-05-03 13:21:00,Bridge,Critical,Failed Login,21.1,False
+2040,2026-05-03 14:37:00,Passenger WiFi,Low,Malware Signature,30.4,False
+2082,2026-05-03 15:58:00,Bridge,Low,Port Scan,2.7,True
+1094,2026-05-03 16:02:00,Engine Room,Low,Port Scan,32.8,False
+2207,2026-05-03 16:26:00,Engine Room,Medium,Malware Signature,19.7,False
+293,2026-05-03 19:53:00,Bridge,Low,Firmware Mismatch,10.1,True
+2131,2026-05-03 20:52:00,Engine Room,Medium,Port Scan,25.4,False
+2380,2026-05-04 01:27:00,Engine Room,Medium,Unauthorized Access,2.7,False
+1196,2026-05-04 04:06:00,Bridge,Low,Port Scan,23.0,True
+2141,2026-05-04 05:03:00,Crew Quarters,High,Port Scan,3.8,True
+1826,2026-05-04 06:12:00,Passenger WiFi,Low,Port Scan,0.4,False
+1027,2026-05-04 06:24:00,Bridge,High,Firmware Mismatch,2.1,False
+1452,2026-05-04 07:28:00,Bridge,Medium,Port Scan,0.7,False
+853,2026-05-04 08:50:00,Cargo Hold,Medium,Failed Login,17.8,True
+740,2026-05-04 10:34:00,Passenger WiFi,High,Port Scan,0.5,True
+175,2026-05-04 13:20:00,Cargo Hold,High,Failed Login,6.3,True
+922,2026-05-04 13:39:00,Passenger WiFi,Low,Bandwidth Anomaly,5.0,False
+1572,2026-05-04 15:37:00,Bridge,High,Firmware Mismatch,8.6,False
+1466,2026-05-04 16:04:00,Crew Quarters,Critical,Malware Signature,28.2,False
+672,2026-05-04 17:56:00,Bridge,Low,Unauthorized Access,0.8,False
+2303,2026-05-04 19:33:00,Bridge,High,Unauthorized Access,11.7,False
+1531,2026-05-04 19:35:00,Passenger WiFi,Low,Malware Signature,2.9,True
+862,2026-05-04 19:42:00,Engine Room,Low,Bandwidth Anomaly,7.5,False
+1222,2026-05-04 23:14:00,Cargo Hold,Medium,Failed Login,16.0,False
+385,2026-05-05 00:47:00,Passenger WiFi,Medium,Failed Login,35.7,False
+2114,2026-05-05 01:14:00,Engine Room,Medium,Bandwidth Anomaly,4.3,True
+2138,2026-05-05 01:46:00,Bridge,Critical,Firmware Mismatch,2.3,True
+893,2026-05-05 02:51:00,Engine Room,Critical,Firmware Mismatch,15.2,True
+931,2026-05-05 02:57:00,Engine Room,Low,Firmware Mismatch,0.2,False
+628,2026-05-05 03:48:00,Engine Room,Low,Malware Signature,14.2,False
+476,2026-05-05 04:26:00,Passenger WiFi,Medium,Bandwidth Anomaly,16.3,False
+242,2026-05-05 07:07:00,Bridge,High,Unauthorized Access,17.6,False
+2478,2026-05-05 11:40:00,Engine Room,Medium,Failed Login,10.7,False
+2421,2026-05-05 12:04:00,Cargo Hold,Low,Unauthorized Access,8.2,True
+1631,2026-05-05 13:31:00,Engine Room,Critical,Firmware Mismatch,9.5,False
+482,2026-05-05 15:52:00,Cargo Hold,Critical,Bandwidth Anomaly,15.8,False
+697,2026-05-05 17:15:00,Cargo Hold,Low,Unauthorized Access,1.7,True
+1078,2026-05-05 20:18:00,Passenger WiFi,Medium,Port Scan,1.6,True
+1317,2026-05-05 21:43:00,Cargo Hold,Low,Failed Login,61.8,False
+1450,2026-05-06 00:07:00,Crew Quarters,High,Port Scan,8.8,False
+547,2026-05-06 00:18:00,Passenger WiFi,Low,Unauthorized Access,5.3,True
+977,2026-05-06 03:12:00,Passenger WiFi,Medium,Failed Login,5.9,True
+2173,2026-05-06 03:23:00,Engine Room,Low,Port Scan,29.5,True
+389,2026-05-06 03:35:00,Bridge,Medium,Port Scan,6.7,True
+1479,2026-05-06 04:26:00,Passenger WiFi,Medium,Firmware Mismatch,48.9,False
+337,2026-05-06 05:18:00,Bridge,Low,Unauthorized Access,14.6,False
+2377,2026-05-06 05:35:00,Cargo Hold,Medium,Port Scan,9.9,True
+1228,2026-05-06 06:20:00,Bridge,High,Firmware Mismatch,10.8,True
+2136,2026-05-06 07:03:00,Bridge,Medium,Firmware Mismatch,2.7,False
+1165,2026-05-06 08:16:00,Engine Room,Medium,Unauthorized Access,1.1,False
+1406,2026-05-06 08:36:00,Cargo Hold,Low,Port Scan,9.2,True
+1167,2026-05-06 09:10:00,Passenger WiFi,Low,Bandwidth Anomaly,18.8,True
+248,2026-05-06 09:13:00,Bridge,Low,Malware Signature,4.6,False
+2424,2026-05-06 11:21:00,Engine Room,Low,Failed Login,23.6,True
+1224,2026-05-06 12:37:00,Crew Quarters,Low,Unauthorized Access,3.2,False
+1658,2026-05-06 12:46:00,Crew Quarters,Critical,Port Scan,17.1,True
+891,2026-05-06 13:46:00,Engine Room,Low,Bandwidth Anomaly,24.8,False
+231,2026-05-06 16:11:00,Engine Room,Critical,Firmware Mismatch,14.3,False
+1707,2026-05-06 18:13:00,Bridge,Medium,Bandwidth Anomaly,30.2,True
+1416,2026-05-06 18:19:00,Crew Quarters,Critical,Unauthorized Access,16.9,False
+1069,2026-05-06 19:37:00,Bridge,Low,Bandwidth Anomaly,8.2,False
+1304,2026-05-06 20:00:00,Passenger WiFi,High,Malware Signature,46.7,True
+762,2026-05-06 22:29:00,Crew Quarters,Low,Firmware Mismatch,29.4,False
+1256,2026-05-06 23:02:00,Passenger WiFi,Low,Malware Signature,25.1,False
+1281,2026-05-07 02:32:00,Bridge,High,Unauthorized Access,8.8,False
+809,2026-05-07 03:09:00,Bridge,Low,Firmware Mismatch,54.4,True
+1353,2026-05-07 03:57:00,Bridge,High,Firmware Mismatch,2.8,False
+133,2026-05-07 05:52:00,Cargo Hold,Low,Malware Signature,9.0,True
+1610,2026-05-07 07:41:00,Crew Quarters,Low,Port Scan,2.1,False
+1966,2026-05-07 18:10:00,Bridge,Low,Unauthorized Access,49.2,False
+1204,2026-05-07 21:27:00,Bridge,Low,Failed Login,8.3,False
+1270,2026-05-07 22:55:00,Passenger WiFi,High,Failed Login,1.4,False
+2277,2026-05-08 03:01:00,Passenger WiFi,Medium,Port Scan,5.7,True
+1547,2026-05-08 04:10:00,Cargo Hold,Low,Firmware Mismatch,2.8,True
+1180,2026-05-08 06:12:00,Bridge,High,Bandwidth Anomaly,30.3,False
+1508,2026-05-08 07:36:00,Engine Room,Low,Bandwidth Anomaly,9.9,False
+1219,2026-05-08 07:42:00,Passenger WiFi,High,Firmware Mismatch,18.4,True
+1124,2026-05-08 09:49:00,Crew Quarters,Critical,Unauthorized Access,5.9,False
+2042,2026-05-08 09:59:00,Crew Quarters,Medium,Port Scan,0.0,False
+1051,2026-05-08 10:13:00,Cargo Hold,Medium,Bandwidth Anomaly,1.8,True
+217,2026-05-08 12:57:00,Cargo Hold,Medium,Firmware Mismatch,46.5,False
+2345,2026-05-08 13:29:00,Engine Room,Medium,Firmware Mismatch,0.5,False
+1345,2026-05-08 13:55:00,Engine Room,Medium,Unauthorized Access,4.3,False
+814,2026-05-08 14:45:00,Bridge,Medium,Unauthorized Access,9.5,False
+1723,2026-05-08 15:50:00,Passenger WiFi,Medium,Bandwidth Anomaly,12.8,False
+521,2026-05-08 16:04:00,Cargo Hold,Medium,Unauthorized Access,6.7,True
+1371,2026-05-08 16:36:00,Cargo Hold,Low,Failed Login,3.8,False
+18,2026-05-08 16:48:00,Passenger WiFi,Critical,Bandwidth Anomaly,81.5,False
+98,2026-05-08 19:21:00,Engine Room,Low,Unauthorized Access,8.2,True
+1797,2026-05-08 19:36:00,Crew Quarters,Critical,Unauthorized Access,6.5,False
+634,2026-05-09 00:44:00,Crew Quarters,Low,Bandwidth Anomaly,13.9,True
+2090,2026-05-09 02:00:00,Engine Room,Medium,Malware Signature,0.1,False
+1825,2026-05-09 03:37:00,Bridge,Critical,Bandwidth Anomaly,2.1,False
+831,2026-05-09 04:58:00,Cargo Hold,High,Bandwidth Anomaly,1.2,False
+1225,2026-05-09 05:06:00,Crew Quarters,High,Bandwidth Anomaly,19.7,False
+1497,2026-05-09 08:18:00,Passenger WiFi,High,Malware Signature,1.7,False
+302,2026-05-09 08:51:00,Passenger WiFi,Low,Unauthorized Access,4.4,True
+1682,2026-05-09 09:23:00,Bridge,Medium,Failed Login,11.7,True
+1507,2026-05-09 10:34:00,Bridge,Medium,Failed Login,1.9,False
+1744,2026-05-09 10:43:00,Bridge,Critical,Port Scan,12.5,False
+1571,2026-05-09 12:10:00,Cargo Hold,Medium,Bandwidth Anomaly,5.9,False
+303,2026-05-09 14:04:00,Bridge,Low,Port Scan,16.0,True
+557,2026-05-09 14:44:00,Crew Quarters,High,Unauthorized Access,6.7,False
+1255,2026-05-09 14:56:00,Crew Quarters,Low,Bandwidth Anomaly,20.1,False
+174,2026-05-09 15:12:00,Cargo Hold,High,Firmware Mismatch,5.7,False
+390,2026-05-09 15:21:00,Engine Room,Low,Port Scan,29.3,True
+162,2026-05-09 15:35:00,Bridge,High,Port Scan,0.3,True
+1859,2026-05-09 19:40:00,Passenger WiFi,Low,Unauthorized Access,18.3,False
+307,2026-05-10 00:16:00,Bridge,Low,Unauthorized Access,14.6,False
+1541,2026-05-10 01:21:00,Engine Room,Low,Port Scan,2.8,False
+1147,2026-05-10 01:35:00,Crew Quarters,Medium,Unauthorized Access,39.4,False
+863,2026-05-10 03:50:00,Crew Quarters,High,Firmware Mismatch,6.9,False
+1972,2026-05-10 03:50:00,Passenger WiFi,Low,Unauthorized Access,23.2,True
+1391,2026-05-10 05:14:00,Engine Room,Medium,Malware Signature,7.3,False
+1006,2026-05-10 05:17:00,Passenger WiFi,Medium,Port Scan,14.8,False
+1278,2026-05-10 06:11:00,Passenger WiFi,Medium,Bandwidth Anomaly,3.2,False
+493,2026-05-10 06:31:00,Cargo Hold,Critical,Port Scan,39.8,False
+197,2026-05-10 06:34:00,Crew Quarters,High,Unauthorized Access,8.0,True
+944,2026-05-10 08:11:00,Crew Quarters,High,Failed Login,5.3,True
+2379,2026-05-10 08:39:00,Passenger WiFi,Medium,Firmware Mismatch,6.6,True
+2177,2026-05-10 09:20:00,Bridge,Low,Bandwidth Anomaly,1.2,True
+1350,2026-05-10 09:30:00,Bridge,Low,Port Scan,40.6,True
+1654,2026-05-10 13:15:00,Cargo Hold,Medium,Bandwidth Anomaly,40.8,False
+2010,2026-05-10 13:23:00,Crew Quarters,Low,Port Scan,4.1,False
+1705,2026-05-10 14:58:00,Bridge,Low,Malware Signature,27.7,False
+1456,2026-05-10 15:40:00,Passenger WiFi,High,Malware Signature,24.9,False
+2269,2026-05-10 16:00:00,Bridge,Low,Unauthorized Access,0.0,True
+193,2026-05-10 16:57:00,Cargo Hold,Low,Failed Login,4.7,True
+1622,2026-05-10 17:02:00,Bridge,Low,Failed Login,12.9,False
+255,2026-05-10 17:33:00,Bridge,High,Malware Signature,8.8,False
+115,2026-05-10 18:03:00,Bridge,Medium,Bandwidth Anomaly,7.4,False
+2048,2026-05-10 20:13:00,Engine Room,Low,Port Scan,6.1,False
+47,2026-05-10 22:18:00,Engine Room,Low,Port Scan,6.7,False
+1363,2026-05-11 00:56:00,Cargo Hold,Medium,Bandwidth Anomaly,4.8,False
+1246,2026-05-11 01:37:00,Crew Quarters,Low,Firmware Mismatch,5.0,False
+923,2026-05-11 02:32:00,Passenger WiFi,High,Port Scan,8.6,True
+1138,2026-05-11 05:59:00,Crew Quarters,High,Bandwidth Anomaly,21.6,True
+1102,2026-05-11 06:31:00,Bridge,High,Failed Login,0.3,False
+2110,2026-05-11 09:13:00,Cargo Hold,High,Port Scan,23.5,True
+122,2026-05-11 09:15:00,Cargo Hold,Critical,Failed Login,11.0,False
+112,2026-05-11 10:25:00,Crew Quarters,High,Malware Signature,5.1,True
+2420,2026-05-11 10:56:00,Cargo Hold,Low,Failed Login,16.4,True
+2221,2026-05-11 11:42:00,Passenger WiFi,Medium,Unauthorized Access,27.8,False
+1367,2026-05-11 12:22:00,Bridge,High,Firmware Mismatch,4.4,False
+2327,2026-05-11 14:18:00,Engine Room,Low,Failed Login,5.5,False
+241,2026-05-11 14:31:00,Crew Quarters,Low,Malware Signature,2.9,False
+1116,2026-05-11 15:32:00,Cargo Hold,Low,Port Scan,4.4,True
+2407,2026-05-11 15:37:00,Bridge,Medium,Port Scan,24.3,False
+1995,2026-05-11 16:21:00,Engine Room,High,Bandwidth Anomaly,2.2,False
+2307,2026-05-11 18:36:00,Crew Quarters,Medium,Failed Login,63.0,False
+2273,2026-05-11 20:03:00,Passenger WiFi,Low,Malware Signature,22.2,True
+2309,2026-05-11 20:21:00,Cargo Hold,Medium,Bandwidth Anomaly,4.2,False
+247,2026-05-11 21:21:00,Cargo Hold,Medium,Failed Login,72.1,True
+1259,2026-05-11 23:32:00,Crew Quarters,Critical,Bandwidth Anomaly,17.6,False
+2261,2026-05-12 01:11:00,Engine Room,Low,Unauthorized Access,5.7,False
+2016,2026-05-12 02:08:00,Bridge,Medium,Port Scan,10.4,True
+88,2026-05-12 03:23:00,Bridge,Low,Bandwidth Anomaly,1.1,True
+2495,2026-05-12 03:44:00,Crew Quarters,Low,Port Scan,24.9,False
+1511,2026-05-12 07:23:00,Crew Quarters,Medium,Bandwidth Anomaly,0.3,True
+1988,2026-05-12 08:15:00,Engine Room,Low,Firmware Mismatch,27.4,True
+910,2026-05-12 09:53:00,Engine Room,High,Unauthorized Access,8.9,True
+2,2026-05-12 11:42:00,Passenger WiFi,Low,Bandwidth Anomaly,59.5,False
+1293,2026-05-12 11:46:00,Crew Quarters,Low,Unauthorized Access,8.5,False
+1360,2026-05-12 13:23:00,Passenger WiFi,Medium,Port Scan,7.8,False
+111,2026-05-12 13:38:00,Bridge,Low,Unauthorized Access,33.4,False
+902,2026-05-12 13:48:00,Bridge,Low,Malware Signature,10.6,True
+91,2026-05-12 14:44:00,Crew Quarters,Low,Port Scan,10.2,True
+1047,2026-05-12 16:19:00,Cargo Hold,Low,Bandwidth Anomaly,2.9,False
+920,2026-05-12 16:59:00,Cargo Hold,Medium,Port Scan,9.2,False
+1523,2026-05-12 17:40:00,Crew Quarters,High,Port Scan,5.3,False
+2286,2026-05-12 19:50:00,Cargo Hold,Medium,Failed Login,4.7,True
+426,2026-05-12 23:46:00,Engine Room,Medium,Port Scan,25.6,False
+550,2026-05-13 01:28:00,Engine Room,Low,Bandwidth Anomaly,24.1,False
+662,2026-05-13 01:45:00,Engine Room,Low,Unauthorized Access,14.8,True
+264,2026-05-13 04:26:00,Bridge,Medium,Port Scan,48.4,False
+353,2026-05-13 04:59:00,Bridge,Low,Unauthorized Access,4.1,False
+2035,2026-05-13 06:05:00,Passenger WiFi,Low,Port Scan,36.1,False
+1245,2026-05-13 08:13:00,Bridge,Low,Failed Login,14.5,False
+997,2026-05-13 10:05:00,Bridge,Low,Bandwidth Anomaly,3.3,False
+1122,2026-05-13 12:28:00,Bridge,Low,Firmware Mismatch,25.5,False
+2097,2026-05-13 12:34:00,Bridge,Medium,Bandwidth Anomaly,36.0,False
+1921,2026-05-13 14:17:00,Bridge,High,Port Scan,2.0,True
+856,2026-05-13 20:17:00,Cargo Hold,Low,Port Scan,7.8,False
+1807,2026-05-13 20:58:00,Crew Quarters,Low,Port Scan,72.2,False
+2295,2026-05-13 22:15:00,Crew Quarters,Medium,Malware Signature,8.2,False
+2460,2026-05-13 22:49:00,Engine Room,Critical,Port Scan,0.0,False
+2242,2026-05-13 23:43:00,Passenger WiFi,Low,Malware Signature,13.3,False
+84,2026-05-14 00:20:00,Passenger WiFi,High,Port Scan,7.2,False
+1736,2026-05-14 01:33:00,Bridge,Critical,Firmware Mismatch,0.2,False
+136,2026-05-14 04:28:00,Crew Quarters,Medium,Bandwidth Anomaly,22.4,True
+2467,2026-05-14 04:35:00,Bridge,Critical,Firmware Mismatch,1.2,False
+1976,2026-05-14 05:17:00,Crew Quarters,Low,Failed Login,20.2,False
+339,2026-05-14 06:01:00,Passenger WiFi,Low,Port Scan,20.8,False
+1395,2026-05-14 06:36:00,Engine Room,Medium,Bandwidth Anomaly,10.2,False
+1739,2026-05-14 07:56:00,Bridge,Low,Unauthorized Access,7.4,False
+1831,2026-05-14 09:06:00,Crew Quarters,Low,Port Scan,1.3,False
+2422,2026-05-14 10:02:00,Engine Room,Low,Port Scan,50.5,True
+1556,2026-05-14 11:19:00,Passenger WiFi,Low,Unauthorized Access,9.3,False
+2086,2026-05-14 13:51:00,Engine Room,High,Unauthorized Access,13.1,True
+479,2026-05-14 14:16:00,Passenger WiFi,Medium,Bandwidth Anomaly,3.4,False
+2271,2026-05-14 17:23:00,Passenger WiFi,Critical,Unauthorized Access,6.3,False
+1384,2026-05-14 17:47:00,Crew Quarters,Medium,Firmware Mismatch,40.1,True
+1435,2026-05-14 18:46:00,Cargo Hold,Low,Port Scan,8.0,True
+239,2026-05-14 23:00:00,Passenger WiFi,Low,Failed Login,0.8,True
+2094,2026-05-15 01:47:00,Passenger WiFi,Medium,Bandwidth Anomaly,1.8,False
+1496,2026-05-15 03:33:00,Cargo Hold,High,Malware Signature,38.3,False
+1287,2026-05-15 05:45:00,Crew Quarters,Low,Firmware Mismatch,19.9,False
+874,2026-05-15 07:14:00,Cargo Hold,Low,Firmware Mismatch,18.5,False
+63,2026-05-15 07:19:00,Passenger WiFi,Medium,Bandwidth Anomaly,11.1,False
+1252,2026-05-15 09:11:00,Crew Quarters,Medium,Port Scan,3.0,False
+387,2026-05-15 09:37:00,Engine Room,Low,Firmware Mismatch,19.9,False
+2096,2026-05-15 11:12:00,Crew Quarters,Medium,Failed Login,4.4,False
+574,2026-05-15 11:51:00,Crew Quarters,High,Bandwidth Anomaly,2.1,False
+297,2026-05-15 13:39:00,Passenger WiFi,Medium,Bandwidth Anomaly,7.1,True
+1145,2026-05-15 14:01:00,Passenger WiFi,Medium,Malware Signature,26.1,True
+837,2026-05-15 15:31:00,Engine Room,High,Port Scan,7.1,False
+1037,2026-05-15 15:39:00,Engine Room,Low,Unauthorized Access,15.9,False
+2132,2026-05-15 18:28:00,Bridge,Medium,Unauthorized Access,10.2,False
+1685,2026-05-15 19:07:00,Cargo Hold,Low,Firmware Mismatch,28.9,False
+1160,2026-05-15 21:46:00,Passenger WiFi,Medium,Bandwidth Anomaly,24.3,True
+1709,2026-05-15 22:24:00,Engine Room,Low,Bandwidth Anomaly,36.6,False
+1755,2026-05-15 22:48:00,Crew Quarters,Medium,Failed Login,9.9,False
+2351,2026-05-16 02:22:00,Passenger WiFi,High,Failed Login,24.1,True
+1268,2026-05-16 03:14:00,Passenger WiFi,Medium,Firmware Mismatch,6.1,False
+2180,2026-05-16 03:55:00,Crew Quarters,Critical,Unauthorized Access,1.7,False
+81,2026-05-16 06:23:00,Passenger WiFi,Medium,Unauthorized Access,6.7,False
+468,2026-05-16 06:46:00,Crew Quarters,Low,Firmware Mismatch,34.5,False
+2290,2026-05-16 07:42:00,Crew Quarters,High,Unauthorized Access,0.5,True
+1352,2026-05-16 08:31:00,Bridge,Medium,Malware Signature,17.7,False
+439,2026-05-16 08:40:00,Cargo Hold,Low,Firmware Mismatch,39.0,False
+86,2026-05-16 11:10:00,Bridge,Low,Unauthorized Access,2.9,False
+908,2026-05-16 12:23:00,Crew Quarters,Medium,Port Scan,23.8,False
+2376,2026-05-16 13:26:00,Passenger WiFi,Medium,Bandwidth Anomaly,8.0,False
+523,2026-05-16 13:29:00,Cargo Hold,High,Unauthorized Access,7.4,True
+2115,2026-05-16 14:07:00,Engine Room,Critical,Unauthorized Access,83.2,False
+451,2026-05-16 15:23:00,Crew Quarters,High,Malware Signature,2.9,True
+1943,2026-05-16 19:55:00,Passenger WiFi,Medium,Port Scan,20.1,True
+1982,2026-05-16 21:07:00,Cargo Hold,Medium,Bandwidth Anomaly,17.1,True
+564,2026-05-17 00:10:00,Cargo Hold,High,Unauthorized Access,7.8,False
+2176,2026-05-17 00:36:00,Passenger WiFi,Low,Failed Login,7.2,False
+1822,2026-05-17 01:46:00,Cargo Hold,Low,Malware Signature,4.5,True
+2248,2026-05-17 02:12:00,Passenger WiFi,Low,Port Scan,5.2,True
+2228,2026-05-17 02:26:00,Bridge,Medium,Firmware Mismatch,29.8,False
+292,2026-05-17 08:25:00,Bridge,Low,Malware Signature,4.4,False
+1669,2026-05-17 09:03:00,Crew Quarters,Medium,Unauthorized Access,27.9,False
+1729,2026-05-17 09:06:00,Cargo Hold,Low,Bandwidth Anomaly,5.3,False
+1788,2026-05-17 09:23:00,Bridge,Medium,Unauthorized Access,14.9,False
+610,2026-05-17 09:24:00,Bridge,Low,Bandwidth Anomaly,19.4,False
+146,2026-05-17 09:53:00,Cargo Hold,Critical,Failed Login,2.3,True
+1368,2026-05-17 10:35:00,Cargo Hold,Low,Port Scan,32.3,False
+1584,2026-05-17 11:24:00,Engine Room,Low,Failed Login,12.6,False
+2413,2026-05-17 12:44:00,Crew Quarters,Medium,Port Scan,1.0,False
+258,2026-05-17 13:27:00,Passenger WiFi,High,Unauthorized Access,8.8,False
+638,2026-05-17 14:55:00,Passenger WiFi,Low,Failed Login,5.6,True
+1498,2026-05-17 15:02:00,Passenger WiFi,Critical,Port Scan,2.1,False
+890,2026-05-17 15:35:00,Cargo Hold,Low,Firmware Mismatch,0.1,False
+1148,2026-05-17 15:46:00,Cargo Hold,Medium,Firmware Mismatch,44.9,True
+590,2026-05-17 18:36:00,Bridge,High,Malware Signature,9.6,True
+1236,2026-05-17 18:46:00,Passenger WiFi,Low,Firmware Mismatch,2.7,False
+1767,2026-05-17 20:11:00,Cargo Hold,Low,Port Scan,5.2,False
+803,2026-05-17 20:43:00,Cargo Hold,High,Firmware Mismatch,0.1,True
+42,2026-05-17 21:00:00,Bridge,Critical,Firmware Mismatch,10.4,False
+2463,2026-05-17 21:07:00,Crew Quarters,High,Unauthorized Access,26.0,False
+2258,2026-05-17 21:07:00,Bridge,Low,Malware Signature,4.8,True
+2222,2026-05-17 21:08:00,Engine Room,High,Bandwidth Anomaly,6.7,True
+1052,2026-05-17 22:51:00,Passenger WiFi,Low,Port Scan,21.2,False
+420,2026-05-18 00:56:00,Cargo Hold,Medium,Unauthorized Access,32.0,False
+930,2026-05-18 02:18:00,Passenger WiFi,Low,Port Scan,11.1,True
+631,2026-05-18 02:38:00,Passenger WiFi,Low,Port Scan,10.7,False
+2372,2026-05-18 05:59:00,Passenger WiFi,High,Failed Login,9.0,False
+273,2026-05-18 06:19:00,Bridge,Critical,Failed Login,3.2,False
+70,2026-05-18 06:48:00,Cargo Hold,Medium,Port Scan,17.2,False
+1742,2026-05-18 08:58:00,Bridge,Low,Malware Signature,1.5,False
+1049,2026-05-18 09:56:00,Crew Quarters,Medium,Firmware Mismatch,4.4,True
+801,2026-05-18 16:21:00,Crew Quarters,Low,Bandwidth Anomaly,13.5,False
+897,2026-05-18 18:12:00,Bridge,Medium,Failed Login,86.2,False
+1611,2026-05-18 18:15:00,Crew Quarters,Low,Malware Signature,8.9,True
+1271,2026-05-18 18:47:00,Bridge,Medium,Failed Login,8.5,True
+2201,2026-05-18 23:08:00,Crew Quarters,Low,Bandwidth Anomaly,2.7,False
+710,2026-05-19 01:29:00,Bridge,Medium,Firmware Mismatch,29.0,False
+2301,2026-05-19 02:26:00,Cargo Hold,Low,Malware Signature,20.6,True
+1054,2026-05-19 03:26:00,Bridge,High,Port Scan,24.9,False
+1598,2026-05-19 04:45:00,Crew Quarters,Low,Port Scan,19.5,False
+1770,2026-05-19 05:09:00,Cargo Hold,Medium,Firmware Mismatch,24.6,False
+2253,2026-05-19 07:00:00,Bridge,Medium,Unauthorized Access,20.6,False
+1590,2026-05-19 07:24:00,Cargo Hold,High,Bandwidth Anomaly,24.6,False
+1294,2026-05-19 08:50:00,Engine Room,High,Malware Signature,25.5,False
+2384,2026-05-19 11:50:00,Passenger WiFi,High,Bandwidth Anomaly,1.7,False
+58,2026-05-19 13:14:00,Engine Room,Low,Malware Signature,1.5,False
+2187,2026-05-19 13:50:00,Cargo Hold,Low,Bandwidth Anomaly,18.3,False
+1253,2026-05-19 14:24:00,Engine Room,Medium,Firmware Mismatch,13.3,False
+546,2026-05-19 14:36:00,Passenger WiFi,High,Port Scan,7.7,False
+957,2026-05-19 14:41:00,Passenger WiFi,Low,Firmware Mismatch,27.3,True
+1130,2026-05-19 14:56:00,Engine Room,Medium,Firmware Mismatch,33.9,False
+2120,2026-05-19 15:53:00,Cargo Hold,Low,Port Scan,3.5,True
+11,2026-05-19 16:35:00,Cargo Hold,High,Port Scan,16.8,False
+235,2026-05-19 16:47:00,Bridge,Critical,Firmware Mismatch,11.2,False
+1735,2026-05-19 19:58:00,Passenger WiFi,Medium,Firmware Mismatch,30.7,False
