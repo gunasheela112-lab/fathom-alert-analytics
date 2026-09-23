@@ -5,6 +5,18 @@
 ## Objective
 Fathom Alert Analytics is a Python/pandas/matplotlib analysis project for examining simulated maritime security alerts and turning them into measurable security and operational insights. It is the analytical companion to the Fathom NOC project, using a simulated FathomIDS alert dataset modeled around the type of events monitored by the NOC.
 
+
+## Project Screenshots
+
+### Analysis Overview
+![Fathom Alert Analytics Overview](fathom-alert-analytics-overview.jpg)
+
+### Security Analysis
+![Fathom Alert Analytics Security Analysis](fathom-alert-analytics-security-analytics.jpg)
+
+### Temporal Trends
+![Fathom Alert Analytics Trends](fathom-alert-analytics-trends.jpg)
+
 ## Dataset
 - 2,500 synthetic FathomIDS alert records
 - Date range: January 1 to May 19, 2026
