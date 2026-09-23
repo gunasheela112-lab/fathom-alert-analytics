@@ -1,17 +1,23 @@
 # FathomIDS Alert Analytics — Key Insights
 
 ## Dataset Summary
-- Total alerts analyzed: 2500
+- Total alerts analyzed: 2,500
 - Date range: 2026-01-01 to 2026-05-19
+- Overall false-positive rate: 33.6%
+- Average response time: 15.3 minutes
 
-## Key Findings
-- **Passenger WiFi** generated the highest volume of alerts, suggesting it needs the most monitoring attention.
-- Overall false-positive rate: **33.6%**, indicating room for alert-tuning improvements.
-- Average response time across all alerts: **15.3 minutes**.
-- Critical severity alerts should be prioritized for fastest response given limited IT staff availability offline.
+## Findings
+- Passenger WiFi generated the highest alert volume in this synthetic dataset.
+- Port Scan has the highest false-positive rate among alert types (37.4%).
+- Medium-severity alerts have the highest false-positive rate among severity groups (35.3%).
+- Average response time varies by severity, so response performance should be examined alongside severity rather than using only the overall average.
 
-Passenger WiFi likely tops the alert count because it's the most open and least controlled segment of the ship's network — unlike the Bridge or Engine Room, which only authorized crew access, Passenger WiFi is used by hundreds of guests connecting personal devices with unknown security postures. This makes it a natural entry point for scans and failed login attempts, and explains why it also shows one of the higher false-positive rates: more traffic and device diversity means more noisy, borderline alerts for the system to sort through.
+## Interpretation
+Alert volume indicates monitoring demand, not necessarily risk. The analysis therefore compares severity, false positives, response time, and temporal patterns before making operational recommendations.
 
-## Recommendation
-Prioritize Passenger WiFi for additional segmentation/monitoring, and investigate false-positive
-tuning to reduce noise and improve responder trust in the alert system.
+The synthetic dataset is useful for demonstrating an analytical workflow, but the results should not be interpreted as evidence of real maritime incident prevalence or causal relationships.
+
+## Recommendations
+- Investigate high-noise alert types for detection tuning.
+- Compare response performance by severity and zone.
+- Use multiple indicators when prioritizing monitoring attention.
