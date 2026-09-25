@@ -1,5 +1,11 @@
 # Fathom Alert Analytics
 
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Analytics-150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
+![Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gunasheela112-lab/fathom-alert-analytics/blob/main/FATHOM_ANALYSIS.ipynb)
 
 ## Objective
